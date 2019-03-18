@@ -1,0 +1,668 @@
+﻿0 HEAD
+1 SOUR AHN
+2 VERS 2.99e
+2 NAME Ahnenblatt
+2 CORP Dirk Boettcher
+1 DATE 18 MAR 2019
+2 TIME 11:09:47
+1 SUBM @SUBM@
+1 FILE Adams.ged
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 _NAVM 1
+2 _NAVI @I28@
+1 _HOME @I28@
+0 @SUBM@ SUBM
+1 NAME Steffen Häuser
+1 ADDR Südstr. 40
+2 CONT 71522 Backnang
+2 CONT Germany
+0 @I1@ INDI
+1 _UID 6A178BA633514BB8A7A1A9C8374E4237F044
+1 NAME Franziska /Trampota/
+2 SURN Trampota
+2 GIVN Franziska
+1 SEX F
+1 OBJE
+2 FILE F:\Stammbaum\ProjektAdams\FranziskaTrampota1805_Birth.png
+3 FORM png
+2 TITL FranziskaTrampota1805 Birth
+1 BIRT
+2 DATE 15 JAN 1805
+2 PLAC Jamnay
+1 CHAN
+2 DATE 15 MAR 2019
+3 TIME 11:14:53
+1 SOUR Jamnay,Births, Entry for Franziska Trampota,  01/15/1805, Zamrsk 65-1, Page 43
+1 FAMC @F2@
+1 NOTE "Franziska - Johann Trampota, Peasant - Judith of Heinrich Steyskal, Peasant - Rosalia Philipp, Peasant Woman, Josef Steyskal, Unmarried"
+0 @I2@ INDI
+1 _UID E6FFDB15FFED444C8DE36889B58941CCFD4A
+1 NAME Johann /Trampota/
+2 SURN Trampota
+2 GIVN Johann
+1 SEX M
+1 CHAN
+2 DATE 15 MAR 2019
+3 TIME 13:28:59
+1 OCCU Peasant
+1 FAMS @F2@
+1 BIRT
+2 DATE (20. Sept 1767)
+2 PLAC Jamnay
+1 FAMC @F5@
+0 @I3@ INDI
+1 _UID B7EA90B28CF742ADA3DFD8D905728A5FE841
+1 NAME Judith /Steyskal/
+2 SURN Steyskal
+2 GIVN Judith
+1 SEX F
+1 FAMS @F2@
+1 CHAN
+2 DATE 15 MAR 2019
+3 TIME 13:28:48
+1 BIRT
+2 DATE (16. Oct 1775)
+2 PLAC Jamnay
+1 FAMC @F3@
+0 @I4@ INDI
+1 _UID 8D88BC0CA7E348E49A8EC2CC9BE87F186389
+1 NAME Judith /Philipp/
+2 SURN Philipp
+2 GIVN Judith
+1 SEX F
+1 BIRT
+2 DATE (before 1752)
+1 CHAN
+2 DATE 15 MAR 2019
+3 TIME 13:28:29
+1 FAMS @F3@
+1 FAMC @F4@
+0 @I5@ INDI
+1 _UID 722ADF9026C8482789BBBB71B7C06615CAA0
+1 NAME Johann /Trampota/
+2 SURN Trampota
+2 GIVN Johann
+1 SEX M
+1 BIRT
+2 DATE (before 1749)
+1 CHAN
+2 DATE 15 MAR 2019
+3 TIME 11:14:36
+1 FAMS @F5@
+1 OBJE
+2 FILE D:\Downloads\Adams Media\JohannTrampota1766_Ehe.bmp
+3 _ALTPATH ..\Adams Media\
+3 FORM bmp
+2 TITL JohannTrampota1766 Ehe
+1 NOTE "Aus Jamnay - The same year the day 2nd February married the present Joannes son of Paul Trampota
+2 CONT with Dorothea daughter of Wenceslaus Prokopetz, both from the village Jamnay [...] Name of the priest etc. [...] Testes Matthäus Steyskal and Martin Spaczek - Ending forumula about being present three times etc."
+1 SOUR Jamnay,Marriages, Entry for Johann Trampota and Dorothea Prokopecz,  02/02/1766, Zamrsk 64-10, Page 2
+1 FAMC @F8@
+0 @I6@ INDI
+1 _UID 6497B8567DA44F3CA63D7399D3DFA503FE61
+1 NAME Dorothea /Prokopecz/
+2 SURN Prokopecz
+2 GIVN Dorothea
+1 SEX F
+1 FAMS @F5@
+1 BIRT
+2 DATE (06. Sept 1744)
+2 PLAC Jamnay
+1 CHAN
+2 DATE 15 MAR 2019
+3 TIME 13:29:31
+1 FAMC @F10@
+1 OBJE
+2 FILE D:\Downloads\Adams Media\DorotheaProkopecz1744_Birth.bmp
+3 _ALTPATH ..\Adams Media\
+3 FORM bmp
+2 TITL DorotheaProkopecz1744 Birth
+1 NOTE "Jamnay - A1744 (Priestname etc.) - baptized was a child born today from Wenceslaus Prokopetz and Dorothea his wife, the name was Dorothea. Levans Elisabeth Widow of the deceased Georg Kregczy
+2 CONT Testes Wenceslaus Kregczy Weaver in Jamnay. Jablona."
+1 SOUR Jamnay,Birthy, Entry for Dorothea Prokopecz,  09/06/1744, Zamrsk 64-4, Page 249
+0 @I7@ INDI
+1 _UID E894D293D024490F9BAA9AB788ADF9A69738
+1 NAME Heinrich /Steyskal/
+2 SURN Steyskal
+2 GIVN Heinrich
+1 SEX M
+1 FAMS @F3@
+1 BIRT
+2 DATE ABT 1744
+1 CHAN
+2 DATE 15 MAR 2019
+3 TIME 13:28:26
+1 FAMC @F6@
+1 DEAT
+2 DATE 7 APR 1779
+2 PLAC Jamnay
+1 NOTE "Same year 4th June married Heinrich son of Joseph Steyskal with Judith
+2 CONT daughter of the deceased Paul Filipp, both from the village Jamnay,
+2 CONT (details on church in Jablona and priest). Testes Tobias Filipp and
+2 CONT Martin Spaczek. (Details about the marriage being 3x announced)."
+1 SOUR Jablona,Marriages, Entry for Heinrich Steyskal and Judith Philipp,  04/07/1779, Zamrsk 64-10, Page 14
+1 OBJE
+2 FILE D:\Downloads\Ahnenblatt\Adams Media\HeinrichSteyskal1769_Marriage.bmp
+3 _ALTPATH .\Adams Media\
+3 FORM bmp
+2 TITL HeinrichSteyskal1769 Marriage
+0 @I8@ INDI
+1 _UID 7D6C31796A844B3E8AA2AD475EBF359B17A0
+1 NAME Paul /Philipp/
+2 SURN Philipp
+2 GIVN Paul
+1 SEX M
+1 FAMS @F4@
+1 BIRT
+2 DATE (before 1735)
+1 CHAN
+2 DATE 15 MAR 2019
+3 TIME 12:33:11
+0 @I9@ INDI
+1 _UID 2E69DFD917934D8FB500CFE3EEF1F92C4046
+1 NAME Joseph /Steyskal/
+2 SURN Steyskal
+2 GIVN Joseph
+1 SEX M
+1 BIRT
+2 DATE (19. Dec 1716)
+2 PLAC Jamnay
+1 CHAN
+2 DATE 15 MAR 2019
+3 TIME 13:28:04
+1 FAMS @F6@
+1 FAMC @F13@
+1 NOTE There is a Joseph Steyskal who is born 1716 and one who is born 1719. The Joseph Steyskal born 1716
+2 CONT dies in the same house in which his son Heinrich dies later (#128) - his life age at the death record calculates back to 1717, while the calculation of the life age of the other, earlier dying Joseph Steyskal
+2 CONT gives 1719.
+2 CONT 
+2 CONT "Anno Domini 1716 Day 20th Dec. (Details on the priest). A son from village Jamnay born 19th Dec. from Father Matthäus Steyskal Peasant and Mother Susanna in the church of Jablona (details on the Church) by name of Joseph. Levans was Wenceslaus 
+2 CONC Filipp, T Paul Bauchal, Anna Wife of Matthäus Filipp and Catharina Wife of Paul Philipp from Jamnay."
+2 CONT 
+2 CONT "Jamnay - A 1740 - 25th Sept. - No impediments found - Details on the priest - Details on the church in Jablona - Joseph son of Matthäus Steyskal and Anna, daughter of Wenceslaus Morawecz from Jamnay married. Testes Georg Valenta and Catharina d
+2 CONC aughter of Johann Heil."
+1 DEAT
+2 DATE 19 APR 1773
+2 PLAC Jamnay
+1 CHR
+2 DATE 20 DEC 1716
+2 ADDR St.Bartholomäus
+2 PLAC Jablona nad Orlici
+1 SOUR Jamnay,Births, Entry for Joseph Steyskal,  12/19/1716, Zamrsk 64-3, Page 351
+2 CONT Jamnay,Marriages, Entry for Joseph Steyskal and Anna Morawecz,  09/25/1740, Zamrsk 64-9, Page 170
+1 OBJE
+2 FILE D:\Downloads\Ahnenblatt\Adams Media\JosephSteyskal1716_Birth.bmp
+3 _ALTPATH .\Adams Media\
+3 FORM bmp
+2 TITL JosephSteyskal1716 Birth
+1 OBJE
+2 FILE D:\Downloads\Ahnenblatt\Adams Media\JosephSteyskal1740_Marriage.bmp
+3 _ALTPATH .\Adams Media\
+3 FORM bmp
+2 TITL JosephSteyskal1740 Marriage
+0 @I10@ INDI
+1 _UID AD59517B2AB343798627BFF473E6A308CF87
+1 NAME Anna /Morawecz/
+2 SURN Morawecz
+2 GIVN Anna
+1 SEX F
+1 FAMS @F6@
+1 BIRT
+2 DATE (before 1722)
+1 CHAN
+2 DATE 14 MAR 2019
+3 TIME 20:06:02
+1 FAMC @F7@
+0 @I11@ INDI
+1 _UID 3CDDEE768F8D45A7A8178C36DA433350A627
+1 NAME Wenceslaus /Morawecz/
+2 SURN Morawecz
+2 GIVN Wenceslaus
+1 SEX M
+1 FAMS @F7@
+1 BIRT
+2 DATE (before 1705)
+1 CHAN
+2 DATE 14 MAR 2019
+3 TIME 20:06:28
+0 @I12@ INDI
+1 _UID 5EBD95FC3AFC493EBAB7C5C7E8845579A01A
+1 NAME Paul /Trampota/
+2 SURN Trampota
+2 GIVN Paul
+1 SEX M
+1 FAMS @F8@
+1 BIRT
+2 DATE 28 FEB 1719
+2 PLAC Jamnay
+1 CHAN
+2 DATE 15 MAR 2019
+3 TIME 13:29:14
+1 NOTE Please note there is a Paul Trampota from Jamnay and one from Jablona. The one from Jablona dies in Jablona. 
+2 CONT 
+2 CONT "In the year 1719 the day 28th Feb a son of Jamnay was baptized by (name of the priest)
+2 CONT born 28th Feb. from Mathias Trampota peasant and the mother Rosina in the church of Jablona
+2 CONT St.Bartholomäus (etc.), Levans was Peter Czernohaus T Wenceslaus Hrdina, Elisabeth Wife
+2 CONT of Georg Krejczy all from Jamnay CS"
+1 FAMC @F9@
+1 SOUR Jamnay,Birth, Entry for Paul Trampota, 02/28/1719, Zamrsk 64-3, Page 400
+1 OBJE
+2 FILE D:\Downloads\Ahnenblatt\Adams Media\PaulTrampota1719_Geburt.bmp
+3 _ALTPATH .\Adams Media\
+3 FORM bmp
+2 TITL PaulTrampota1719 Geburt
+0 @I13@ INDI
+1 _UID 9B711DDAF38148118B085EA76BDD939EE15D
+1 NAME Mathias /Trampota/
+2 SURN Trampota
+2 GIVN Mathias
+1 SEX M
+1 BIRT
+2 DATE ABT 1697
+1 CHAN
+2 DATE 15 MAR 2019
+3 TIME 13:52:50
+1 FAMS @F9@
+1 DEAT
+2 DATE (09. Dec 1747)
+2 PLAC Jamnay
+0 @I14@ INDI
+1 _UID 183A83B78B4A4F57911FF7B1C67B4BF0DBE1
+1 NAME Rosina /Kozaczek/
+2 SURN Kozaczek
+2 GIVN Rosina
+1 SEX F
+1 FAMS @F9@
+1 BIRT
+2 DATE ABT 1677
+1 CHAN
+2 DATE 15 MAR 2019
+3 TIME 15:06:18
+1 FAMS @F12@
+1 DEAT
+2 DATE 15 AUG 1740
+2 PLAC Jamnay
+1 NOTE She was from Nieder-Hermanitz.
+1 FAMC @F18@
+0 @I15@ INDI
+1 _UID FCB0D9716BB343C988B51C48098617B017E6
+1 NAME Wenceslaus /Prokopecz/
+2 SURN Prokopecz
+2 GIVN Wenceslaus
+1 SEX M
+1 CHAN
+2 DATE 15 MAR 2019
+3 TIME 15:17:17
+1 FAMS @F10@
+1 FAMC @F12@
+1 NOTE Note there was a second Wenceslaus Prokopecz, born ca. 1686 (during the gap in the churchbooks). It is not 100% sure to whom the death record 1782 belongs, but I think very likely to the correct Wenceslaus (for the other the given age would be 1
+2 CONC 1 years wrong, for the correct one only 7 years).
+2 CONT 
+2 CONT "AD1727. Day of 12th Feb. (Formal description of having announced 3x and the name of the priest).
+2 CONT Wenceslaus son of Johann Prokopetz and Dorothea daughter of Wenceslaus Hrdina (Details about the church) married. Present Testes: Jacob Walenta, Veronica, daughter of Jacob Walenta. Elisabeth, wife of Georg Kregczy. (More details on the church)"
+1 SOUR Jablona,Marriage, Entry for Wenceslaus Prokopetz and Dorothea Hrdina,  01/15/1805.1805, Zamrsk 64-9, Page 78
+1 BIRT
+2 DATE 23 APR 1697
+2 PLAC Jamnay
+1 OBJE
+2 FILE D:\Downloads\Ahnenblatt\Adams Media\WenceslausProkopecz1727_Marriage.bmp
+3 _ALTPATH .\Adams Media\
+3 FORM bmp
+2 TITL WenceslausProkopecz1727 Marriage
+0 @I16@ INDI
+1 _UID C43E308A56DB4B408AE95FA08B9D0D5776A0
+1 NAME Dorothea /Hrdina/
+2 SURN Hrdina
+2 GIVN Dorothea
+1 SEX F
+1 FAMS @F10@
+1 CHAN
+2 DATE 15 MAR 2019
+3 TIME 14:02:42
+1 BIRT
+2 DATE 25 NOV 1705
+2 PLAC Jamnay
+1 FAMC @F16@
+0 @I17@ INDI
+1 _UID A4CE5FDCE0034BF886D1EA3588300EEDFC1C
+1 NAME Wenceslaus /Hrdina/
+2 SURN Hrdina
+2 GIVN Wenceslaus
+1 SEX M
+1 CHAN
+2 DATE 15 MAR 2019
+3 TIME 14:30:04
+1 BIRT
+2 DATE ABT 1669
+1 FAMS @F16@
+1 NOTE The age estimation bases only on the assumption that he was in similar age as his wife.
+0 @I18@ INDI
+1 _UID EBF22C22300C4480918FC4D89E9B653EC37E
+1 NAME Johann /Prokopecz/
+2 SURN Prokopecz
+2 GIVN Johann
+1 SEX M
+1 CHAN
+2 DATE 15 MAR 2019
+3 TIME 15:01:39
+1 FAMS @F12@
+1 BIRT
+2 DATE (01. Dec 1669)
+2 PLAC Jamnay
+1 DEAT
+2 PLAC Jamnay
+1 FAMC @F19@
+0 @I19@ INDI
+1 _UID 40DECC32C2ED4BDEB918BF87863F2BA29D11
+1 NAME Matthäus /Steyskal/
+2 SURN Steyskal
+2 GIVN Matthäus
+1 SEX M
+1 CHAN
+2 DATE 15 MAR 2019
+3 TIME 13:27:45
+1 FAMS @F13@
+1 FAMC @F15@
+1 BIRT
+2 DATE (before 1693)
+1 OCCU Peasant
+1 NOTE "23rd Feb. (Details on 3x announcement in Jablona). Matthäus Son of Jan Steyskal
+2 CONT with Susanna daughter of Martin Chladek, from Jamnay.Testes Thomas S??? Jacob
+2 CONT Walenta Cathrzina Daughter of Jakob Kyllar and Dorothea wife of Dominik Schlesinger,
+2 CONT all from Jamnay."
+1 SOUR Jablona,Marriages, Entry for Matthäus Steyskal and Susanna Chladek,  02/23/1710, Zamrsk 64-8, Page 144
+1 OBJE
+2 FILE D:\Downloads\Ahnenblatt\Adams Media\MatthäusSteyskal1710_Marriage.bmp
+3 _ALTPATH .\Adams Media\
+3 FORM bmp
+2 TITL MatthäusSteyskal1710 Marriage
+0 @I20@ INDI
+1 _UID B4314864021B45D5822F821A87F19F3662DD
+1 NAME Susanna /Chladek/
+2 SURN Chladek
+2 GIVN Susanna
+1 SEX F
+1 FAMS @F13@
+1 CHAN
+2 DATE 15 MAR 2019
+3 TIME 15:46:17
+1 BIRT
+2 DATE ABT 1687
+1 DEAT
+2 DATE 14 DEC 1747
+2 PLAC Jamnay
+1 FAMC @F17@
+0 @I21@ INDI
+1 _UID 32E41A21156F48E5AD6C7083AEC0290FB417
+1 NAME Martin /Chladek/
+2 SURN Chladek
+2 GIVN Martin
+1 SEX M
+1 CHAN
+2 DATE 15 MAR 2019
+3 TIME 15:01:48
+1 BIRT
+2 DATE (before 1670)
+1 FAMS @F17@
+1 FAMC @F21@
+0 @I22@ INDI
+1 _UID C24D99266EDA4C3FA117B51FBC64CE7D985B
+1 NAME Jan /Steyskal/
+2 SURN Steyskal
+2 GIVN Jan
+1 SEX M
+1 FAMS @F15@
+1 NOTE Please note that "Jan" is the czech form for "Johann". It is unclear if he was called Jan or Johann in actual life.
+1 CHAN
+2 DATE 15 MAR 2019
+3 TIME 12:59:06
+1 BIRT
+2 DATE (before 1676)
+0 @I23@ INDI
+1 _UID 79AB861797A4486787214C2022D952F804D9
+1 NAME Anna /.../
+2 SURN ...
+2 GIVN Anna
+1 SEX F
+1 FAMS @F16@
+1 BIRT
+2 DATE ABT 1669
+1 CHAN
+2 DATE 15 MAR 2019
+3 TIME 14:28:14
+1 DEAT
+2 DATE 19 FEB 1742
+2 PLAC Jamnay
+0 @I24@ INDI
+1 _UID 0E10048FA3794681AD3A49B86DFABBAF4D7A
+1 NAME Georg /Prokopecz/
+2 SURN Prokopecz
+2 GIVN Georg
+1 SEX M
+1 BIRT
+2 DATE (before 1644)
+1 CHAN
+2 DATE 15 MAR 2019
+3 TIME 15:05:34
+1 FAMS @F19@
+1 OCCU Peasant
+1 NOTE According to the soullist 1651 in this time there were two Georg Prokopecz in Jamnai. One is born ca. 1643 (if assuming the soullist was created around 1657 which up to now seemed a reliable assumption), the other around 1629. There is a dying r
+2 CONC ecord for a Georg Prokopecz without age at 1685. 1703 an Anna Prokopecz dies who is born around 1623. But the wife of the ca. 1629 born Georg is born around 1639. Also it is unknown which of the Georgs was the father of Johann Prokopecz (though 
+2 CONC I suspect the one born 1623, age estimations of very old people at their death records were often wrong).
+2 CONT 
+0 @I25@ INDI
+1 _UID EEEB1B91CC5E463AB57776D452F3A8CC5EEA
+1 NAME Paul /Kozaczek/
+2 SURN Kozaczek
+2 GIVN Paul
+1 SEX M
+1 FAMS @F18@
+1 BIRT
+2 DATE (before 1660)
+1 CHAN
+2 DATE 15 MAR 2019
+3 TIME 15:06:24
+0 @I26@ INDI
+1 _UID 0C753323C30740F5BA1A3FF1A06DFF866CBA
+1 NAME Anna /.../
+2 SURN ...
+2 GIVN Anna
+1 SEX F
+1 FAMS @F19@
+1 BIRT
+2 DATE (before 1651)
+1 CHAN
+2 DATE 15 MAR 2019
+3 TIME 15:02:27
+0 @I27@ INDI
+1 _UID E315C16D0200485C9B6B87075A0DFBBF81FC
+1 NAME Rosina /Schlesinger/
+2 SURN Schlesinger
+2 GIVN Rosina
+1 SEX F
+1 FAMS @F17@
+1 BIRT
+2 DATE 29 SEP 1670
+2 PLAC Adlerdörfel
+1 CHAN
+2 DATE 15 MAR 2019
+3 TIME 15:49:49
+1 FAMC @F23@
+0 @I28@ INDI
+1 _UID 5B32D39AD5C1447DB0DC7E7DA28C84069071
+1 NAME Dominik /Schlesinger/
+2 SURN Schlesinger
+2 GIVN Dominik
+1 SEX M
+1 BIRT
+2 DATE (before 1647)
+1 OCCU Hereditary Village Judge
+1 CHAN
+2 DATE 15 MAR 2019
+3 TIME 15:52:22
+1 FAMC @F24@
+1 FAMS @F23@
+0 @I29@ INDI
+1 _UID 1B6BBB868FC147B199F7B71C14A81F5AA73A
+1 NAME Johann /Chladek/
+2 SURN Chladek
+2 GIVN Johann
+1 SEX M
+1 FAMS @F21@
+1 BIRT
+2 DATE (before 1651)
+1 CHAN
+2 DATE 15 MAR 2019
+3 TIME 15:47:35
+0 @I30@ INDI
+1 _UID BA7385024955419FB153AC459F277B81E987
+1 NAME Georg /Schlesinger/
+2 SURN Schlesinger
+2 GIVN Georg
+1 SEX M
+1 OCCU Hereditary Village Judge
+1 CHAN
+2 DATE 15 MAR 2019
+3 TIME 15:53:41
+1 BIRT
+2 DATE ABT 1620
+1 DEAT
+2 DATE 9 APR 1717
+2 PLAC Adlerdörfel
+1 FAMS @F24@
+0 @I31@ INDI
+1 _UID 10B4F45AAD1D43CAB2C75938CB85C0DBDECE
+1 NAME Rosina /Rösner/
+2 SURN Rösner
+2 GIVN Rosina
+1 SEX F
+1 FAMS @F23@
+1 CHAN
+2 DATE 15 MAR 2019
+3 TIME 15:52:31
+1 FAMC @F20@
+1 BIRT
+2 DATE (before 1647)
+0 @I32@ INDI
+1 _UID 52637AF0811C4E76B56B790A87A64C5DF9DB
+1 NAME Caspar /Rösner/
+2 SURN Rösner
+2 GIVN Caspar
+1 SEX M
+1 FAMS @F20@
+1 CHAN
+2 DATE 15 MAR 2019
+3 TIME 15:52:37
+1 BIRT
+2 DATE (before 1629)
+0 @I33@ INDI
+1 _UID 393D6EB514734F8BBF9329D51ED072792393
+1 NAME Anna Maria /.../
+2 SURN ...
+2 GIVN Anna Maria
+1 SEX F
+1 FAMS @F24@
+1 BIRT
+2 DATE ABT 1623
+1 NOTE The Age estimation bases on the Soullist 1651, using the common assumption that the soullist was actually collected in 1656-1657.
+1 CHAN
+2 DATE 15 MAR 2019
+3 TIME 15:54:47
+0 @F10@ FAM
+1 HUSB @I15@
+1 WIFE @I16@
+1 CHIL @I6@
+1 MARR
+2 DATE 12 FEB 1727
+2 PLAC Jablona nad Orlici
+0 @F12@ FAM
+1 HUSB @I18@
+1 WIFE @I14@
+1 CHIL @I15@
+0 @F13@ FAM
+1 HUSB @I19@
+1 WIFE @I20@
+1 CHIL @I9@
+1 MARR
+2 DATE 23 FEB 1710
+2 PLAC Jablona nad Orlici
+0 @F15@ FAM
+1 HUSB @I22@
+1 CHIL @I19@
+0 @F16@ FAM
+1 HUSB @I17@
+1 WIFE @I23@
+1 CHIL @I16@
+0 @F17@ FAM
+1 HUSB @I21@
+1 WIFE @I27@
+1 CHIL @I20@
+0 @F18@ FAM
+1 HUSB @I25@
+1 CHIL @I14@
+0 @F19@ FAM
+1 HUSB @I24@
+1 WIFE @I26@
+1 CHIL @I18@
+0 @F2@ FAM
+1 HUSB @I2@
+1 WIFE @I3@
+1 CHIL @I1@
+1 MARR
+2 DATE 20 NOV 1796
+2 PLAC Jablona nad Orlici
+0 @F20@ FAM
+1 HUSB @I32@
+1 CHIL @I31@
+0 @F21@ FAM
+1 HUSB @I29@
+1 CHIL @I21@
+0 @F23@ FAM
+1 HUSB @I28@
+1 WIFE @I31@
+1 CHIL @I27@
+1 MARR
+2 DATE 30 NOV 1664
+2 PLAC Adlerdörfel
+0 @F24@ FAM
+1 HUSB @I30@
+1 WIFE @I33@
+1 CHIL @I28@
+0 @F3@ FAM
+1 HUSB @I7@
+1 WIFE @I4@
+1 CHIL @I3@
+1 MARR
+2 DATE (04. June 1769)
+2 PLAC Jablona nad Orlici
+0 @F4@ FAM
+1 HUSB @I8@
+1 CHIL @I4@
+0 @F5@ FAM
+1 HUSB @I5@
+1 WIFE @I6@
+1 CHIL @I2@
+1 MARR
+2 DATE 2 FEB 1766
+2 PLAC Jablona nad Orlici
+0 @F6@ FAM
+1 HUSB @I9@
+1 WIFE @I10@
+1 CHIL @I7@
+1 MARR
+2 DATE (25. Sept. 1740)
+2 PLAC Jablona nad Orlici
+0 @F7@ FAM
+1 HUSB @I11@
+1 CHIL @I10@
+0 @F8@ FAM
+1 HUSB @I12@
+1 CHIL @I5@
+0 @F9@ FAM
+1 HUSB @I13@
+1 WIFE @I14@
+1 CHIL @I12@
+0 TRLR
