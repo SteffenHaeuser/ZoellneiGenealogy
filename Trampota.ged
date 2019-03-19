@@ -4,7 +4,7 @@
 2 NAME Ahnenblatt
 2 CORP Dirk Boettcher
 1 DATE 19 MAR 2019
-2 TIME 16:16:15
+2 TIME 16:47:19
 1 SUBM @SUBM@
 1 FILE Trampota.ged
 1 GEDC
@@ -390,7 +390,7 @@
 1 SEX M
 1 CHAN
 2 DATE 19 MAR 2019
-3 TIME 16:15:56
+3 TIME 16:46:48
 1 FAMS @F12@
 1 BIRT
 2 DATE (01. Dec 1669)
@@ -398,7 +398,11 @@
 1 FAMC @F19@
 1 NOTE "Same Day Baptized and Born Son Jan(Johann) of Georg Prokopecz from Jamnay. His wife Anna.
 2 CONT Waczlaw Czerwenka the Younger. Neighbour from Jablona. Jacob Kreyczi (this name means "Tailor" on english). Marina Wife of ??? Jamnay."
+2 CONT "The 2nd Februrary.(The first half of the entry is of a different marriage, we have here two marriages in one entry). Johannes of the deceased Georg Prokopecz remaining son from Jamnay. With maiden Rosina legitimate daughter of Paul Kozaczek leg
+2 CONC itimate daughter of lower Hermanitz. Nothing has been noticed why they couldn't marry."
+2 CONT (Note the two marriages were in Weipersdorf, but the groom was from Jamnay).
 1 SOUR Jamnay, Births, Entry for Johann Prokopecz, 12/01/1669, Zamrsk 64-2, Page 77
+2 CONT Weipersdorf, Marriages, Entry for Johann Prokopecz and Rosina Kozaczek, 02/02/1695, Zamrsk 64-8, Page 66
 0 @I19@ INDI
 1 _UID 40DECC32C2ED4BDEB918BF87863F2BA29D11
 1 NAME Matthäus /Steyskal/
@@ -947,6 +951,9 @@
 1 HUSB @I18@
 1 WIFE @I14@
 1 CHIL @I15@
+1 MARR
+2 DATE 2 FEB 1695
+2 PLAC Weipersdorf
 0 @F13@ FAM
 1 HUSB @I19@
 1 WIFE @I20@
