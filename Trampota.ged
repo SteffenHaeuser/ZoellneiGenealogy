@@ -4,7 +4,7 @@
 2 NAME Ahnenblatt
 2 CORP Dirk Boettcher
 1 DATE 19 MAR 2019
-2 TIME 17:58:01
+2 TIME 18:10:20
 1 SUBM @SUBM@
 1 FILE Trampota.ged
 1 GEDC
@@ -12,8 +12,8 @@
 2 FORM LINEAGE-LINKED
 1 CHAR UTF-8
 1 _NAVM 1
-2 _NAVI @I21@
-1 _HOME @I21@
+2 _NAVI @I28@
+1 _HOME @I28@
 0 @SUBM@ SUBM
 1 NAME Steffen Häuser
 1 ADDR Südstr. 40
@@ -451,12 +451,11 @@
 1 SEX M
 1 CHAN
 2 DATE 19 MAR 2019
-3 TIME 17:57:54
+3 TIME 18:09:34
 1 BIRT
 2 DATE 12 NOV 1663
 2 PLAC Jamnay
 1 FAMS @F17@
-1 FAMC @F21@
 1 NOTE "Same day born a son Martin of Jan(Johann) Chladek and his wife Anna. Testes Georg Kowarz, Susanna Wife of Adam B??? of Jamnay."
 2 CONT 
 2 CONT "13th same the honest young man Martin of Joannes Chladek who was hereditary judge of the village Jamnay legitimate son married the honest maiden Rosina, of Dominik Schlesinger, currently nominated judge of the village Jamnay, daughter. (Data on
@@ -466,6 +465,7 @@
 2 CONC Schlesinger whose second wife later appears as Testes at the marriage of Susanna Chladek (this wife is his second wife whom Dominik marries in 1701 as a widower).
 1 SOUR Jamnay,Births, Entry for Martin Chladek,  11/12/1663, Zamrsk 64-2, Page 11
 2 CONT Jamnay,Marriages, Entry for Martin Chladek and Rosina Schlesinger, 09/13/1687, Zamrsk 64-8, Page 27
+1 FAMC @F37@
 0 @I22@ INDI
 1 _UID C24D99266EDA4C3FA117B51FBC64CE7D985B
 1 NAME Jan /Steyskal/
@@ -566,24 +566,31 @@
 1 SEX M
 1 BIRT
 2 DATE (before 1647)
-1 OCCU Hereditary Village Judge of Jamnay
+1 OCCU Hereditary Village Judge
 1 CHAN
 2 DATE 19 MAR 2019
-3 TIME 17:42:27
+3 TIME 18:10:14
 1 FAMC @F24@
 1 FAMS @F23@
+1 OBJE
+2 FILE D:\Downloads\Ahnenblatt\Trampota Media\DominikSchlesinger1664_Marriage.bmp
+3 _ALTPATH .\Trampota Media\
+3 FORM bmp
+2 TITL DominikSchlesinger1664 Marriage
+1 NOTE "30. Same Dominik Son of Georg Schlesinger and Rosina Rösner(???). From Worlitschka. Side notice "Judge of Worlitschka."
+1 SOUR Jamnay,Marriages, Entry for Dominik Schlesinger and Rosina Rösner, 11/30/1664, Zamrsk 64-7, Page 7
 0 @I29@ INDI
 1 _UID 1B6BBB868FC147B199F7B71C14A81F5AA73A
 1 NAME Johann /Chladek/
 2 SURN Chladek
 2 GIVN Johann
 1 SEX M
-1 FAMS @F21@
 1 BIRT
-2 DATE (before 1651)
+2 DATE (before 1645)
 1 CHAN
-2 DATE 15 MAR 2019
-3 TIME 15:47:35
+2 DATE 19 MAR 2019
+3 TIME 18:02:49
+1 FAMS @F37@
 0 @I30@ INDI
 1 _UID BA7385024955419FB153AC459F277B81E987
 1 NAME Georg /Schlesinger/
@@ -592,14 +599,19 @@
 1 SEX M
 1 OCCU Hereditary Village Judge
 1 CHAN
-2 DATE 15 MAR 2019
-3 TIME 15:53:41
+2 DATE 19 MAR 2019
+3 TIME 18:05:36
 1 BIRT
 2 DATE ABT 1620
 1 DEAT
 2 DATE 9 APR 1717
 2 PLAC Adlerdörfel
 1 FAMS @F24@
+1 OBJE
+2 FILE D:\Downloads\Ahnenblatt\Trampota Media\Chrudimsko_cele_H_zamceno.pdf
+3 _ALTPATH .\Trampota Media\
+3 FORM pdf
+2 TITL Chrudimsko cele H zamceno
 0 @I31@ INDI
 1 _UID 10B4F45AAD1D43CAB2C75938CB85C0DBDECE
 1 NAME Rosina /Rösner/
@@ -959,6 +971,18 @@
 3 TIME 13:35:31
 1 BIRT
 2 DATE ABT 1697
+0 @I57@ INDI
+1 _UID 40DDFEA46A6744B18F70DCDACB56AD0E16F9
+1 NAME Anna /.../
+2 SURN ...
+2 GIVN Anna
+1 SEX F
+1 FAMS @F37@
+1 BIRT
+2 DATE (before 1646)
+1 CHAN
+2 DATE 19 MAR 2019
+3 TIME 18:05:11
 0 @F10@ FAM
 1 HUSB @I15@
 1 WIFE @I16@
@@ -1011,9 +1035,6 @@
 0 @F20@ FAM
 1 HUSB @I32@
 1 CHIL @I31@
-0 @F21@ FAM
-1 HUSB @I29@
-1 CHIL @I21@
 0 @F22@ FAM
 1 WIFE @I1@
 1 HUSB @I34@
@@ -1101,6 +1122,10 @@
 1 HUSB @I52@
 1 WIFE @I55@
 1 CHIL @I51@
+0 @F37@ FAM
+1 HUSB @I29@
+1 WIFE @I57@
+1 CHIL @I21@
 0 @F38@ FAM
 1 HUSB @I13@
 1 WIFE @I56@
