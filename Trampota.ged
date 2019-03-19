@@ -4,7 +4,7 @@
 2 NAME Ahnenblatt
 2 CORP Dirk Boettcher
 1 DATE 19 MAR 2019
-2 TIME 15:59:46
+2 TIME 16:16:15
 1 SUBM @SUBM@
 1 FILE Trampota.ged
 1 GEDC
@@ -322,7 +322,7 @@
 1 SEX M
 1 CHAN
 2 DATE 19 MAR 2019
-3 TIME 15:58:34
+3 TIME 16:15:22
 1 FAMS @F10@
 1 FAMC @F12@
 1 NOTE Note there was a second Wenceslaus Prokopecz, born ca. 1686 (during the gap in the churchbooks). It is not 100% sure to whom the death record 1782 belongs, but I think very likely to the correct Wenceslaus (for the other the given age would be 1
@@ -389,15 +389,16 @@
 2 GIVN Johann
 1 SEX M
 1 CHAN
-2 DATE 15 MAR 2019
-3 TIME 15:01:39
+2 DATE 19 MAR 2019
+3 TIME 16:15:56
 1 FAMS @F12@
 1 BIRT
 2 DATE (01. Dec 1669)
 2 PLAC Jamnay
-1 DEAT
-2 PLAC Jamnay
 1 FAMC @F19@
+1 NOTE "Same Day Baptized and Born Son Jan(Johann) of Georg Prokopecz from Jamnay. His wife Anna.
+2 CONT Waczlaw Czerwenka the Younger. Neighbour from Jablona. Jacob Kreyczi (this name means "Tailor" on english). Marina Wife of ??? Jamnay."
+1 SOUR Jamnay, Births, Entry for Johann Prokopecz, 12/01/1669, Zamrsk 64-2, Page 77
 0 @I19@ INDI
 1 _UID 40DECC32C2ED4BDEB918BF87863F2BA29D11
 1 NAME Matthäus /Steyskal/
