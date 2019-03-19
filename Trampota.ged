@@ -4,7 +4,7 @@
 2 NAME Ahnenblatt
 2 CORP Dirk Boettcher
 1 DATE 19 MAR 2019
-2 TIME 11:29:39
+2 TIME 13:49:37
 1 SUBM @SUBM@
 1 FILE Trampota.ged
 1 GEDC
@@ -12,8 +12,8 @@
 2 FORM LINEAGE-LINKED
 1 CHAR UTF-8
 1 _NAVM 1
-2 _NAVI @I44@
-1 _HOME @I44@
+2 _NAVI @I15@
+1 _HOME @I15@
 0 @SUBM@ SUBM
 1 NAME Steffen Häuser
 1 ADDR Südstr. 40
@@ -33,8 +33,8 @@
 2 DATE 15 JAN 1805
 2 PLAC Jamnay
 1 CHAN
-2 DATE 18 MAR 2019
-3 TIME 17:07:24
+2 DATE 19 MAR 2019
+3 TIME 13:22:34
 1 SOUR Jamnay,Births, Entry for Franziska Trampota,  01/15/1805, Zamrsk 65-1, Page 43
 1 FAMC @F2@
 1 NOTE "Franziska - Johann Trampota, Peasant - Judith of Heinrich Steyskal, Peasant - Rosalia Philipp, Peasant Woman, Josef Steyskal, Unmarried"
@@ -46,8 +46,8 @@
 2 GIVN Johann
 1 SEX M
 1 CHAN
-2 DATE 18 MAR 2019
-3 TIME 17:10:03
+2 DATE 19 MAR 2019
+3 TIME 13:30:10
 1 OCCU Peasant
 1 FAMS @F2@
 1 BIRT
@@ -59,6 +59,19 @@
 3 _ALTPATH .\Trampota Media\
 3 FORM jpg
 2 TITL JohannTrampota1767 Birth
+1 NOTE "From Jamnay: Same year day of 21st September (Details about the Church)(Details about the Priest)
+2 CONT Joannes legitimate Son of Joes Trampota and his wife Dorothea are parents.
+2 CONT Levans was Joes Prokopecz, Testes Anna wife of Spaczek.
+2 CONT From Jamnay."
+2 CONT 
+2 CONT "20th - #90 - Johann Trampota - 28 - Judith Steyskal - 20 - Johann Ste??? Peasant and Johann Bauchal"
+1 SOUR Jamnay,Births, Entry for Johann Trampota,  09/20/1767, Zamrsk 64-5, Page TBD
+2 CONT Jamnay,Marriages, Entry for Johann Trampota and Judith Steyskal, 11/20/1796, Zamrsk TBD, Page TBD
+1 OBJE
+2 FILE .\Trampota Media\JohannTrampota1796_Marriage(2).jpg
+3 _ALTPATH Trampota Media\
+3 FORM jpg
+2 TITL JohannTrampota1796 Marriage(2)
 0 @I3@ INDI
 1 _UID B7EA90B28CF742ADA3DFD8D905728A5FE841
 1 NAME Judith /Steyskal/
@@ -67,12 +80,19 @@
 1 SEX F
 1 FAMS @F2@
 1 CHAN
-2 DATE 15 MAR 2019
-3 TIME 13:28:48
+2 DATE 19 MAR 2019
+3 TIME 13:31:07
 1 BIRT
 2 DATE (16. Oct 1775)
 2 PLAC Jamnay
 1 FAMC @F3@
+1 OBJE
+2 FILE .\Trampota Media\JudithSteyskal1775_Birth.jpg
+3 _ALTPATH Trampota Media\
+3 FORM jpg
+2 TITL JudithSteyskal1775 Birth
+1 NOTE "17th - Judith born the day before - Steyskal Heinrich Peastant from Jamnay, Judith his wife, rulership of Landskroun - L: Anna, Wife of Wenceslaus Filipp Testes: Joseph Philipp, both of Jamnay - Catholic - Jamnay - 128"
+1 SOUR Jamnay,Births, Entry for Johann Trampota,  10/16/1775, Zamrsk 64-5, Page TBD
 0 @I4@ INDI
 1 _UID 8D88BC0CA7E348E49A8EC2CC9BE87F186389
 1 NAME Judith /Philipp/
@@ -95,8 +115,8 @@
 1 BIRT
 2 DATE (before 1749)
 1 CHAN
-2 DATE 15 MAR 2019
-3 TIME 11:14:36
+2 DATE 19 MAR 2019
+3 TIME 13:36:18
 1 FAMS @F5@
 1 OBJE
 2 FILE D:\Downloads\Adams Media\JohannTrampota1766_Ehe.bmp
@@ -118,8 +138,8 @@
 2 DATE (06. Sept 1744)
 2 PLAC Jamnay
 1 CHAN
-2 DATE 15 MAR 2019
-3 TIME 13:29:31
+2 DATE 19 MAR 2019
+3 TIME 13:31:30
 1 FAMC @F10@
 1 OBJE
 2 FILE D:\Downloads\Adams Media\DorotheaProkopecz1744_Birth.bmp
@@ -139,8 +159,8 @@
 1 BIRT
 2 DATE ABT 1744
 1 CHAN
-2 DATE 15 MAR 2019
-3 TIME 13:28:26
+2 DATE 19 MAR 2019
+3 TIME 13:30:52
 1 FAMC @F6@
 1 DEAT
 2 DATE 7 APR 1779
@@ -245,21 +265,21 @@
 2 DATE 28 FEB 1719
 2 PLAC Jamnay
 1 CHAN
-2 DATE 15 MAR 2019
-3 TIME 13:29:14
+2 DATE 19 MAR 2019
+3 TIME 13:36:02
 1 NOTE Please note there is a Paul Trampota from Jamnay and one from Jablona. The one from Jablona dies in Jablona. 
 2 CONT 
 2 CONT "In the year 1719 the day 28th Feb a son of Jamnay was baptized by (name of the priest)
 2 CONT born 28th Feb. from Mathias Trampota peasant and the mother Rosina in the church of Jablona
 2 CONT St.Bartholomäus (etc.), Levans was Peter Czernohaus T Wenceslaus Hrdina, Elisabeth Wife
 2 CONT of Georg Krejczy all from Jamnay CS"
-1 FAMC @F9@
 1 SOUR Jamnay,Birth, Entry for Paul Trampota, 02/28/1719, Zamrsk 64-3, Page 400
 1 OBJE
 2 FILE D:\Downloads\Ahnenblatt\Adams Media\PaulTrampota1719_Geburt.bmp
 3 _ALTPATH .\Adams Media\
 3 FORM bmp
 2 TITL PaulTrampota1719 Geburt
+1 FAMC @F38@
 0 @I13@ INDI
 1 _UID 9B711DDAF38148118B085EA76BDD939EE15D
 1 NAME Mathias /Trampota/
@@ -269,12 +289,13 @@
 1 BIRT
 2 DATE ABT 1697
 1 CHAN
-2 DATE 15 MAR 2019
-3 TIME 13:52:50
+2 DATE 19 MAR 2019
+3 TIME 13:35:23
 1 FAMS @F9@
 1 DEAT
 2 DATE (09. Dec 1747)
 2 PLAC Jamnay
+1 FAMS @F38@
 0 @I14@ INDI
 1 _UID 183A83B78B4A4F57911FF7B1C67B4BF0DBE1
 1 NAME Rosina /Kozaczek/
@@ -300,16 +321,19 @@
 2 GIVN Wenceslaus
 1 SEX M
 1 CHAN
-2 DATE 15 MAR 2019
-3 TIME 15:17:17
+2 DATE 19 MAR 2019
+3 TIME 13:49:24
 1 FAMS @F10@
 1 FAMC @F12@
 1 NOTE Note there was a second Wenceslaus Prokopecz, born ca. 1686 (during the gap in the churchbooks). It is not 100% sure to whom the death record 1782 belongs, but I think very likely to the correct Wenceslaus (for the other the given age would be 1
 2 CONC 1 years wrong, for the correct one only 7 years).
 2 CONT 
+2 CONT "23rd same (Data on Church and priest) Born is Waczlaw Son of Johann Prokopecz and his wife from Jamnay. Levans: Martin Chladek from Jamnay. ??? Martin Behaunek, Anna Wife of Dominik Schlesinger ??? From Jamnay."
+2 CONT 
 2 CONT "AD1727. Day of 12th Feb. (Formal description of having announced 3x and the name of the priest).
 2 CONT Wenceslaus son of Johann Prokopetz and Dorothea daughter of Wenceslaus Hrdina (Details about the church) married. Present Testes: Jacob Walenta, Veronica, daughter of Jacob Walenta. Elisabeth, wife of Georg Kregczy. (More details on the church)"
-1 SOUR Jablona,Marriage, Entry for Wenceslaus Prokopetz and Dorothea Hrdina,  01/15/1805.1805, Zamrsk 64-9, Page 78
+1 SOUR Jamnay, Births, Entry for Wenceslaus Prokopecz, 04/23/1697, Zamrsk 64-3, Page 46
+2 CONT Jablona,Marriage, Entry for Wenceslaus Prokopetz and Dorothea Hrdina,  01/15/1805, Zamrsk 64-9, Page 78
 1 BIRT
 2 DATE 23 APR 1697
 2 PLAC Jamnay
@@ -318,6 +342,11 @@
 3 _ALTPATH .\Adams Media\
 3 FORM bmp
 2 TITL WenceslausProkopecz1727 Marriage
+1 OBJE
+2 FILE .\Trampota Media\WenceslausProkopecz1697_Birth.jpg.bmp
+3 _ALTPATH Trampota Media\
+3 FORM bmp
+2 TITL WenceslausProkopecz1697 Birth.jpg
 0 @I16@ INDI
 1 _UID C43E308A56DB4B408AE95FA08B9D0D5776A0
 1 NAME Dorothea /Hrdina/
@@ -713,8 +742,8 @@
 2 DATE 2 MAY 1825
 2 PLAC Zöllnei
 1 CHAN
-2 DATE 18 MAR 2019
-3 TIME 15:52:50
+2 DATE 19 MAR 2019
+3 TIME 11:36:59
 1 FAMS @F30@
 0 @I44@ INDI
 1 _UID 73343B0506FB4D19AB478EE0FCFD61000851
@@ -724,20 +753,30 @@
 1 SEX M
 1 FAMS @F30@
 1 CHAN
-2 DATE 18 MAR 2019
-3 TIME 15:55:02
+2 DATE 19 MAR 2019
+3 TIME 13:11:55
 1 FAMC @F31@
+1 BIRT
+2 DATE 1 JUL 1816
+2 PLAC Zöllnei
+1 DEAT
+2 DATE 14 MAR 1875
+2 PLAC Zöllnei
 0 @I45@ INDI
 1 _UID 50BC9049629346F0ABB6BA8B0EF3C7B12F63
-1 NAME Joseph /Wanschura/
+1 NAME Joseph Kilian /Wanschura/
 2 SURN Wanschura
-2 GIVN Joseph
+2 GIVN Joseph Kilian
 1 SEX M
 1 CHAN
-2 DATE 18 MAR 2019
-3 TIME 16:01:57
+2 DATE 19 MAR 2019
+3 TIME 13:10:35
 1 FAMS @F31@
 1 OCCU Bauer
+1 BIRT
+2 DATE 3 APR 1767
+2 PLAC Zöllnei
+1 FAMC @F34@
 0 @I46@ INDI
 1 _UID C8F5CCF8374C4296B821EC07E78AA2A863C5
 1 NAME Anna Maria /Faltus/
@@ -746,9 +785,11 @@
 1 SEX F
 1 FAMS @F31@
 1 CHAN
-2 DATE 18 MAR 2019
-3 TIME 15:55:35
+2 DATE 19 MAR 2019
+3 TIME 11:37:52
 1 FAMC @F32@
+1 BIRT
+2 DATE BEF 1774
 0 @I47@ INDI
 1 _UID 4177B27693EF4BC7BA07422BD95EC112AC4F
 1 NAME Anton /Faltus/
@@ -756,11 +797,13 @@
 2 GIVN Anton
 1 SEX M
 1 CHAN
-2 DATE 18 MAR 2019
-3 TIME 16:02:33
+2 DATE 19 MAR 2019
+3 TIME 11:38:07
 1 FAMS @F32@
 1 OCCU Häusler
 1 NOTE Er stammte aus Sobkowitz.
+1 BIRT
+2 DATE BEF 1756
 0 @I48@ INDI
 1 _UID 992029A565DA46B79D5117AD543E8860EFD8
 1 NAME Dorothea /Hrdina/
@@ -769,10 +812,12 @@
 1 SEX F
 1 FAMS @F32@
 1 CHAN
-2 DATE 18 MAR 2019
-3 TIME 16:02:44
+2 DATE 19 MAR 2019
+3 TIME 11:38:14
 1 FAMC @F33@
 1 NOTE Sie stammte aus Mistrowitz.
+1 BIRT
+2 DATE BEF 1756
 0 @I49@ INDI
 1 _UID FA86AB19B501404A836F09E69C312BFB58E3
 1 NAME Anton /Hrdina/
@@ -781,8 +826,107 @@
 1 SEX M
 1 FAMS @F33@
 1 CHAN
-2 DATE 18 MAR 2019
-3 TIME 16:01:15
+2 DATE 19 MAR 2019
+3 TIME 11:38:23
+1 BIRT
+2 DATE BEF 1738
+0 @I50@ INDI
+1 _UID A69AC9BF80514A48B4080BB940F4D325D75C
+1 NAME Augustin /Wanschura/
+2 SURN Wanschura
+2 GIVN Augustin
+1 SEX M
+1 BIRT
+2 DATE 19 JUL 1733
+2 PLAC Zöllnei
+1 DEAT
+2 DATE 16 AUG 1791
+2 PLAC Zöllnei
+1 CHAN
+2 DATE 19 MAR 2019
+3 TIME 13:05:42
+1 FAMS @F34@
+1 FAMC @F35@
+0 @I51@ INDI
+1 _UID 20A1153F7F624477843316FFCA6387275853
+1 NAME Augustin /Wanschura/
+2 SURN Wanschura
+2 GIVN Augustin
+1 SEX M
+1 BIRT
+2 DATE 19 MAR 1702
+2 PLAC Zöllnei
+1 DEAT
+2 DATE 4 FEB 1743
+2 PLAC Zöllnei
+1 CHAN
+2 DATE 19 MAR 2019
+3 TIME 13:06:25
+1 FAMS @F35@
+1 FAMC @F36@
+0 @I52@ INDI
+1 _UID AB84DF097EE4469CAB36ABF5C5C6196BEB9F
+1 NAME Krystof /Wanschura/
+2 SURN Wanschura
+2 GIVN Krystof
+1 SEX M
+1 BIRT
+2 DATE (before 1685)
+1 CHAN
+2 DATE 19 MAR 2019
+3 TIME 13:09:31
+1 FAMS @F36@
+0 @I53@ INDI
+1 _UID FB108FB3BC7643A6A600381DF633F73BBE8A
+1 NAME Margaretha /Netuschil/
+2 SURN Netuschil
+2 GIVN Margaretha
+1 SEX F
+1 FAMS @F34@
+1 BIRT
+2 DATE ABT 1734
+1 DEAT
+2 DATE 19 DEC 1790
+2 PLAC Zöllnei
+1 CHAN
+2 DATE 19 MAR 2019
+3 TIME 13:07:55
+0 @I54@ INDI
+1 _UID DD456C6C5F9643128AD9A939DFBAA7784127
+1 NAME Maria /Timan/
+2 SURN Timan
+2 GIVN Maria
+1 SEX F
+1 FAMS @F35@
+1 BIRT
+2 DATE BEF 1708
+1 CHAN
+2 DATE 19 MAR 2019
+3 TIME 13:08:53
+0 @I55@ INDI
+1 _UID B963EB7D68AE40089F204F9E93DC8C6BF4DD
+1 NAME Maria /.../
+2 SURN ...
+2 GIVN Maria
+1 SEX F
+1 FAMS @F36@
+1 CHAN
+2 DATE 19 MAR 2019
+3 TIME 13:09:24
+1 BIRT
+2 DATE (before 1685)
+0 @I56@ INDI
+1 _UID F4183717126441309A8FC4801D6601EE209A
+1 NAME Rosina /.../
+2 SURN ...
+2 GIVN Rosina
+1 SEX F
+1 FAMS @F38@
+1 CHAN
+2 DATE 19 MAR 2019
+3 TIME 13:35:31
+1 BIRT
+2 DATE ABT 1697
 0 @F10@ FAM
 1 HUSB @I15@
 1 WIFE @I16@
@@ -884,10 +1028,16 @@
 0 @F30@ FAM
 1 WIFE @I43@
 1 HUSB @I44@
+1 MARR
+2 DATE 22 OCT 1844
+2 PLAC Zöllnei
 0 @F31@ FAM
 1 HUSB @I45@
 1 WIFE @I46@
 1 CHIL @I44@
+1 MARR
+2 DATE 27 SEP 1791
+2 PLAC Zöllnei
 0 @F32@ FAM
 1 HUSB @I47@
 1 WIFE @I48@
@@ -895,6 +1045,28 @@
 0 @F33@ FAM
 1 HUSB @I49@
 1 CHIL @I48@
+0 @F34@ FAM
+1 HUSB @I50@
+1 WIFE @I53@
+1 CHIL @I45@
+1 MARR
+2 DATE 5 OCT 1760
+2 PLAC Zöllnei
+0 @F35@ FAM
+1 HUSB @I51@
+1 WIFE @I54@
+1 CHIL @I50@
+1 MARR
+2 DATE 18 NOV 1725
+2 PLAC Zöllnei
+0 @F36@ FAM
+1 HUSB @I52@
+1 WIFE @I55@
+1 CHIL @I51@
+0 @F38@ FAM
+1 HUSB @I13@
+1 WIFE @I56@
+1 CHIL @I12@
 0 @F4@ FAM
 1 HUSB @I8@
 1 CHIL @I4@
@@ -921,5 +1093,4 @@
 0 @F9@ FAM
 1 HUSB @I13@
 1 WIFE @I14@
-1 CHIL @I12@
 0 TRLR
