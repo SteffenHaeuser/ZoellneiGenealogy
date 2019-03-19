@@ -4,7 +4,7 @@
 2 NAME Ahnenblatt
 2 CORP Dirk Boettcher
 1 DATE 19 MAR 2019
-2 TIME 13:49:37
+2 TIME 15:59:46
 1 SUBM @SUBM@
 1 FILE Trampota.ged
 1 GEDC
@@ -12,8 +12,8 @@
 2 FORM LINEAGE-LINKED
 1 CHAR UTF-8
 1 _NAVM 1
-2 _NAVI @I15@
-1 _HOME @I15@
+2 _NAVI @I18@
+1 _HOME @I18@
 0 @SUBM@ SUBM
 1 NAME Steffen Häuser
 1 ADDR Südstr. 40
@@ -322,7 +322,7 @@
 1 SEX M
 1 CHAN
 2 DATE 19 MAR 2019
-3 TIME 13:49:24
+3 TIME 15:58:34
 1 FAMS @F10@
 1 FAMC @F12@
 1 NOTE Note there was a second Wenceslaus Prokopecz, born ca. 1686 (during the gap in the churchbooks). It is not 100% sure to whom the death record 1782 belongs, but I think very likely to the correct Wenceslaus (for the other the given age would be 1
@@ -349,18 +349,26 @@
 2 TITL WenceslausProkopecz1697 Birth.jpg
 0 @I16@ INDI
 1 _UID C43E308A56DB4B408AE95FA08B9D0D5776A0
-1 NAME Dorothea /Hrdina/
+1 NAME Dorothea Catharina /Hrdina/
 2 SURN Hrdina
-2 GIVN Dorothea
+2 GIVN Dorothea Catharina
 1 SEX F
 1 FAMS @F10@
 1 CHAN
-2 DATE 15 MAR 2019
-3 TIME 14:02:42
+2 DATE 19 MAR 2019
+3 TIME 15:57:09
 1 BIRT
 2 DATE 25 NOV 1705
 2 PLAC Jamnay
 1 FAMC @F16@
+1 OBJE
+2 FILE .\Trampota Media\DorotheaCatharinaHrdina1705_Birth.bmp
+3 _ALTPATH Trampota Media\
+3 FORM bmp
+2 TITL DorotheaCatharinaHrdina1705 Birth
+1 NOTE "25. Baptized is Dorothea Catharina of Wenceslaus Hrdina from Jamnay, Mother Anna. Lev. 
+2 CONT Anna Steyskalova. Elisabeth Kyllarowa, Wenceslaus Waczek. From Jamnay."
+1 SOUR Jamnay, Births, Entry for Dorothea Catharina Hrdina, 11/25/1705, Zamrsk 64-3, Page 170
 0 @I17@ INDI
 1 _UID A4CE5FDCE0034BF886D1EA3588300EEDFC1C
 1 NAME Wenceslaus /Hrdina/
