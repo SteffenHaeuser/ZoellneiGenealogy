@@ -4,7 +4,7 @@
 2 NAME Ahnenblatt
 2 CORP Dirk Boettcher
 1 DATE 19 MAR 2019
-2 TIME 16:47:19
+2 TIME 17:58:01
 1 SUBM @SUBM@
 1 FILE Trampota.ged
 1 GEDC
@@ -12,8 +12,8 @@
 2 FORM LINEAGE-LINKED
 1 CHAR UTF-8
 1 _NAVM 1
-2 _NAVI @I18@
-1 _HOME @I18@
+2 _NAVI @I21@
+1 _HOME @I21@
 0 @SUBM@ SUBM
 1 NAME Steffen Häuser
 1 ADDR Südstr. 40
@@ -102,8 +102,8 @@
 1 BIRT
 2 DATE (before 1752)
 1 CHAN
-2 DATE 15 MAR 2019
-3 TIME 13:28:29
+2 DATE 19 MAR 2019
+3 TIME 16:54:57
 1 FAMS @F3@
 1 FAMC @F4@
 0 @I5@ INDI
@@ -197,8 +197,8 @@
 2 DATE (19. Dec 1716)
 2 PLAC Jamnay
 1 CHAN
-2 DATE 15 MAR 2019
-3 TIME 13:28:04
+2 DATE 19 MAR 2019
+3 TIME 17:40:46
 1 FAMS @F6@
 1 FAMC @F13@
 1 NOTE There is a Joseph Steyskal who is born 1716 and one who is born 1719. The Joseph Steyskal born 1716
@@ -410,8 +410,8 @@
 2 GIVN Matthäus
 1 SEX M
 1 CHAN
-2 DATE 15 MAR 2019
-3 TIME 13:27:45
+2 DATE 19 MAR 2019
+3 TIME 17:55:10
 1 FAMS @F13@
 1 FAMC @F15@
 1 BIRT
@@ -435,8 +435,8 @@
 1 SEX F
 1 FAMS @F13@
 1 CHAN
-2 DATE 15 MAR 2019
-3 TIME 15:46:17
+2 DATE 19 MAR 2019
+3 TIME 17:55:05
 1 BIRT
 2 DATE ABT 1687
 1 DEAT
@@ -450,12 +450,22 @@
 2 GIVN Martin
 1 SEX M
 1 CHAN
-2 DATE 15 MAR 2019
-3 TIME 15:01:48
+2 DATE 19 MAR 2019
+3 TIME 17:57:54
 1 BIRT
-2 DATE (before 1670)
+2 DATE 12 NOV 1663
+2 PLAC Jamnay
 1 FAMS @F17@
 1 FAMC @F21@
+1 NOTE "Same day born a son Martin of Jan(Johann) Chladek and his wife Anna. Testes Georg Kowarz, Susanna Wife of Adam B??? of Jamnay."
+2 CONT 
+2 CONT "13th same the honest young man Martin of Joannes Chladek who was hereditary judge of the village Jamnay legitimate son married the honest maiden Rosina, of Dominik Schlesinger, currently nominated judge of the village Jamnay, daughter. (Data on
+2 CONC  Church and Priest). Testes Johann Sedlarz, Maria, Wife of Johann R???, Virgin Anna of Joannes Chladek daughter, the first of Jablona, rest of the village Jamnay. (About 3x announcement of the marriage)."
+2 CONT 
+2 CONT There are three marriages of a Martin Chladek. Two of them are fairly sure of the same Martin, one of them lived in Weiprachtitz and can't be the correct one (children are also born in Weiprachtitz). The correct one also has relation to Dominik 
+2 CONC Schlesinger whose second wife later appears as Testes at the marriage of Susanna Chladek (this wife is his second wife whom Dominik marries in 1701 as a widower).
+1 SOUR Jamnay,Births, Entry for Martin Chladek,  11/12/1663, Zamrsk 64-2, Page 11
+2 CONT Jamnay,Marriages, Entry for Martin Chladek and Rosina Schlesinger, 09/13/1687, Zamrsk 64-8, Page 27
 0 @I22@ INDI
 1 _UID C24D99266EDA4C3FA117B51FBC64CE7D985B
 1 NAME Jan /Steyskal/
@@ -536,9 +546,18 @@
 2 DATE 29 SEP 1670
 2 PLAC Adlerdörfel
 1 CHAN
-2 DATE 15 MAR 2019
-3 TIME 15:49:49
+2 DATE 19 MAR 2019
+3 TIME 17:53:16
 1 FAMC @F23@
+1 NOTE "29th. Daughter born Rosina of Dominik Schlesinger and his wife Rosina. Testes:
+2 CONT Elisabeth, wife of Jan Schittko, Sabina, Wife of Tobias Feltzmann. Catharina, wife of
+2 CONT Georg Schüll. Georg Feltzmann, Hans Langer. Of Adlerdörfel/Worlitschka."
+1 SOUR Adlerdörfel,Births, Entry for Rosina Schlesinger,  09/29/1670, Zamrsk 64-2, Page 86
+1 OBJE
+2 FILE D:\Downloads\Ahnenblatt\Trampota Media\RosinaSchlesinger1670_Birth.bmp
+3 _ALTPATH .\Trampota Media\
+3 FORM bmp
+2 TITL RosinaSchlesinger1670 Birth
 0 @I28@ INDI
 1 _UID 5B32D39AD5C1447DB0DC7E7DA28C84069071
 1 NAME Dominik /Schlesinger/
@@ -547,10 +566,10 @@
 1 SEX M
 1 BIRT
 2 DATE (before 1647)
-1 OCCU Hereditary Village Judge
+1 OCCU Hereditary Village Judge of Jamnay
 1 CHAN
-2 DATE 15 MAR 2019
-3 TIME 15:52:22
+2 DATE 19 MAR 2019
+3 TIME 17:42:27
 1 FAMC @F24@
 1 FAMS @F23@
 0 @I29@ INDI
@@ -972,6 +991,9 @@
 1 HUSB @I21@
 1 WIFE @I27@
 1 CHIL @I20@
+1 MARR
+2 DATE 13 SEP 1687
+2 PLAC Jamnay
 0 @F18@ FAM
 1 HUSB @I25@
 1 CHIL @I14@
