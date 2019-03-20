@@ -4,7 +4,7 @@
 2 NAME Ahnenblatt
 2 CORP Dirk Boettcher
 1 DATE 20 MAR 2019
-2 TIME 15:50:31
+2 TIME 16:20:32
 1 SUBM @SUBM@
 1 FILE Trampota.ged
 1 GEDC
@@ -12,8 +12,8 @@
 2 FORM LINEAGE-LINKED
 1 CHAR UTF-8
 1 _NAVM 1
-2 _NAVI @I53@
-1 _HOME @I53@
+2 _NAVI @I59@
+1 _HOME @I59@
 0 @SUBM@ SUBM
 1 NAME Steffen Häuser
 1 ADDR Südstr. 40
@@ -855,14 +855,14 @@
 2 GIVN Augustin
 1 SEX M
 1 BIRT
-2 DATE 19 JUL 1733
+2 DATE 19 NOV 1733
 2 PLAC Zöllnei
 1 DEAT
 2 DATE 16 AUG 1791
 2 PLAC Zöllnei
 1 CHAN
 2 DATE 20 MAR 2019
-3 TIME 15:49:30
+3 TIME 16:00:17
 1 FAMS @F34@
 1 FAMC @F35@
 1 OBJE
@@ -881,16 +881,25 @@
 2 GIVN Augustin
 1 SEX M
 1 BIRT
-2 DATE 19 MAR 1702
+2 DATE (19. March 1702)
 2 PLAC Zöllnei
 1 DEAT
-2 DATE 4 FEB 1743
+2 DATE (04. February 1743)
 2 PLAC Zöllnei
 1 CHAN
-2 DATE 19 MAR 2019
-3 TIME 13:06:25
+2 DATE 20 MAR 2019
+3 TIME 15:58:04
 1 FAMS @F35@
 1 FAMC @F36@
+1 OBJE
+2 FILE .\Trampota Media\AugustinWanschura1725_Marriage.bmp
+3 _ALTPATH Trampota Media\
+3 FORM bmp
+2 TITL AugustinWanschura1725 Marriage
+1 NOTE "Zöllnei - 18th November married are Augustin Wanschura with Maria daughter of Michael Timan
+2 CONT from Linsdorff, Testes Joannes Schreiber Maria of Johannes Schreiber Anna Maria Kristin all from
+2 CONT Linsdorf."
+1 SOUR Zöllnei, Marriages, Entry for Augustin Wanschura and Maria Timan, 11/18/1725, 109-8, Page 20
 0 @I52@ INDI
 1 _UID AB84DF097EE4469CAB36ABF5C5C6196BEB9F
 1 NAME Krystof /Wanschura/
@@ -926,11 +935,11 @@
 1 BIRT
 2 DATE (before 1743)
 1 DEAT
-2 DATE 19 DEC 1790
+2 DATE (19. Dec. 1790)
 2 PLAC Zöllnei
 1 CHAN
 2 DATE 20 MAR 2019
-3 TIME 15:50:24
+3 TIME 15:59:31
 1 FAMC @F45@
 0 @I54@ INDI
 1 _UID DD456C6C5F9643128AD9A939DFBAA7784127
@@ -944,6 +953,7 @@
 1 CHAN
 2 DATE 19 MAR 2019
 3 TIME 13:08:53
+1 FAMC @F46@
 0 @I55@ INDI
 1 _UID B963EB7D68AE40089F204F9E93DC8C6BF4DD
 1 NAME Maria /Trigle(???)/
@@ -1010,11 +1020,23 @@
 1 FAMS @F39@
 1 CHAN
 2 DATE 20 MAR 2019
-3 TIME 7:34:15
-1 NOTE Josef's son Josef (*1870) was illegitime, but he admitted that he was the father and married his son's mother in 1871.
+3 TIME 16:20:17
+1 NOTE "Born 10th, baptized 11th" - 79 - Josephus (Details on the priest after his name) - Anton Ullrich, catholic, Peasant from Zöllnei #79, from the ruling area of Geyersberg, legitimate son of the deceased Anton Ulrich, Peasant from Zöllnei from #79
+2 CONC  and his wife Katharina, born Netuschil, from Zöllnei #25.
+2 CONT Theresia Barnet, Catholic, legitimate daughter of Franz Barnet, peasent of Wöllsdorf, from #33, ruling area of Geyersberg, and his wife Rosalia, born Bauchal, from Middle Lipka #21, ruling area of Grulich. Testes: Joseph Bauchal, House-Owner of 
+2 CONC Wöllsdorf #2, Josepha Wenschura, wife of Franz Wanschura, from Zöllnei #51."
+2 CONT 
+2 CONT Josef's son Josef (*1870) was illegitime, but he admitted that he was the father and married his son's mother in 1871.
+2 CONT Josef was born in #79. #79 is also given as his house in his marriage record.
+2 CONT There are two Joseph Ulrich born around this time, but only one in #79.
 1 BIRT
-2 DATE ABT 1844
+2 DATE 10 AUG 1843
+2 PLAC Zöllnei
 1 FAMC @F40@
+1 CHR
+2 DATE 11 AUG 1843
+2 PLAC Zöllnei
+1 SOUR Zöllnei, Births, Entry for Josef Ulrich, 08/10/1843, 161-5, Page 60
 0 @I60@ INDI
 1 _UID 69980F860D6E42A7BBD251BD3873BF7A793F
 1 NAME Josef /Ulrich/
@@ -1054,10 +1076,12 @@
 1 SEX M
 1 CHAN
 2 DATE 20 MAR 2019
-3 TIME 7:34:30
+3 TIME 16:13:26
 1 FAMS @F40@
 1 BIRT
 2 DATE BEF 1826
+1 OCCU Peasant
+1 FAMC @F47@
 0 @I63@ INDI
 1 _UID 49CAC89A0D0244DEB48F76C051E65E762A85
 1 NAME Theresia /Barnet/
@@ -1070,6 +1094,7 @@
 3 TIME 7:50:41
 1 BIRT
 2 DATE BEF 1826
+1 FAMC @F48@
 0 @I64@ INDI
 1 _UID 759B207605EB4FDE8CF793DD4A7D0AD960CC
 1 NAME Jan /Wanschura/
@@ -1135,6 +1160,57 @@
 3 TIME 15:50:16
 1 BIRT
 2 DATE (before 1725)
+0 @I69@ INDI
+1 _UID 98F6C74195B547A88A2E44F3BC3EC280FA21
+1 NAME Michael /Timan/
+2 SURN Timan
+2 GIVN Michael
+1 SEX M
+1 FAMS @F46@
+1 CHAN
+2 DATE 20 MAR 2019
+3 TIME 15:55:19
+0 @I70@ INDI
+1 _UID 2E5238BCC8674E18A2344D1A5F3CC7842C09
+1 NAME Anton /Ulrich/
+2 SURN Ulrich
+2 GIVN Anton
+1 SEX M
+1 CHAN
+2 DATE 20 MAR 2019
+3 TIME 16:13:32
+1 FAMS @F47@
+0 @I71@ INDI
+1 _UID DCC38BB13EC04644B3B37FCC3E88CF16BFC3
+1 NAME Catharina /Netuschil/
+2 SURN Netuschil
+2 GIVN Catharina
+1 SEX F
+1 FAMS @F47@
+1 CHAN
+2 DATE 20 MAR 2019
+3 TIME 16:13:54
+0 @I72@ INDI
+1 _UID E49D5ECE809447BEBA25734C14C592885729
+1 NAME Franz /Barnet/
+2 SURN Barnet
+2 GIVN Franz
+1 SEX M
+1 CHAN
+2 DATE 20 MAR 2019
+3 TIME 16:14:08
+1 FAMS @F48@
+0 @I73@ INDI
+1 _UID 58B76784A395486DA2181266B186C69EB4E1
+1 NAME Rosalia /Bauchal/
+2 SURN Bauchal
+2 GIVN Rosalia
+1 SEX F
+1 FAMS @F48@
+1 NOTE Rosalia is from Middle-Lipka.
+1 CHAN
+2 DATE 20 MAR 2019
+3 TIME 16:14:42
 0 @F10@ FAM
 1 HUSB @I15@
 1 WIFE @I16@
@@ -1259,14 +1335,14 @@
 1 WIFE @I53@
 1 CHIL @I45@
 1 MARR
-2 DATE 5 OCT 1760
+2 DATE (05. Oct. 1760)
 2 PLAC Zöllnei
 0 @F35@ FAM
 1 HUSB @I51@
 1 WIFE @I54@
 1 CHIL @I50@
 1 MARR
-2 DATE 18 NOV 1725
+2 DATE (18th Nov. 1725)
 2 PLAC Zöllnei
 0 @F36@ FAM
 1 HUSB @I52@
@@ -1312,6 +1388,17 @@
 0 @F45@ FAM
 1 HUSB @I68@
 1 CHIL @I53@
+0 @F46@ FAM
+1 HUSB @I69@
+1 CHIL @I54@
+0 @F47@ FAM
+1 HUSB @I70@
+1 WIFE @I71@
+1 CHIL @I62@
+0 @F48@ FAM
+1 HUSB @I72@
+1 WIFE @I73@
+1 CHIL @I63@
 0 @F5@ FAM
 1 HUSB @I5@
 1 WIFE @I6@
