@@ -4,7 +4,7 @@
 2 NAME Ahnenblatt
 2 CORP Dirk Boettcher
 1 DATE 20 MAR 2019
-2 TIME 16:30:07
+2 TIME 16:42:56
 1 SUBM @SUBM@
 1 FILE Trampota.ged
 1 GEDC
@@ -12,8 +12,8 @@
 2 FORM LINEAGE-LINKED
 1 CHAR UTF-8
 1 _NAVM 1
-2 _NAVI @I7@
-1 _HOME @I7@
+2 _NAVI @I9@
+1 _HOME @I9@
 0 @SUBM@ SUBM
 1 NAME Steffen Häuser
 1 ADDR Südstr. 40
@@ -205,8 +205,8 @@
 2 DATE (19. Dec 1716)
 2 PLAC Jamnay
 1 CHAN
-2 DATE 19 MAR 2019
-3 TIME 17:40:46
+2 DATE 20 MAR 2019
+3 TIME 16:42:37
 1 FAMS @F6@
 1 FAMC @F13@
 1 NOTE There is a Joseph Steyskal who is born 1716 and one who is born 1719. The Joseph Steyskal born 1716
@@ -215,6 +215,9 @@
 2 CONT 
 2 CONT "Anno Domini 1716 Day 20th Dec. (Details on the priest). A son from village Jamnay born 19th Dec. from Father Matthäus Steyskal Peasant and Mother Susanna in the church of Jablona (details on the Church) by name of Joseph. Levans was Wenceslaus 
 2 CONC Filipp, T Paul Bauchal, Anna Wife of Matthäus Filipp and Catharina Wife of Paul Philipp from Jamnay."
+2 CONT 
+2 CONT "19 - Steyskal Josephus Peasant from Jamnay - Catholic - Jamnay - 128 - 56"
+2 CONT 
 2 CONT 
 2 CONT "Jamnay - A 1740 - 25th Sept. - No impediments found - Details on the priest - Details on the church in Jablona - Joseph son of Matthäus Steyskal and Anna, daughter of Wenceslaus Morawecz from Jamnay married. Testes Georg Valenta and Catharina d
 2 CONC aughter of Johann Heil."
@@ -227,6 +230,7 @@
 2 PLAC Jablona nad Orlici
 1 SOUR Jamnay,Births, Entry for Joseph Steyskal,  12/19/1716, Zamrsk 64-3, Page 351
 2 CONT Jamnay,Marriages, Entry for Joseph Steyskal and Anna Morawecz,  09/25/1740, Zamrsk 64-9, Page 170
+2 CONT Jamnay, Deaths, Entry for Joseph Steyskal, 04/19/1773, Zamrsk 64-13, Page 118
 1 OBJE
 2 FILE D:\Downloads\Ahnenblatt\Adams Media\JosephSteyskal1716_Birth.bmp
 3 _ALTPATH .\Adams Media\
@@ -237,6 +241,11 @@
 3 _ALTPATH .\Adams Media\
 3 FORM bmp
 2 TITL JosephSteyskal1740 Marriage
+1 OBJE
+2 FILE D:\Downloads\Ahnenblatt\Trampota Media\JosephSteyskal1773_Death.bmp
+3 _ALTPATH .\Trampota Media\
+3 FORM bmp
+2 TITL JosephSteyskal1773 Death
 0 @I10@ INDI
 1 _UID AD59517B2AB343798627BFF473E6A308CF87
 1 NAME Anna /Morawecz/
