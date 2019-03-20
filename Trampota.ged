@@ -1,23 +1,22 @@
-0 HEAD
+ï»¿0 HEAD
 1 SOUR AHN
-2 VERS 2.97a
+2 VERS 2.99e
 2 NAME Ahnenblatt
 2 CORP Dirk Boettcher
 1 DATE 20 MAR 2019
-2 TIME 7:50:51
+2 TIME 15:50:31
 1 SUBM @SUBM@
 1 FILE Trampota.ged
 1 GEDC
 2 VERS 5.5.1
 2 FORM LINEAGE-LINKED
-1 CHAR ANSI
-2 VERS 1252
+1 CHAR UTF-8
 1 _NAVM 1
-2 _NAVI @I63@
-1 _HOME @I63@
+2 _NAVI @I53@
+1 _HOME @I53@
 0 @SUBM@ SUBM
-1 NAME Steffen Häuser
-1 ADDR Südstr. 40
+1 NAME Steffen HÃ¤user
+1 ADDR SÃ¼dstr. 40
 2 CONT 71522 Backnang
 2 CONT Germany
 0 @I1@ INDI
@@ -125,7 +124,7 @@
 3 FORM bmp
 2 TITL JohannTrampota1766 Ehe
 1 NOTE "Aus Jamnay - The same year the day 2nd February married the present Joannes son of Paul Trampota
-2 CONT with Dorothea daughter of Wenceslaus Prokopetz, both from the village Jamnay [...] Name of the priest etc. [...] Testes Matthäus Steyskal and Martin Spaczek - Ending forumula about being present three times etc."
+2 CONT with Dorothea daughter of Wenceslaus Prokopetz, both from the village Jamnay [...] Name of the priest etc. [...] Testes MatthÃ¤us Steyskal and Martin Spaczek - Ending forumula about being present three times etc."
 1 SOUR Jamnay,Marriages, Entry for Johann Trampota and Dorothea Prokopecz,  02/02/1766, Zamrsk 64-10, Page 2
 1 FAMC @F8@
 0 @I6@ INDI
@@ -206,17 +205,17 @@
 2 CONT dies in the same house in which his son Heinrich dies later (#128) - his life age at the death record calculates back to 1717, while the calculation of the life age of the other, earlier dying Joseph Steyskal
 2 CONT gives 1719.
 2 CONT 
-2 CONT "Anno Domini 1716 Day 20th Dec. (Details on the priest). A son from village Jamnay born 19th Dec. from Father Matthäus Steyskal Peasant and Mother Susanna in the church of Jablona (details on the Church) by name of Joseph. Levans was Wenceslaus F
-2 CONC ilipp, T Paul Bauchal, Anna Wife of Matthäus Filipp and Catharina Wife of Paul Philipp from Jamnay."
+2 CONT "Anno Domini 1716 Day 20th Dec. (Details on the priest). A son from village Jamnay born 19th Dec. from Father MatthÃ¤us Steyskal Peasant and Mother Susanna in the church of Jablona (details on the Church) by name of Joseph. Levans was Wenceslaus 
+2 CONC Filipp, T Paul Bauchal, Anna Wife of MatthÃ¤us Filipp and Catharina Wife of Paul Philipp from Jamnay."
 2 CONT 
-2 CONT "Jamnay - A 1740 - 25th Sept. - No impediments found - Details on the priest - Details on the church in Jablona - Joseph son of Matthäus Steyskal and Anna, daughter of Wenceslaus Morawecz from Jamnay married. Testes Georg Valenta and Catharina da
-2 CONC ughter of Johann Heil."
+2 CONT "Jamnay - A 1740 - 25th Sept. - No impediments found - Details on the priest - Details on the church in Jablona - Joseph son of MatthÃ¤us Steyskal and Anna, daughter of Wenceslaus Morawecz from Jamnay married. Testes Georg Valenta and Catharina d
+2 CONC aughter of Johann Heil."
 1 DEAT
 2 DATE 19 APR 1773
 2 PLAC Jamnay
 1 CHR
 2 DATE 20 DEC 1716
-2 ADDR St.Bartholomäus
+2 ADDR St.BartholomÃ¤us
 2 PLAC Jablona nad Orlici
 1 SOUR Jamnay,Births, Entry for Joseph Steyskal,  12/19/1716, Zamrsk 64-3, Page 351
 2 CONT Jamnay,Marriages, Entry for Joseph Steyskal and Anna Morawecz,  09/25/1740, Zamrsk 64-9, Page 170
@@ -272,7 +271,7 @@
 2 CONT 
 2 CONT "In the year 1719 the day 28th Feb a son of Jamnay was baptized by (name of the priest)
 2 CONT born 28th Feb. from Mathias Trampota peasant and the mother Rosina in the church of Jablona
-2 CONT St.Bartholomäus (etc.), Levans was Peter Czernohaus T Wenceslaus Hrdina, Elisabeth Wife
+2 CONT St.BartholomÃ¤us (etc.), Levans was Peter Czernohaus T Wenceslaus Hrdina, Elisabeth Wife
 2 CONT of Georg Krejczy all from Jamnay CS"
 1 SOUR Jamnay,Birth, Entry for Paul Trampota, 02/28/1719, Zamrsk 64-3, Page 400
 1 OBJE
@@ -326,8 +325,8 @@
 3 TIME 16:15:22
 1 FAMS @F10@
 1 FAMC @F12@
-1 NOTE Note there was a second Wenceslaus Prokopecz, born ca. 1686 (during the gap in the churchbooks). It is not 100% sure to whom the death record 1782 belongs, but I think very likely to the correct Wenceslaus (for the other the given age would be 11
-2 CONC  years wrong, for the correct one only 7 years).
+1 NOTE Note there was a second Wenceslaus Prokopecz, born ca. 1686 (during the gap in the churchbooks). It is not 100% sure to whom the death record 1782 belongs, but I think very likely to the correct Wenceslaus (for the other the given age would be 1
+2 CONC 1 years wrong, for the correct one only 7 years).
 2 CONT 
 2 CONT "23rd same (Data on Church and priest) Born is Waczlaw Son of Johann Prokopecz and his wife from Jamnay. Levans: Martin Chladek from Jamnay. ??? Martin Behaunek, Anna Wife of Dominik Schlesinger ??? From Jamnay."
 2 CONT 
@@ -356,8 +355,8 @@
 1 SEX F
 1 FAMS @F10@
 1 CHAN
-2 DATE 19 MAR 2019
-3 TIME 15:57:09
+2 DATE 20 MAR 2019
+3 TIME 15:40:18
 1 BIRT
 2 DATE 25 NOV 1705
 2 PLAC Jamnay
@@ -399,16 +398,16 @@
 1 FAMC @F19@
 1 NOTE "Same Day Baptized and Born Son Jan(Johann) of Georg Prokopecz from Jamnay. His wife Anna.
 2 CONT Waczlaw Czerwenka the Younger. Neighbour from Jablona. Jacob Kreyczi (this name means "Tailor" on english). Marina Wife of ??? Jamnay."
-2 CONT "The 2nd Februrary.(The first half of the entry is of a different marriage, we have here two marriages in one entry). Johannes of the deceased Georg Prokopecz remaining son from Jamnay. With maiden Rosina legitimate daughter of Paul Kozaczek legi
-2 CONC timate daughter of lower Hermanitz. Nothing has been noticed why they couldn't marry."
+2 CONT "The 2nd Februrary.(The first half of the entry is of a different marriage, we have here two marriages in one entry). Johannes of the deceased Georg Prokopecz remaining son from Jamnay. With maiden Rosina legitimate daughter of Paul Kozaczek leg
+2 CONC itimate daughter of lower Hermanitz. Nothing has been noticed why they couldn't marry."
 2 CONT (Note the two marriages were in Weipersdorf, but the groom was from Jamnay).
 1 SOUR Jamnay, Births, Entry for Johann Prokopecz, 12/01/1669, Zamrsk 64-2, Page 77
 2 CONT Weipersdorf, Marriages, Entry for Johann Prokopecz and Rosina Kozaczek, 02/02/1695, Zamrsk 64-8, Page 66
 0 @I19@ INDI
 1 _UID 40DECC32C2ED4BDEB918BF87863F2BA29D11
-1 NAME Matthäus /Steyskal/
+1 NAME MatthÃ¤us /Steyskal/
 2 SURN Steyskal
-2 GIVN Matthäus
+2 GIVN MatthÃ¤us
 1 SEX M
 1 CHAN
 2 DATE 19 MAR 2019
@@ -418,16 +417,16 @@
 1 BIRT
 2 DATE (before 1693)
 1 OCCU Peasant
-1 NOTE "23rd Feb. (Details on 3x announcement in Jablona). Matthäus Son of Jan Steyskal
+1 NOTE "23rd Feb. (Details on 3x announcement in Jablona). MatthÃ¤us Son of Jan Steyskal
 2 CONT with Susanna daughter of Martin Chladek, from Jamnay.Testes Thomas S??? Jacob
 2 CONT Walenta Cathrzina Daughter of Jakob Kyllar and Dorothea wife of Dominik Schlesinger,
 2 CONT all from Jamnay."
-1 SOUR Jablona,Marriages, Entry for Matthäus Steyskal and Susanna Chladek,  02/23/1710, Zamrsk 64-8, Page 144
+1 SOUR Jablona,Marriages, Entry for MatthÃ¤us Steyskal and Susanna Chladek,  02/23/1710, Zamrsk 64-8, Page 144
 1 OBJE
-2 FILE D:\Downloads\Ahnenblatt\Adams Media\MatthäusSteyskal1710_Marriage.bmp
+2 FILE D:\Downloads\Ahnenblatt\Adams Media\MatthÃ¤usSteyskal1710_Marriage.bmp
 3 _ALTPATH .\Adams Media\
 3 FORM bmp
-2 TITL MatthäusSteyskal1710 Marriage
+2 TITL MatthÃ¤usSteyskal1710 Marriage
 0 @I20@ INDI
 1 _UID B4314864021B45D5822F821A87F19F3662DD
 1 NAME Susanna /Chladek/
@@ -459,11 +458,11 @@
 1 FAMS @F17@
 1 NOTE "Same day born a son Martin of Jan(Johann) Chladek and his wife Anna. Testes Georg Kowarz, Susanna Wife of Adam B??? of Jamnay."
 2 CONT 
-2 CONT "13th same the honest young man Martin of Joannes Chladek who was hereditary judge of the village Jamnay legitimate son married the honest maiden Rosina, of Dominik Schlesinger, currently nominated judge of the village Jamnay, daughter. (Data on 
-2 CONC Church and Priest). Testes Johann Sedlarz, Maria, Wife of Johann R???, Virgin Anna of Joannes Chladek daughter, the first of Jablona, rest of the village Jamnay. (About 3x announcement of the marriage)."
+2 CONT "13th same the honest young man Martin of Joannes Chladek who was hereditary judge of the village Jamnay legitimate son married the honest maiden Rosina, of Dominik Schlesinger, currently nominated judge of the village Jamnay, daughter. (Data on
+2 CONC  Church and Priest). Testes Johann Sedlarz, Maria, Wife of Johann R???, Virgin Anna of Joannes Chladek daughter, the first of Jablona, rest of the village Jamnay. (About 3x announcement of the marriage)."
 2 CONT 
-2 CONT There are three marriages of a Martin Chladek. Two of them are fairly sure of the same Martin, one of them lived in Weiprachtitz and can't be the correct one (children are also born in Weiprachtitz). The correct one also has relation to Dominik S
-2 CONC chlesinger whose second wife later appears as Testes at the marriage of Susanna Chladek (this wife is his second wife whom Dominik marries in 1701 as a widower).
+2 CONT There are three marriages of a Martin Chladek. Two of them are fairly sure of the same Martin, one of them lived in Weiprachtitz and can't be the correct one (children are also born in Weiprachtitz). The correct one also has relation to Dominik 
+2 CONC Schlesinger whose second wife later appears as Testes at the marriage of Susanna Chladek (this wife is his second wife whom Dominik marries in 1701 as a widower).
 1 SOUR Jamnay,Births, Entry for Martin Chladek,  11/12/1663, Zamrsk 64-2, Page 11
 2 CONT Jamnay,Marriages, Entry for Martin Chladek and Rosina Schlesinger, 09/13/1687, Zamrsk 64-8, Page 27
 1 FAMC @F37@
@@ -508,9 +507,9 @@
 3 TIME 15:05:34
 1 FAMS @F19@
 1 OCCU Peasant
-1 NOTE According to the soullist 1651 in this time there were two Georg Prokopecz in Jamnai. One is born ca. 1643 (if assuming the soullist was created around 1657 which up to now seemed a reliable assumption), the other around 1629. There is a dying re
-2 CONC cord for a Georg Prokopecz without age at 1685. 1703 an Anna Prokopecz dies who is born around 1623. But the wife of the ca. 1629 born Georg is born around 1639. Also it is unknown which of the Georgs was the father of Johann Prokopecz (though I 
-2 CONC suspect the one born 1623, age estimations of very old people at their death records were often wrong).
+1 NOTE According to the soullist 1651 in this time there were two Georg Prokopecz in Jamnai. One is born ca. 1643 (if assuming the soullist was created around 1657 which up to now seemed a reliable assumption), the other around 1629. There is a dying r
+2 CONC ecord for a Georg Prokopecz without age at 1685. 1703 an Anna Prokopecz dies who is born around 1623. But the wife of the ca. 1629 born Georg is born around 1639. Also it is unknown which of the Georgs was the father of Johann Prokopecz (though 
+2 CONC I suspect the one born 1623, age estimations of very old people at their death records were often wrong).
 2 CONT 
 0 @I25@ INDI
 1 _UID EEEB1B91CC5E463AB57776D452F3A8CC5EEA
@@ -545,15 +544,15 @@
 1 FAMS @F17@
 1 BIRT
 2 DATE 29 SEP 1670
-2 PLAC Adlerdörfel
+2 PLAC AdlerdÃ¶rfel
 1 CHAN
 2 DATE 19 MAR 2019
 3 TIME 17:53:16
 1 FAMC @F23@
 1 NOTE "29th. Daughter born Rosina of Dominik Schlesinger and his wife Rosina. Testes:
 2 CONT Elisabeth, wife of Jan Schittko, Sabina, Wife of Tobias Feltzmann. Catharina, wife of
-2 CONT Georg Schüll. Georg Feltzmann, Hans Langer. Of Adlerdörfel/Worlitschka."
-1 SOUR Adlerdörfel,Births, Entry for Rosina Schlesinger,  09/29/1670, Zamrsk 64-2, Page 86
+2 CONT Georg SchÃ¼ll. Georg Feltzmann, Hans Langer. Of AdlerdÃ¶rfel/Worlitschka."
+1 SOUR AdlerdÃ¶rfel,Births, Entry for Rosina Schlesinger,  09/29/1670, Zamrsk 64-2, Page 86
 1 OBJE
 2 FILE D:\Downloads\Ahnenblatt\Trampota Media\RosinaSchlesinger1670_Birth.bmp
 3 _ALTPATH .\Trampota Media\
@@ -578,8 +577,8 @@
 3 _ALTPATH .\Trampota Media\
 3 FORM bmp
 2 TITL DominikSchlesinger1664 Marriage
-1 NOTE "30. Same Dominik Son of Georg Schlesinger and Rosina Rösner(???). From Worlitschka. Side notice "Judge of Worlitschka."
-1 SOUR Jamnay,Marriages, Entry for Dominik Schlesinger and Rosina Rösner, 11/30/1664, Zamrsk 64-7, Page 7
+1 NOTE "30. Same Dominik Son of Georg Schlesinger and Rosina RÃ¶sner(???). From Worlitschka. Side notice "Judge of Worlitschka."
+1 SOUR Jamnay,Marriages, Entry for Dominik Schlesinger and Rosina RÃ¶sner, 11/30/1664, Zamrsk 64-7, Page 7
 0 @I29@ INDI
 1 _UID 1B6BBB868FC147B199F7B71C14A81F5AA73A
 1 NAME Johann /Chladek/
@@ -606,7 +605,7 @@
 2 DATE ABT 1620
 1 DEAT
 2 DATE 9 APR 1717
-2 PLAC Adlerdörfel
+2 PLAC AdlerdÃ¶rfel
 1 FAMS @F24@
 1 OBJE
 2 FILE D:\Downloads\Ahnenblatt\Trampota Media\Chrudimsko_cele_H_zamceno.pdf
@@ -615,8 +614,8 @@
 2 TITL Chrudimsko cele H zamceno
 0 @I31@ INDI
 1 _UID 10B4F45AAD1D43CAB2C75938CB85C0DBDECE
-1 NAME Rosina /Rösner/
-2 SURN Rösner
+1 NAME Rosina /RÃ¶sner/
+2 SURN RÃ¶sner
 2 GIVN Rosina
 1 SEX F
 1 FAMS @F23@
@@ -628,8 +627,8 @@
 2 DATE (before 1647)
 0 @I32@ INDI
 1 _UID 52637AF0811C4E76B56B790A87A64C5DF9DB
-1 NAME Caspar /Rösner/
-2 SURN Rösner
+1 NAME Caspar /RÃ¶sner/
+2 SURN RÃ¶sner
 2 GIVN Caspar
 1 SEX M
 1 FAMS @F20@
@@ -660,7 +659,7 @@
 1 FAMS @F22@
 1 BIRT
 2 DATE 8 NOV 1800
-2 PLAC Zöllnei
+2 PLAC ZÃ¶llnei
 1 CHAN
 2 DATE 18 MAR 2019
 3 TIME 15:52:20
@@ -673,7 +672,7 @@
 1 SEX M
 1 BIRT
 2 DATE 26 AUG 1765
-2 PLAC Zöllnei
+2 PLAC ZÃ¶llnei
 1 CHAN
 2 DATE 18 MAR 2019
 3 TIME 15:50:49
@@ -703,8 +702,8 @@
 2 DATE ABT 1726
 1 DEAT
 2 DATE 27 MAY 1786
-2 PLAC Zöllnei
-1 NOTE Verstorben in Zöllnei #6.
+2 PLAC ZÃ¶llnei
+1 NOTE Verstorben in ZÃ¶llnei #6.
 1 CHAN
 2 DATE 18 MAR 2019
 3 TIME 15:48:54
@@ -721,7 +720,7 @@
 2 DATE ABT 1726
 1 DEAT
 2 DATE 25 FEB 1795
-2 PLAC Zöllnei
+2 PLAC ZÃ¶llnei
 1 NOTE Verstorben in Haus #7.
 1 CHAN
 2 DATE 18 MAR 2019
@@ -785,7 +784,7 @@
 1 FAMC @F22@
 1 BIRT
 2 DATE 2 MAY 1825
-2 PLAC Zöllnei
+2 PLAC ZÃ¶llnei
 1 CHAN
 2 DATE 19 MAR 2019
 3 TIME 11:36:59
@@ -803,10 +802,10 @@
 1 FAMC @F31@
 1 BIRT
 2 DATE 1 JUL 1816
-2 PLAC Zöllnei
+2 PLAC ZÃ¶llnei
 1 DEAT
 2 DATE 14 MAR 1875
-2 PLAC Zöllnei
+2 PLAC ZÃ¶llnei
 0 @I45@ INDI
 1 _UID 50BC9049629346F0ABB6BA8B0EF3C7B12F63
 1 NAME Joseph Kilian /Wanschura/
@@ -820,7 +819,7 @@
 1 OCCU Bauer
 1 BIRT
 2 DATE 3 APR 1767
-2 PLAC Zöllnei
+2 PLAC ZÃ¶llnei
 1 FAMC @F34@
 0 @I46@ INDI
 1 _UID C8F5CCF8374C4296B821EC07E78AA2A863C5
@@ -830,8 +829,8 @@
 1 SEX F
 1 FAMS @F31@
 1 CHAN
-2 DATE 19 MAR 2019
-3 TIME 11:37:52
+2 DATE 20 MAR 2019
+3 TIME 15:40:37
 1 FAMC @F32@
 1 BIRT
 2 DATE BEF 1774
@@ -845,36 +844,10 @@
 2 DATE 19 MAR 2019
 3 TIME 11:38:07
 1 FAMS @F32@
-1 OCCU Häusler
+1 OCCU HÃ¤usler
 1 NOTE Er stammte aus Sobkowitz.
 1 BIRT
 2 DATE BEF 1756
-0 @I48@ INDI
-1 _UID 992029A565DA46B79D5117AD543E8860EFD8
-1 NAME Dorothea /Hrdina/
-2 SURN Hrdina
-2 GIVN Dorothea
-1 SEX F
-1 FAMS @F32@
-1 CHAN
-2 DATE 19 MAR 2019
-3 TIME 11:38:14
-1 FAMC @F33@
-1 NOTE Sie stammte aus Mistrowitz.
-1 BIRT
-2 DATE BEF 1756
-0 @I49@ INDI
-1 _UID FA86AB19B501404A836F09E69C312BFB58E3
-1 NAME Anton /Hrdina/
-2 SURN Hrdina
-2 GIVN Anton
-1 SEX M
-1 FAMS @F33@
-1 CHAN
-2 DATE 19 MAR 2019
-3 TIME 11:38:23
-1 BIRT
-2 DATE BEF 1738
 0 @I50@ INDI
 1 _UID A69AC9BF80514A48B4080BB940F4D325D75C
 1 NAME Augustin /Wanschura/
@@ -883,15 +856,24 @@
 1 SEX M
 1 BIRT
 2 DATE 19 JUL 1733
-2 PLAC Zöllnei
+2 PLAC ZÃ¶llnei
 1 DEAT
 2 DATE 16 AUG 1791
-2 PLAC Zöllnei
+2 PLAC ZÃ¶llnei
 1 CHAN
-2 DATE 19 MAR 2019
-3 TIME 13:05:42
+2 DATE 20 MAR 2019
+3 TIME 15:49:30
 1 FAMS @F34@
 1 FAMC @F35@
+1 OBJE
+2 FILE .\Trampota Media\AugustinWanschura1760_Marriage.bmp
+3 _ALTPATH Trampota Media\
+3 FORM bmp
+2 TITL AugustinWanschura1760 Marriage
+1 NOTE "On Oct 5, 1760 were married young Augustin, a late legitimate son after deceased Augustin WanÅ¾ura and pure virgin Margaretha, a legitimate daughter of Johann Georg Netussil. Witnesses were Jozef Jandor from Mladkow, Weronika, a wife of Johann G
+2 CONC eorg Uhlrich, Rosina, a daughter of Johann Georg Uhlrich. Witnesses that professed that there is no blood relationship between (groom and a bride) or other problem that would thwart this marriage were Johann Georg Uhlrich, Franz Jozef StienjcÅ¾ka
+2 CONC , Krysstof Uhlrych and Andreas WancÅ¾ura. Marriage banns were read on Sep 14, 21 and 28. The ceremony was performed by Rev. Andreas GÃ¼nter."
+1 SOUR Marriages, ZÃ¶llnei, Entry for Augustin Wanschura and Marketa Netuschil, Zamrsk 109-8, Page 74
 0 @I51@ INDI
 1 _UID 20A1153F7F624477843316FFCA6387275853
 1 NAME Augustin /Wanschura/
@@ -900,10 +882,10 @@
 1 SEX M
 1 BIRT
 2 DATE 19 MAR 1702
-2 PLAC Zöllnei
+2 PLAC ZÃ¶llnei
 1 DEAT
 2 DATE 4 FEB 1743
-2 PLAC Zöllnei
+2 PLAC ZÃ¶llnei
 1 CHAN
 2 DATE 19 MAR 2019
 3 TIME 13:06:25
@@ -916,26 +898,40 @@
 2 GIVN Krystof
 1 SEX M
 1 BIRT
-2 DATE (before 1685)
+2 DATE (before 1674)
 1 CHAN
-2 DATE 19 MAR 2019
-3 TIME 13:09:31
+2 DATE 20 MAR 2019
+3 TIME 11:40:29
 1 FAMS @F36@
+1 NOTE Please note that the marriage notice is in really HARD to read czech language and Currentscript. I am pretty sure the pastname means "Wanczaurka" which is a declination (in czech language pastnames get declinated!) of nominative "Wanschaura", bu
+2 CONC t I am not 100% sure.
+2 CONT 
+2 CONT Is his ancestors are correct bases on this. I will try to get it confirmed later.
+2 CONT 
+2 CONT "November. Krystoff son of Jan Wanczaurka with Marygi daughter of Jan Nebostika - not 100% sure how the nominative goes here!"
+1 FAMC @F41@
+1 OBJE
+2 FILE .\Trampota Media\KrystoffWanschura1691_Marriage.bmp
+3 _ALTPATH Trampota Media\
+3 FORM bmp
+2 TITL KrystoffWanschura1691 Marriage
+1 SOUR ZÃ¶llnei, Marriages, Entry for Krystoff Wanschura and Marygi Nebostil, Zamrsk 083-2, Page 32
 0 @I53@ INDI
 1 _UID FB108FB3BC7643A6A600381DF633F73BBE8A
-1 NAME Margaretha /Netuschil/
+1 NAME Marketa /Netuschil/
 2 SURN Netuschil
-2 GIVN Margaretha
+2 GIVN Marketa
 1 SEX F
 1 FAMS @F34@
 1 BIRT
-2 DATE ABT 1734
+2 DATE (before 1743)
 1 DEAT
 2 DATE 19 DEC 1790
-2 PLAC Zöllnei
+2 PLAC ZÃ¶llnei
 1 CHAN
-2 DATE 19 MAR 2019
-3 TIME 13:07:55
+2 DATE 20 MAR 2019
+3 TIME 15:50:24
+1 FAMC @F45@
 0 @I54@ INDI
 1 _UID DD456C6C5F9643128AD9A939DFBAA7784127
 1 NAME Maria /Timan/
@@ -950,16 +946,19 @@
 3 TIME 13:08:53
 0 @I55@ INDI
 1 _UID B963EB7D68AE40089F204F9E93DC8C6BF4DD
-1 NAME Maria /.../
-2 SURN ...
+1 NAME Maria /Trigle(???)/
+2 SURN Trigle(???)
 2 GIVN Maria
 1 SEX F
 1 FAMS @F36@
 1 CHAN
-2 DATE 19 MAR 2019
-3 TIME 13:09:24
+2 DATE 20 MAR 2019
+3 TIME 13:35:09
 1 BIRT
-2 DATE (before 1685)
+2 DATE (before 1674)
+1 NOTE Note: The last name is pretty hard to read, I am sure about "Nebost". Another note on the firstname, it reads "Margyanu" which is a declination (in Czech language names are declinated!) of nominative "Marygi" which is in an old form of "Maria" i
+2 CONC n Czechia and to be seen as equivalent to the name Maria. One person can be listed as "Marygi" in one document and "Maria" in another document, I have seen this before.
+1 FAMC @F42@
 0 @I56@ INDI
 1 _UID F4183717126441309A8FC4801D6601EE209A
 1 NAME Rosina /.../
@@ -996,10 +995,10 @@
 3 TIME 22:25:33
 1 BIRT
 2 DATE (4. May 1848)
-2 PLAC Zöllnei
+2 PLAC ZÃ¶llnei
 1 CHR
 2 DATE (05. May 1848)
-2 PLAC Zöllnei
+2 PLAC ZÃ¶llnei
 1 NOTE She was born in #74.
 1 FAMS @F39@
 0 @I59@ INDI
@@ -1028,10 +1027,10 @@
 3 TIME 22:28:54
 1 BIRT
 2 DATE 15 APR 1870
-2 PLAC Zöllnei
+2 PLAC ZÃ¶llnei
 1 CHR
 2 DATE 16 APR 1870
-2 PLAC Zöllnei
+2 PLAC ZÃ¶llnei
 1 NOTE Josef was born in #74.
 0 @I61@ INDI
 1 _UID 1A58F64102154F3BA2C218A81BA0381F80C2
@@ -1042,10 +1041,11 @@
 1 FAMC @F31@
 1 BIRT
 2 DATE 9 AUG 1792
-2 PLAC Zöllnei
+2 PLAC ZÃ¶llnei
 1 CHAN
 2 DATE 19 MAR 2019
 3 TIME 22:31:58
+1 FAMS @F43@
 0 @I62@ INDI
 1 _UID BBE407328DAA423D978B8C04B5C774E71774
 1 NAME Anton /Ulrich/
@@ -1070,6 +1070,71 @@
 3 TIME 7:50:41
 1 BIRT
 2 DATE BEF 1826
+0 @I64@ INDI
+1 _UID 759B207605EB4FDE8CF793DD4A7D0AD960CC
+1 NAME Jan /Wanschura/
+2 SURN Wanschura
+2 GIVN Jan
+1 SEX M
+1 FAMS @F41@
+1 CHAN
+2 DATE 20 MAR 2019
+3 TIME 11:33:52
+1 BIRT
+2 DATE (before 1656)
+0 @I65@ INDI
+1 _UID 4F366BA3526245E7A43BCA8EE13CC641CE5E
+1 NAME Jan /Trigle(???)/
+2 SURN Trigle(???)
+2 GIVN Jan
+1 SEX M
+1 FAMS @F42@
+1 BIRT
+2 DATE (before 1656)
+1 CHAN
+2 DATE 20 MAR 2019
+3 TIME 13:35:17
+0 @I66@ INDI
+1 _UID B1A12AC7C53543448C2F1414551D9F671F40
+1 NAME Anna Theresia /Faltus/
+2 SURN Faltus
+2 GIVN Anna Theresia
+1 SEX F
+1 FAMS @F43@
+1 BIRT
+2 DATE 21 JUN 1791
+2 PLAC WÃ¶llsdorf
+1 NOTE Sie wurde in #38 geboren.
+2 CONT 
+2 CONT "Anna Theresia - Joseph Faltus, House Owner. Mother Anna Maria. Testes Theresia, Wife of Johann Wanschura. Franz Fischer. Both Peasants. No.38"
+2 CONT 
+1 SOUR WÃ¶llsdorf,Births,Entry for Marianna Faltus,06/21/1791,Zamrsk 161-2,Page 86
+1 CHAN
+2 DATE 20 MAR 2019
+3 TIME 13:53:09
+1 FAMC @F44@
+0 @I67@ INDI
+1 _UID 568C09EB76D5494BBF735E10FFB6FE192101
+1 NAME Joseph /Faltus/
+2 SURN Faltus
+2 GIVN Joseph
+1 SEX M
+1 FAMS @F44@
+1 CHAN
+2 DATE 20 MAR 2019
+3 TIME 13:53:22
+0 @I68@ INDI
+1 _UID AE7DD949E66E4371A30A46AFB6292A2B2B1E
+1 NAME Johann Georg /Netuschil/
+2 SURN Netuschil
+2 GIVN Johann Georg
+1 SEX M
+1 FAMS @F45@
+1 CHAN
+2 DATE 20 MAR 2019
+3 TIME 15:50:16
+1 BIRT
+2 DATE (before 1725)
 0 @F10@ FAM
 1 HUSB @I15@
 1 WIFE @I16@
@@ -1135,7 +1200,7 @@
 1 CHIL @I27@
 1 MARR
 2 DATE 30 NOV 1664
-2 PLAC Adlerdörfel
+2 PLAC AdlerdÃ¶rfel
 0 @F24@ FAM
 1 HUSB @I30@
 1 WIFE @I33@
@@ -1176,7 +1241,7 @@
 1 HUSB @I44@
 1 MARR
 2 DATE 22 OCT 1844
-2 PLAC Zöllnei
+2 PLAC ZÃ¶llnei
 1 CHIL @I58@
 0 @F31@ FAM
 1 HUSB @I45@
@@ -1184,33 +1249,32 @@
 1 CHIL @I44@
 1 MARR
 2 DATE 27 SEP 1791
-2 PLAC Zöllnei
+2 PLAC ZÃ¶llnei
 1 CHIL @I61@
 0 @F32@ FAM
 1 HUSB @I47@
-1 WIFE @I48@
 1 CHIL @I46@
-0 @F33@ FAM
-1 HUSB @I49@
-1 CHIL @I48@
 0 @F34@ FAM
 1 HUSB @I50@
 1 WIFE @I53@
 1 CHIL @I45@
 1 MARR
 2 DATE 5 OCT 1760
-2 PLAC Zöllnei
+2 PLAC ZÃ¶llnei
 0 @F35@ FAM
 1 HUSB @I51@
 1 WIFE @I54@
 1 CHIL @I50@
 1 MARR
 2 DATE 18 NOV 1725
-2 PLAC Zöllnei
+2 PLAC ZÃ¶llnei
 0 @F36@ FAM
 1 HUSB @I52@
 1 WIFE @I55@
 1 CHIL @I51@
+1 MARR
+2 DATE 11 NOV 1691
+2 PLAC ZÃ¶llnei
 0 @F37@ FAM
 1 HUSB @I29@
 1 WIFE @I57@
@@ -1225,7 +1289,7 @@
 1 CHIL @I60@
 1 MARR
 2 DATE 11 JUL 1871
-2 PLAC Zöllnei
+2 PLAC ZÃ¶llnei
 0 @F4@ FAM
 1 HUSB @I8@
 1 CHIL @I4@
@@ -1233,6 +1297,21 @@
 1 HUSB @I62@
 1 WIFE @I63@
 1 CHIL @I59@
+0 @F41@ FAM
+1 HUSB @I64@
+1 CHIL @I52@
+0 @F42@ FAM
+1 HUSB @I65@
+1 CHIL @I55@
+0 @F43@ FAM
+1 HUSB @I61@
+1 WIFE @I66@
+0 @F44@ FAM
+1 HUSB @I67@
+1 CHIL @I66@
+0 @F45@ FAM
+1 HUSB @I68@
+1 CHIL @I53@
 0 @F5@ FAM
 1 HUSB @I5@
 1 WIFE @I6@
