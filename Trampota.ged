@@ -4,7 +4,7 @@
 2 NAME Ahnenblatt
 2 CORP Dirk Boettcher
 1 DATE 20 MAR 2019
-2 TIME 16:20:32
+2 TIME 16:30:07
 1 SUBM @SUBM@
 1 FILE Trampota.ged
 1 GEDC
@@ -12,8 +12,8 @@
 2 FORM LINEAGE-LINKED
 1 CHAR UTF-8
 1 _NAVM 1
-2 _NAVI @I59@
-1 _HOME @I59@
+2 _NAVI @I7@
+1 _HOME @I7@
 0 @SUBM@ SUBM
 1 NAME Steffen Häuser
 1 ADDR Südstr. 40
@@ -159,8 +159,8 @@
 1 BIRT
 2 DATE ABT 1744
 1 CHAN
-2 DATE 19 MAR 2019
-3 TIME 13:30:52
+2 DATE 20 MAR 2019
+3 TIME 16:29:51
 1 FAMC @F6@
 1 DEAT
 2 DATE 7 APR 1779
@@ -169,12 +169,20 @@
 2 CONT daughter of the deceased Paul Filipp, both from the village Jamnay,
 2 CONT (details on church in Jablona and priest). Testes Tobias Filipp and
 2 CONT Martin Spaczek. (Details about the marriage being 3x announced)."
-1 SOUR Jablona,Marriages, Entry for Heinrich Steyskal and Judith Philipp,  04/07/1779, Zamrsk 64-10, Page 14
+2 CONT 
+2 CONT "7 - Heinrich Steyskal Peasant in Jamnay - Catholic - Jamnay - 128 - 35"
+1 SOUR Jablona,Marriages, Entry for Heinrich Steyskal and Judith Philipp,  06/04/1769, Zamrsk 64-10, Page 14
+2 CONT Jamnay,Deaths,Entry for Heinrich Steyskal, 04/07/1779, Zamrsk 64-13, Page 137
 1 OBJE
 2 FILE D:\Downloads\Ahnenblatt\Adams Media\HeinrichSteyskal1769_Marriage.bmp
 3 _ALTPATH .\Adams Media\
 3 FORM bmp
 2 TITL HeinrichSteyskal1769 Marriage
+1 OBJE
+2 FILE D:\Downloads\Ahnenblatt\Trampota Media\HeinrichSteyskal1779_Death.bmp
+3 _ALTPATH .\Trampota Media\
+3 FORM bmp
+2 TITL HeinrichSteyskal1779 Death
 0 @I8@ INDI
 1 _UID 7D6C31796A844B3E8AA2AD475EBF359B17A0
 1 NAME Paul /Philipp/
