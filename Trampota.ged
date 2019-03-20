@@ -4,7 +4,7 @@
 2 NAME Ahnenblatt
 2 CORP Dirk Boettcher
 1 DATE 20 MAR 2019
-2 TIME 16:42:56
+2 TIME 16:52:51
 1 SUBM @SUBM@
 1 FILE Trampota.ged
 1 GEDC
@@ -12,8 +12,8 @@
 2 FORM LINEAGE-LINKED
 1 CHAR UTF-8
 1 _NAVM 1
-2 _NAVI @I9@
-1 _HOME @I9@
+2 _NAVI @I16@
+1 _HOME @I16@
 0 @SUBM@ SUBM
 1 NAME Steffen Häuser
 1 ADDR Südstr. 40
@@ -373,7 +373,7 @@
 1 FAMS @F10@
 1 CHAN
 2 DATE 20 MAR 2019
-3 TIME 15:40:18
+3 TIME 16:52:44
 1 BIRT
 2 DATE 25 NOV 1705
 2 PLAC Jamnay
@@ -385,7 +385,21 @@
 2 TITL DorotheaCatharinaHrdina1705 Birth
 1 NOTE "25. Baptized is Dorothea Catharina of Wenceslaus Hrdina from Jamnay, Mother Anna. Lev. 
 2 CONT Anna Steyskalova. Elisabeth Kyllarowa, Wenceslaus Waczek. From Jamnay."
+2 CONT 
+2 CONT "From Jamnay: Same year day of 1st January the mother of family Dorothea wife of Wenceslaus Prokopetz at her 60th year died in her home. (Stuff about her getting dying sacraments). Buriel was 3rd of same month after Catholic Ritus. Jablona."
 1 SOUR Jamnay, Births, Entry for Dorothea Catharina Hrdina, 11/25/1705, Zamrsk 64-3, Page 170
+2 CONT Jamnay, Deaths, Entry for Dorothea Catharina Hrdina, 01/01/1768, Zamrsk 64-13, Page 82
+1 OBJE
+2 FILE D:\Downloads\Ahnenblatt\Trampota Media\DorotheaCatharinaHrdina1768_Death.bmp
+3 _ALTPATH .\Trampota Media\
+3 FORM bmp
+2 TITL DorotheaCatharinaHrdina1768 Death
+1 DEAT
+2 DATE 1 JAN 1768
+2 PLAC Jamnay
+1 BURI
+2 DATE 3 JAN 1768
+2 PLAC Jablona nad Orlici
 0 @I17@ INDI
 1 _UID A4CE5FDCE0034BF886D1EA3588300EEDFC1C
 1 NAME Wenceslaus /Hrdina/
