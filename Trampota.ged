@@ -4,7 +4,7 @@
 2 NAME Ahnenblatt
 2 CORP Dirk Boettcher
 1 DATE 21 MAR 2019
-2 TIME 15:03:04
+2 TIME 16:23:33
 1 SUBM @SUBM@
 1 FILE Trampota.ged
 1 GEDC
@@ -12,8 +12,8 @@
 2 FORM LINEAGE-LINKED
 1 CHAR UTF-8
 1 _NAVM 1
-2 _NAVI @I50@
-1 _HOME @I50@
+2 _NAVI @I47@
+1 _HOME @I47@
 0 @SUBM@ SUBM
 1 NAME Steffen Häuser
 1 ADDR Südstr. 40
@@ -967,20 +967,29 @@
 1 SOUR Zöllnei, Marriages, Entry for Krystoff Wanschura and Marygi Nebostil, Zamrsk 083-2, Page 32
 0 @I53@ INDI
 1 _UID FB108FB3BC7643A6A600381DF633F73BBE8A
-1 NAME Marketa /Netuschil/
+1 NAME Margaretha /Netuschil/
 2 SURN Netuschil
-2 GIVN Marketa
+2 GIVN Margaretha
 1 SEX F
 1 FAMS @F34@
 1 BIRT
-2 DATE (before 1743)
+2 DATE 1 NOV 1737
+2 PLAC Zöllnei
 1 DEAT
 2 DATE (19. Dec. 1790)
 2 PLAC Zöllnei
 1 CHAN
-2 DATE 20 MAR 2019
-3 TIME 15:59:31
-1 FAMC @F45@
+2 DATE 21 MAR 2019
+3 TIME 15:26:16
+1 FAMC @F51@
+1 OBJE
+2 FILE D:\Downloads\Ahnenblatt\Trampota Media\MargarethaNetuschil1737_Birth.bmp
+3 _ALTPATH .\Trampota Media\
+3 FORM bmp
+2 TITL MargarethaNetuschil1737 Birth
+1 NOTE "Zöllnei - 1 - Baptized is Margaretha daughter of Johann Georg Netuschil and Catharina his wife. Levans Veronica Wife of Johannes Georg Ulrich. Baker. Testes: Rosina Wife of Friedrich Fischer and Rosina Wife of Johannes Schmok and Johann Joseph 
+2 CONC Estieiczka(???) and Franz Pietsch from Wichstadtl and Johannes Stiepan from Wöllsd."
+1 SOUR Births, Zöllnei, Entry for Margaretha(Marketa) Netuschil, 11/01/1737, Zamrsk 109-1, Page 130
 0 @I54@ INDI
 1 _UID DD456C6C5F9643128AD9A939DFBAA7784127
 1 NAME Maria /Timan/
@@ -1194,12 +1203,12 @@
 2 SURN Netuschil
 2 GIVN Johann Georg
 1 SEX M
-1 FAMS @F45@
 1 CHAN
-2 DATE 20 MAR 2019
-3 TIME 15:50:16
+2 DATE 21 MAR 2019
+3 TIME 15:23:32
 1 BIRT
-2 DATE (before 1725)
+2 DATE (before 1720)
+1 FAMS @F51@
 0 @I69@ INDI
 1 _UID 98F6C74195B547A88A2E44F3BC3EC280FA21
 1 NAME Michael /Timan/
@@ -1228,8 +1237,8 @@
 1 SEX F
 1 FAMS @F47@
 1 CHAN
-2 DATE 20 MAR 2019
-3 TIME 16:13:54
+2 DATE 21 MAR 2019
+3 TIME 15:22:53
 0 @I72@ INDI
 1 _UID E49D5ECE809447BEBA25734C14C592885729
 1 NAME Franz /Barnet/
@@ -1270,10 +1279,64 @@
 2 SURN Faltus
 2 GIVN Anton
 1 SEX M
-1 FAMS @F50@
 1 CHAN
 2 DATE 20 MAR 2019
 3 TIME 21:00:01
+1 FAMS @F50@
+1 FAMC @F45@
+0 @I76@ INDI
+1 _UID 8F64E14C39F949CB8F8DE5A01B7D150ABE3A
+1 NAME Catharina /.../
+2 SURN ...
+2 GIVN Catharina
+1 SEX F
+1 FAMS @F51@
+1 BIRT
+2 DATE (before 1720)
+1 CHAN
+2 DATE 21 MAR 2019
+3 TIME 15:23:41
+0 @I77@ INDI
+1 _UID FF0FFBCC99994DBCB041BFCBD051C12F9CE0
+1 NAME Johann /Faltus/
+2 SURN Faltus
+2 GIVN Johann
+1 SEX M
+1 CHAN
+2 DATE 21 MAR 2019
+3 TIME 16:21:29
+1 FAMS @F45@
+1 FAMC @F52@
+0 @I78@ INDI
+1 _UID D4CCAAE0B6204EE18BE92D8815E62DDB5B65
+1 NAME Anna Maria /.../
+2 SURN ...
+2 GIVN Anna Maria
+1 SEX F
+1 FAMS @F50@
+1 CHAN
+2 DATE 21 MAR 2019
+3 TIME 16:21:43
+0 @I79@ INDI
+1 _UID BA1DA8CED5744857A403E44C747DEF533F51
+1 NAME Maria /.../
+2 SURN ...
+2 GIVN Maria
+1 SEX F
+1 FAMS @F45@
+1 CHAN
+2 DATE 21 MAR 2019
+3 TIME 16:23:04
+0 @I80@ INDI
+1 _UID 5FA924EAE8694205A4766E3F4CC355F7D018
+1 NAME Johann /Faltus/
+2 SURN Faltus
+2 GIVN Johann
+1 SEX M
+1 FAMS @F52@
+1 CHAN
+2 DATE 21 MAR 2019
+3 TIME 16:23:14
 0 @F10@ FAM
 1 HUSB @I15@
 1 WIFE @I16@
@@ -1446,8 +1509,9 @@
 1 HUSB @I67@
 1 CHIL @I66@
 0 @F45@ FAM
-1 HUSB @I68@
-1 CHIL @I53@
+1 HUSB @I77@
+1 WIFE @I79@
+1 CHIL @I75@
 0 @F46@ FAM
 1 HUSB @I69@
 1 CHIL @I54@
@@ -1475,7 +1539,15 @@
 2 PLAC Jablona nad Orlici
 0 @F50@ FAM
 1 HUSB @I75@
+1 WIFE @I78@
 1 CHIL @I47@
+0 @F51@ FAM
+1 HUSB @I68@
+1 WIFE @I76@
+1 CHIL @I53@
+0 @F52@ FAM
+1 HUSB @I80@
+1 CHIL @I77@
 0 @F6@ FAM
 1 HUSB @I9@
 1 WIFE @I10@
