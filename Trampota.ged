@@ -4,7 +4,7 @@
 2 NAME Ahnenblatt
 2 CORP Dirk Boettcher
 1 DATE 21 MAR 2019
-2 TIME 16:38:33
+2 TIME 16:46:14
 1 SUBM @SUBM@
 1 FILE Trampota.ged
 1 GEDC
@@ -12,8 +12,8 @@
 2 FORM LINEAGE-LINKED
 1 CHAR UTF-8
 1 _NAVM 1
-2 _NAVI @I77@
-1 _HOME @I77@
+2 _NAVI @I47@
+1 _HOME @I47@
 0 @SUBM@ SUBM
 1 NAME Steffen Häuser
 1 ADDR Südstr. 40
@@ -873,13 +873,19 @@
 1 SEX M
 1 CHAN
 2 DATE 21 MAR 2019
-3 TIME 16:37:17
+3 TIME 16:46:00
 1 OCCU Häusler
-1 NOTE He was from Sobkowitz.
+1 NOTE "Sobkowitz - 12 - Baptized is Joseph Anton son of Anton Faltus and Anna his wife. Levans: Paul Havel from Jamnay. Testes: Joseph Suchomel and Elisabeth the wife of Johann Petriczek from Lubnik."
 1 BIRT
-2 DATE 1750
+2 DATE 12 JUN 1750
 1 FAMS @F49@
 1 FAMC @F50@
+1 OBJE
+2 FILE D:\Downloads\Ahnenblatt\Trampota Media\JosephAntonFaltus1750_Birth.bmp
+3 _ALTPATH .\Trampota Media\
+3 FORM bmp
+2 TITL JosephAntonFaltus1750 Birth
+1 SOUR Births, Sobkowitz, Entry of Joseph Anton Faltus, 06/12/1750, Zamrsk 109-1, Page 191
 0 @I50@ INDI
 1 _UID A69AC9BF80514A48B4080BB940F4D325D75C
 1 NAME Augustin /Wanschura/
@@ -1281,11 +1287,11 @@
 1 SEX M
 1 CHAN
 2 DATE 21 MAR 2019
-3 TIME 16:37:12
+3 TIME 16:42:09
 1 FAMS @F50@
 1 FAMC @F45@
 1 BIRT
-2 DATE (before 1733)
+2 DATE (before 1727)
 0 @I76@ INDI
 1 _UID 8F64E14C39F949CB8F8DE5A01B7D150ABE3A
 1 NAME Catharina /.../
