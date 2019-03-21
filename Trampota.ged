@@ -3,8 +3,8 @@
 2 VERS 2.99e
 2 NAME Ahnenblatt
 2 CORP Dirk Boettcher
-1 DATE 20 MAR 2019
-2 TIME 16:52:51
+1 DATE 21 MAR 2019
+2 TIME 15:03:04
 1 SUBM @SUBM@
 1 FILE Trampota.ged
 1 GEDC
@@ -12,8 +12,8 @@
 2 FORM LINEAGE-LINKED
 1 CHAR UTF-8
 1 _NAVM 1
-2 _NAVI @I16@
-1 _HOME @I16@
+2 _NAVI @I50@
+1 _HOME @I50@
 0 @SUBM@ SUBM
 1 NAME Steffen Häuser
 1 ADDR Südstr. 40
@@ -373,7 +373,7 @@
 1 FAMS @F10@
 1 CHAN
 2 DATE 20 MAR 2019
-3 TIME 16:52:44
+3 TIME 16:52:38
 1 BIRT
 2 DATE 25 NOV 1705
 2 PLAC Jamnay
@@ -862,9 +862,9 @@
 1 CHAN
 2 DATE 20 MAR 2019
 3 TIME 15:40:37
-1 FAMC @F32@
 1 BIRT
 2 DATE BEF 1774
+1 FAMC @F49@
 0 @I47@ INDI
 1 _UID 4177B27693EF4BC7BA07422BD95EC112AC4F
 1 NAME Anton /Faltus/
@@ -872,13 +872,14 @@
 2 GIVN Anton
 1 SEX M
 1 CHAN
-2 DATE 19 MAR 2019
-3 TIME 11:38:07
-1 FAMS @F32@
+2 DATE 20 MAR 2019
+3 TIME 21:02:02
 1 OCCU Häusler
-1 NOTE Er stammte aus Sobkowitz.
+1 NOTE He was from Sobkowitz.
 1 BIRT
 2 DATE BEF 1756
+1 FAMS @F49@
+1 FAMC @F50@
 0 @I50@ INDI
 1 _UID A69AC9BF80514A48B4080BB940F4D325D75C
 1 NAME Augustin /Wanschura/
@@ -886,14 +887,14 @@
 2 GIVN Augustin
 1 SEX M
 1 BIRT
-2 DATE 19 NOV 1733
+2 DATE 19 JUL 1733
 2 PLAC Zöllnei
 1 DEAT
 2 DATE 16 AUG 1791
 2 PLAC Zöllnei
 1 CHAN
-2 DATE 20 MAR 2019
-3 TIME 16:00:17
+2 DATE 21 MAR 2019
+3 TIME 15:02:31
 1 FAMS @F34@
 1 FAMC @F35@
 1 OBJE
@@ -901,10 +902,18 @@
 3 _ALTPATH Trampota Media\
 3 FORM bmp
 2 TITL AugustinWanschura1760 Marriage
-1 NOTE "On Oct 5, 1760 were married young Augustin, a late legitimate son after deceased Augustin Wanžura and pure virgin Margaretha, a legitimate daughter of Johann Georg Netussil. Witnesses were Jozef Jandor from Mladkow, Weronika, a wife of Johann G
+1 NOTE "Zellnei - 19 Jun - Baptized is Augustin son of Augustin Wanschura and his wife Maria. Levans Johann Georg Ulrich. Testes Heinrich Netuschil and Anna Maria his Wife. Jannes Vogel. All from Zöllnei."
+2 CONT 
+2 CONT "On Oct 5, 1760 were married young Augustin, a late legitimate son after deceased Augustin Wanžura and pure virgin Margaretha, a legitimate daughter of Johann Georg Netussil. Witnesses were Jozef Jandor from Mladkow, Weronika, a wife of Johann G
 2 CONC eorg Uhlrich, Rosina, a daughter of Johann Georg Uhlrich. Witnesses that professed that there is no blood relationship between (groom and a bride) or other problem that would thwart this marriage were Johann Georg Uhlrich, Franz Jozef Stienjcžka
 2 CONC , Krysstof Uhlrych and Andreas Wancžura. Marriage banns were read on Sep 14, 21 and 28. The ceremony was performed by Rev. Andreas Günter."
-1 SOUR Marriages, Zöllnei, Entry for Augustin Wanschura and Marketa Netuschil, Zamrsk 109-8, Page 74
+1 SOUR Births, Zöllnei, Entry for Augustin Wanschura, 07/19/1733, Zamrsk 109-1, Page 109
+2 CONT Marriages, Zöllnei, Entry for Augustin Wanschura and Marketa Netuschil, 08/16/1791, Zamrsk 109-8, Page 74
+1 OBJE
+2 FILE .\Trampota Media\AugustinWanschura1733_Birth.bmp
+3 _ALTPATH Trampota Media\
+3 FORM bmp
+2 TITL AugustinWanschura1733 Birth
 0 @I51@ INDI
 1 _UID 20A1153F7F624477843316FFCA6387275853
 1 NAME Augustin /Wanschura/
@@ -1242,6 +1251,29 @@
 1 CHAN
 2 DATE 20 MAR 2019
 3 TIME 16:14:42
+0 @I74@ INDI
+1 _UID 400D415D2C28459F92C203CDB81CF7F60824
+1 NAME Maria Rosina /.../
+2 SURN ...
+2 GIVN Maria Rosina
+1 SEX F
+1 FAMS @F49@
+1 CHAN
+2 DATE 20 MAR 2019
+3 TIME 21:02:16
+1 BIRT
+2 DATE (before 1756)
+1 NOTE She was before married with Joseph Hubalek. She was from Wöllsdorf.
+0 @I75@ INDI
+1 _UID 466481F52556476992EEB9E05B4959A80909
+1 NAME Anton /Faltus/
+2 SURN Faltus
+2 GIVN Anton
+1 SEX M
+1 FAMS @F50@
+1 CHAN
+2 DATE 20 MAR 2019
+3 TIME 21:00:01
 0 @F10@ FAM
 1 HUSB @I15@
 1 WIFE @I16@
@@ -1358,9 +1390,6 @@
 2 DATE 27 SEP 1791
 2 PLAC Zöllnei
 1 CHIL @I61@
-0 @F32@ FAM
-1 HUSB @I47@
-1 CHIL @I46@
 0 @F34@ FAM
 1 HUSB @I50@
 1 WIFE @I53@
@@ -1430,6 +1459,13 @@
 1 HUSB @I72@
 1 WIFE @I73@
 1 CHIL @I63@
+0 @F49@ FAM
+1 HUSB @I47@
+1 WIFE @I74@
+1 CHIL @I46@
+1 MARR
+2 DATE 22 JUN 1767
+2 PLAC Sobkowitz
 0 @F5@ FAM
 1 HUSB @I5@
 1 WIFE @I6@
@@ -1437,6 +1473,9 @@
 1 MARR
 2 DATE 2 FEB 1766
 2 PLAC Jablona nad Orlici
+0 @F50@ FAM
+1 HUSB @I75@
+1 CHIL @I47@
 0 @F6@ FAM
 1 HUSB @I9@
 1 WIFE @I10@
