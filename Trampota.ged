@@ -4,7 +4,7 @@
 2 NAME Ahnenblatt
 2 CORP Dirk Boettcher
 1 DATE 21 MAR 2019
-2 TIME 16:46:14
+2 TIME 16:48:31
 1 SUBM @SUBM@
 1 FILE Trampota.ged
 1 GEDC
@@ -867,17 +867,20 @@
 1 FAMC @F49@
 0 @I47@ INDI
 1 _UID 4177B27693EF4BC7BA07422BD95EC112AC4F
-1 NAME Anton /Faltus/
+1 NAME Joseph Anton /Faltus/
 2 SURN Faltus
-2 GIVN Anton
+2 GIVN Joseph Anton
 1 SEX M
 1 CHAN
 2 DATE 21 MAR 2019
-3 TIME 16:46:00
+3 TIME 16:48:24
 1 OCCU Häusler
 1 NOTE "Sobkowitz - 12 - Baptized is Joseph Anton son of Anton Faltus and Anna his wife. Levans: Paul Havel from Jamnay. Testes: Joseph Suchomel and Elisabeth the wife of Johann Petriczek from Lubnik."
+2 CONT 
+2 CONT Note there is a second Anton Faltus born in Zöllnei 1749, by a different father (also Anton), but it is pretty sure this is the wrong one, as he does not come from Sobkowitz where the relevant Anton is from.
 1 BIRT
 2 DATE 12 JUN 1750
+2 PLAC Sobkowitz
 1 FAMS @F49@
 1 FAMC @F50@
 1 OBJE
