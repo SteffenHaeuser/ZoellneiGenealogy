@@ -4,7 +4,7 @@
 2 NAME Ahnenblatt
 2 CORP Dirk Boettcher
 1 DATE 21 MAR 2019
-2 TIME 16:48:31
+2 TIME 17:27:56
 1 SUBM @SUBM@
 1 FILE Trampota.ged
 1 GEDC
@@ -873,9 +873,12 @@
 1 SEX M
 1 CHAN
 2 DATE 21 MAR 2019
-3 TIME 16:48:24
+3 TIME 17:27:49
 1 OCCU Häusler
 1 NOTE "Sobkowitz - 12 - Baptized is Joseph Anton son of Anton Faltus and Anna his wife. Levans: Paul Havel from Jamnay. Testes: Joseph Suchomel and Elisabeth the wife of Johann Petriczek from Lubnik."
+2 CONT 
+2 CONT "Sobkowitz - 22th June married is the honest juvenile Anton remaining son of the dead Anton Faltus with the honest Maria Rosina remaining widow of the dead Joseph Hubalek from Wöllsdorf. Testes Johann Georg Gestzabek, Veronica Wife of Joseph Ulr
+2 CONC ich, and Theresia Daughter of Johann Georg Getzabek. Testes without canonical impediments Joannes Ardelt, Anton Schlesinger, Caspar Pacha, Franz Wanschura."
 2 CONT 
 2 CONT Note there is a second Anton Faltus born in Zöllnei 1749, by a different father (also Anton), but it is pretty sure this is the wrong one, as he does not come from Sobkowitz where the relevant Anton is from.
 1 BIRT
@@ -889,6 +892,12 @@
 3 FORM bmp
 2 TITL JosephAntonFaltus1750 Birth
 1 SOUR Births, Sobkowitz, Entry of Joseph Anton Faltus, 06/12/1750, Zamrsk 109-1, Page 191
+2 CONT Marriages, Sobkowitz, Entry of Joseph Anton Faltus and Maria Rosina, 06/22/1766, Zamrsk 109-8, Page 87
+1 OBJE
+2 FILE .\Trampota Media\AntonFaltus1766_Marriage.bmp
+3 _ALTPATH Trampota Media\
+3 FORM bmp
+2 TITL AntonFaltus1766 Marriage
 0 @I50@ INDI
 1 _UID A69AC9BF80514A48B4080BB940F4D325D75C
 1 NAME Augustin /Wanschura/
@@ -1525,7 +1534,7 @@
 1 WIFE @I74@
 1 CHIL @I46@
 1 MARR
-2 DATE 22 JUN 1767
+2 DATE 22 JUN 1766
 2 PLAC Sobkowitz
 0 @F5@ FAM
 1 HUSB @I5@
