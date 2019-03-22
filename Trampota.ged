@@ -3,8 +3,8 @@
 2 VERS 2.99e
 2 NAME Ahnenblatt
 2 CORP Dirk Boettcher
-1 DATE 21 MAR 2019
-2 TIME 17:27:56
+1 DATE 22 MAR 2019
+2 TIME 11:53:05
 1 SUBM @SUBM@
 1 FILE Trampota.ged
 1 GEDC
@@ -12,8 +12,8 @@
 2 FORM LINEAGE-LINKED
 1 CHAR UTF-8
 1 _NAVM 1
-2 _NAVI @I47@
-1 _HOME @I47@
+2 _NAVI @I76@
+1 _HOME @I76@
 0 @SUBM@ SUBM
 1 NAME Steffen Häuser
 1 ADDR Südstr. 40
@@ -1222,8 +1222,8 @@
 2 GIVN Johann Georg
 1 SEX M
 1 CHAN
-2 DATE 21 MAR 2019
-3 TIME 15:23:32
+2 DATE 22 MAR 2019
+3 TIME 11:17:02
 1 BIRT
 2 DATE (before 1720)
 1 FAMS @F51@
@@ -1286,11 +1286,11 @@
 1 SEX F
 1 FAMS @F49@
 1 CHAN
-2 DATE 20 MAR 2019
-3 TIME 21:02:16
+2 DATE 21 MAR 2019
+3 TIME 17:35:14
 1 BIRT
 2 DATE (before 1756)
-1 NOTE She was before married with Joseph Hubalek. She was from Wöllsdorf.
+1 NOTE She was before married with Joseph Hubalek. She was from Wöllsdorf. Joseph dies on 08th Feb. 1766 and is born around 1722.
 0 @I75@ INDI
 1 _UID 466481F52556476992EEB9E05B4959A80909
 1 NAME Anton /Faltus/
@@ -1312,10 +1312,17 @@
 1 SEX F
 1 FAMS @F51@
 1 BIRT
-2 DATE (before 1720)
+2 DATE ABT 1700
 1 CHAN
-2 DATE 21 MAR 2019
-3 TIME 15:23:41
+2 DATE 22 MAR 2019
+3 TIME 11:52:33
+1 DEAT
+2 DATE 22 JAN 1790
+2 PLAC Zöllnei
+1 NOTE She died in House #59.
+2 CONT 
+2 CONT "January 22 - 59 - Catharina Netuschilin, Widow - 90 Years, Died of Age"
+1 SOUR Deaths, Zöllnei, Entry of Catharina Netuschil, 01/22/1790, Zamrsk 161-7, Page 39
 0 @I77@ INDI
 1 _UID 95B8B9B8E8624A59B2F46EA57209B68F2490
 1 NAME Jacob or Peter /Faltus/
