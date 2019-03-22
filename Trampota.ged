@@ -4,7 +4,7 @@
 2 NAME Ahnenblatt
 2 CORP Dirk Boettcher
 1 DATE 22 MAR 2019
-2 TIME 15:28:22
+2 TIME 15:52:16
 1 SUBM @SUBM@
 1 FILE Trampota.ged
 1 GEDC
@@ -12,8 +12,8 @@
 2 FORM LINEAGE-LINKED
 1 CHAR UTF-8
 1 _NAVM 1
-2 _NAVI @I47@
-1 _HOME @I47@
+2 _NAVI @I74@
+1 _HOME @I74@
 0 @SUBM@ SUBM
 1 NAME Steffen Häuser
 1 ADDR Südstr. 40
@@ -1280,18 +1280,22 @@
 3 TIME 16:14:42
 0 @I74@ INDI
 1 _UID 400D415D2C28459F92C203CDB81CF7F60824
-1 NAME Rosina /Gestzabeck/
+1 NAME Anna Rosina /Gestzabeck/
 2 SURN Gestzabeck
-2 GIVN Rosina
+2 GIVN Anna Rosina
 1 SEX F
 1 FAMS @F49@
 1 CHAN
 2 DATE 22 MAR 2019
-3 TIME 15:26:56
+3 TIME 15:52:07
 1 BIRT
-2 DATE (before 1737)
+2 DATE 3 NOV 1736
+2 PLAC Wöllsdorf
 1 NOTE She was before married with Joseph Hubalek. She was from Wöllsdorf. Joseph dies on 08th Feb. 1766 and is born around 1722. Rosina married Joseph on 27th October 1754.
+2 CONT 
+2 CONT "Baptized is Anna Rosina daughter of Johannes Gestzabeck and Rosina his wife. Levans: Veronica wife of Georg Ulrich from Zöllnei. Testes: Jan Georg Peschke, Elias Weyrauch and Maria wife of Johann Georg Richter."
 1 FAMC @F52@
+1 SOUR Births, Wöllsdorf, Entry of Anna Rosina Gestzabeck, 11/03/1736, Zamrsk 109-1, Page 121
 0 @I75@ INDI
 1 _UID 466481F52556476992EEB9E05B4959A80909
 1 NAME Anton /Faltus/
@@ -1358,12 +1362,24 @@
 2 SURN Gestzabeck
 2 GIVN Johann
 1 SEX M
-1 FAMS @F52@
 1 BIRT
 2 DATE (before 1719)
 1 CHAN
 2 DATE 22 MAR 2019
 3 TIME 15:27:27
+1 FAMS @F52@
+0 @I80@ INDI
+1 _UID 4FDCF5BF1D65474697E76364B72CCD9073B5
+1 NAME Rosina /.../
+2 SURN ...
+2 GIVN Rosina
+1 SEX F
+1 FAMS @F52@
+1 CHAN
+2 DATE 22 MAR 2019
+3 TIME 15:47:55
+1 BIRT
+2 DATE (before 1719)
 0 @F10@ FAM
 1 HUSB @I15@
 1 WIFE @I16@
@@ -1573,6 +1589,7 @@
 1 CHIL @I53@
 0 @F52@ FAM
 1 HUSB @I79@
+1 WIFE @I80@
 1 CHIL @I74@
 0 @F6@ FAM
 1 HUSB @I9@
