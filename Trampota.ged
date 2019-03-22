@@ -4,7 +4,7 @@
 2 NAME Ahnenblatt
 2 CORP Dirk Boettcher
 1 DATE 22 MAR 2019
-2 TIME 11:53:05
+2 TIME 15:28:22
 1 SUBM @SUBM@
 1 FILE Trampota.ged
 1 GEDC
@@ -12,8 +12,8 @@
 2 FORM LINEAGE-LINKED
 1 CHAR UTF-8
 1 _NAVM 1
-2 _NAVI @I76@
-1 _HOME @I76@
+2 _NAVI @I47@
+1 _HOME @I47@
 0 @SUBM@ SUBM
 1 NAME Steffen Häuser
 1 ADDR Südstr. 40
@@ -872,8 +872,8 @@
 2 GIVN Joseph Anton
 1 SEX M
 1 CHAN
-2 DATE 21 MAR 2019
-3 TIME 17:27:49
+2 DATE 22 MAR 2019
+3 TIME 15:28:15
 1 OCCU Häusler
 1 NOTE "Sobkowitz - 12 - Baptized is Joseph Anton son of Anton Faltus and Anna his wife. Levans: Paul Havel from Jamnay. Testes: Joseph Suchomel and Elisabeth the wife of Johann Petriczek from Lubnik."
 2 CONT 
@@ -1068,8 +1068,8 @@
 1 SEX F
 1 FAMC @F30@
 1 CHAN
-2 DATE 19 MAR 2019
-3 TIME 22:25:33
+2 DATE 22 MAR 2019
+3 TIME 14:36:17
 1 BIRT
 2 DATE (4. May 1848)
 2 PLAC Zöllnei
@@ -1132,8 +1132,8 @@
 2 DATE 9 AUG 1792
 2 PLAC Zöllnei
 1 CHAN
-2 DATE 19 MAR 2019
-3 TIME 22:31:58
+2 DATE 22 MAR 2019
+3 TIME 14:35:57
 1 FAMS @F43@
 0 @I62@ INDI
 1 _UID BBE407328DAA423D978B8C04B5C774E71774
@@ -1202,8 +1202,8 @@
 2 CONT 
 1 SOUR Wöllsdorf,Births,Entry for Marianna Faltus,06/21/1791,Zamrsk 161-2,Page 86
 1 CHAN
-2 DATE 21 MAR 2019
-3 TIME 16:30:32
+2 DATE 22 MAR 2019
+3 TIME 14:36:01
 1 FAMC @F44@
 0 @I67@ INDI
 1 _UID 568C09EB76D5494BBF735E10FFB6FE192101
@@ -1223,7 +1223,7 @@
 1 SEX M
 1 CHAN
 2 DATE 22 MAR 2019
-3 TIME 11:17:02
+3 TIME 15:17:02
 1 BIRT
 2 DATE (before 1720)
 1 FAMS @F51@
@@ -1280,17 +1280,18 @@
 3 TIME 16:14:42
 0 @I74@ INDI
 1 _UID 400D415D2C28459F92C203CDB81CF7F60824
-1 NAME Maria Rosina /.../
-2 SURN ...
-2 GIVN Maria Rosina
+1 NAME Rosina /Gestzabeck/
+2 SURN Gestzabeck
+2 GIVN Rosina
 1 SEX F
 1 FAMS @F49@
 1 CHAN
-2 DATE 21 MAR 2019
-3 TIME 17:35:14
+2 DATE 22 MAR 2019
+3 TIME 15:26:56
 1 BIRT
-2 DATE (before 1756)
-1 NOTE She was before married with Joseph Hubalek. She was from Wöllsdorf. Joseph dies on 08th Feb. 1766 and is born around 1722.
+2 DATE (before 1737)
+1 NOTE She was before married with Joseph Hubalek. She was from Wöllsdorf. Joseph dies on 08th Feb. 1766 and is born around 1722. Rosina married Joseph on 27th October 1754.
+1 FAMC @F52@
 0 @I75@ INDI
 1 _UID 466481F52556476992EEB9E05B4959A80909
 1 NAME Anton /Faltus/
@@ -1298,8 +1299,8 @@
 2 GIVN Anton
 1 SEX M
 1 CHAN
-2 DATE 21 MAR 2019
-3 TIME 16:42:09
+2 DATE 22 MAR 2019
+3 TIME 14:16:56
 1 FAMS @F50@
 1 FAMC @F45@
 1 BIRT
@@ -1351,6 +1352,18 @@
 1 CHAN
 2 DATE 21 MAR 2019
 3 TIME 16:30:48
+0 @I79@ INDI
+1 _UID BB79C0AD77B2466E9A7AE9EF743123093BDD
+1 NAME Johann /Gestzabeck/
+2 SURN Gestzabeck
+2 GIVN Johann
+1 SEX M
+1 FAMS @F52@
+1 BIRT
+2 DATE (before 1719)
+1 CHAN
+2 DATE 22 MAR 2019
+3 TIME 15:27:27
 0 @F10@ FAM
 1 HUSB @I15@
 1 WIFE @I16@
@@ -1558,6 +1571,9 @@
 1 HUSB @I68@
 1 WIFE @I76@
 1 CHIL @I53@
+0 @F52@ FAM
+1 HUSB @I79@
+1 CHIL @I74@
 0 @F6@ FAM
 1 HUSB @I9@
 1 WIFE @I10@
