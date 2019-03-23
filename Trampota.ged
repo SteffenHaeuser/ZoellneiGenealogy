@@ -4,7 +4,7 @@
 2 NAME Ahnenblatt
 2 CORP Dirk Boettcher
 1 DATE 23 MAR 2019
-2 TIME 13:32:07
+2 TIME 13:41:38
 1 SUBM @SUBM@
 1 FILE Trampota.ged
 1 GEDC
@@ -13,8 +13,8 @@
 1 CHAR ANSI
 2 VERS 1252
 1 _NAVM 1
-2 _NAVI @I51@
-1 _HOME @I51@
+2 _NAVI @I47@
+1 _HOME @I47@
 0 @SUBM@ SUBM
 1 NAME Steffen Häuser
 1 ADDR Südstr. 40
@@ -665,8 +665,8 @@
 2 DATE ABT 1623
 1 NOTE The Age estimation bases on the Soullist 1651, using the common assumption that the soullist was actually collected in 1656-1657.
 1 CHAN
-2 DATE 15 MAR 2019
-3 TIME 15:54:47
+2 DATE 23 MAR 2019
+3 TIME 13:40:48
 0 @I34@ INDI
 1 _UID 9089BD17959545028A06296BB042B1779C95
 1 NAME Josef /Adelt/
@@ -858,31 +858,25 @@
 1 FAMC @F49@
 0 @I47@ INDI
 1 _UID 4177B27693EF4BC7BA07422BD95EC112AC4F
-1 NAME Joseph Anton /Faltus/
+1 NAME Anton /Faltus/
 2 SURN Faltus
-2 GIVN Joseph Anton
+2 GIVN Anton
 1 SEX M
 1 CHAN
-2 DATE 22 MAR 2019
-3 TIME 15:28:15
+2 DATE 23 MAR 2019
+3 TIME 13:41:25
 1 OCCU Häusler
-1 NOTE "Sobkowitz - 12 - Baptized is Joseph Anton son of Anton Faltus and Anna his wife. Levans: Paul Havel from Jamnay. Testes: Joseph Suchomel and Elisabeth the wife of Johann Petriczek from Lubnik."
-2 CONT 
-2 CONT "Sobkowitz - 22th June married is the honest juvenile Anton remaining son of the dead Anton Faltus with the honest Maria Rosina remaining widow of the dead Joseph Hubalek from Wöllsdorf. Testes Johann Georg Gestzabek, Veronica Wife of Joseph Ulri
+1 NOTE "Sobkowitz - 22th June married is the honest juvenile Anton remaining son of the dead Anton Faltus with the honest Maria Rosina remaining widow of the dead Joseph Hubalek from Wöllsdorf. Testes Johann Georg Gestzabek, Veronica Wife of Joseph Ulri
 2 CONC ch, and Theresia Daughter of Johann Georg Getzabek. Testes without canonical impediments Joannes Ardelt, Anton Schlesinger, Caspar Pacha, Franz Wanschura."
 2 CONT 
 2 CONT Note there is a second Anton Faltus born in Zöllnei 1749, by a different father (also Anton), but it is pretty sure this is the wrong one, as he does not come from Sobkowitz where the relevant Anton is from.
-1 BIRT
-2 DATE 12 JUN 1750
-2 PLAC Sobkowitz
 1 FAMS @F49@
 1 FAMC @F50@
 1 OBJE
 2 FILE D:\Downloads\Ahnenblatt\Trampota Media\JosephAntonFaltus1750_Birth.bmp
 3 FORM bmp
 2 TITL JosephAntonFaltus1750 Birth
-1 SOUR Births, Sobkowitz, Entry of Joseph Anton Faltus, 06/12/1750, Zamrsk 109-1, Page 191
-2 CONT Marriages, Sobkowitz, Entry of Joseph Anton Faltus and Maria Rosina, 06/22/1766, Zamrsk 109-8, Page 87
+1 SOUR Marriages, Sobkowitz, Entry of Joseph Anton Faltus and Maria Rosina, 06/22/1766, Zamrsk 109-8, Page 87
 1 OBJE
 2 FILE .\Trampota Media\AntonFaltus1766_Marriage.bmp
 3 _ALTPATH Trampota Media\
@@ -1202,8 +1196,8 @@
 1 SEX M
 1 FAMS @F44@
 1 CHAN
-2 DATE 21 MAR 2019
-3 TIME 16:29:59
+2 DATE 23 MAR 2019
+3 TIME 13:41:14
 0 @I68@ INDI
 1 _UID AE7DD949E66E4371A30A46AFB6292A2B2B1E
 1 NAME Johann Georg /Netuschil/
@@ -1295,7 +1289,6 @@
 2 DATE 22 MAR 2019
 3 TIME 14:16:56
 1 FAMS @F50@
-1 FAMC @F45@
 1 BIRT
 2 DATE (before 1727)
 0 @I76@ INDI
@@ -1317,34 +1310,6 @@
 2 CONT 
 2 CONT "January 22 - 59 - Catharina Netuschilin, Widow - 90 Years, Died of Age"
 1 SOUR Deaths, Zöllnei, Entry of Catharina Netuschil, 01/22/1790, Zamrsk 161-7, Page 39
-0 @I77@ INDI
-1 _UID 95B8B9B8E8624A59B2F46EA57209B68F2490
-1 NAME Jacob or Peter /Faltus/
-2 SURN Faltus
-2 GIVN Jacob or Peter
-1 SEX M
-1 FAMS @F45@
-1 NOTE There are 3 Anton Faltus sen.
-2 CONT As Anton Faltus jun. is born in Sobkovitz only two of them can be the correct one. 
-2 CONT It is not entirely sure though which of the two is the correct one.
-2 CONT Both Anton Faltus sen. from Sobkowitz had a wife named Anna.
-2 CONT Anton, son of Peter is from Erlitz and possibly moved to his wife's town. Anton, son of Jacob was already
-2 CONT from Sobkowitz before.
-1 CHAN
-2 DATE 21 MAR 2019
-3 TIME 16:38:26
-1 BIRT
-2 DATE (before 1715)
-0 @I78@ INDI
-1 _UID D4CCAAE0B6204EE18BE92D8815E62DDB5B65
-1 NAME Anna /.../
-2 SURN ...
-2 GIVN Anna
-1 SEX F
-1 FAMS @F50@
-1 CHAN
-2 DATE 21 MAR 2019
-3 TIME 16:30:48
 0 @I79@ INDI
 1 _UID BB79C0AD77B2466E9A7AE9EF743123093BDD
 1 NAME Johann /Gestzabeck/
@@ -1564,9 +1529,6 @@
 0 @F44@ FAM
 1 HUSB @I67@
 1 CHIL @I66@
-0 @F45@ FAM
-1 HUSB @I77@
-1 CHIL @I75@
 0 @F46@ FAM
 1 HUSB @I69@
 1 CHIL @I54@
@@ -1594,7 +1556,6 @@
 2 PLAC Jablona nad Orlici
 0 @F50@ FAM
 1 HUSB @I75@
-1 WIFE @I78@
 1 CHIL @I47@
 0 @F51@ FAM
 1 HUSB @I68@
