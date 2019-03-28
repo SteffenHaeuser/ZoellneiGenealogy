@@ -4,7 +4,7 @@
 2 NAME Ahnenblatt
 2 CORP Dirk Boettcher
 1 DATE 28 MAR 2019
-2 TIME 11:58:11
+2 TIME 18:18:17
 1 SUBM @SUBM@
 1 FILE Trampota.ged
 1 GEDC
@@ -12,8 +12,8 @@
 2 FORM LINEAGE-LINKED
 1 CHAR UTF-8
 1 _NAVM 1
-2 _NAVI @I45@
-1 _HOME @I45@
+2 _NAVI @I58@
+1 _HOME @I58@
 0 @SUBM@ SUBM
 1 NAME Steffen Häuser
 1 ADDR Südstr. 40
@@ -869,14 +869,20 @@
 2 GIVN Joseph Kilian
 1 SEX M
 1 CHAN
-2 DATE 20 MAR 2019
-3 TIME 7:35:11
+2 DATE 28 MAR 2019
+3 TIME 16:14:15
 1 FAMS @F31@
 1 OCCU Bauer
 1 BIRT
 2 DATE 3 APR 1767
 2 PLAC Zöllnei
 1 FAMC @F34@
+1 OBJE
+2 FILE .\Trampota Media\JosephWanschura1791_Marriage.png
+3 _ALTPATH Trampota Media\
+3 FORM png
+2 TITL JosephWanschura1791 Marriage
+1 NOTE "27 - 59 (House Number) - Joseph Wanschura, Peasant, 21 Years, Maria, Daughter of Anton Wanschura, Peasant, 20 Years. Testes Joseph Netuschil, Shoemaker and Johann Wanschura, Peasant"
 0 @I46@ INDI
 1 _UID C8F5CCF8374C4296B821EC07E78AA2A863C5
 1 NAME Anna Maria /Faltus/
@@ -885,11 +891,21 @@
 1 SEX F
 1 FAMS @F31@
 1 CHAN
-2 DATE 20 MAR 2019
-3 TIME 15:40:37
+2 DATE 28 MAR 2019
+3 TIME 15:58:44
 1 BIRT
-2 DATE BEF 1774
+2 DATE 13 FEB 1772
+2 PLAC Wöllsdorf
 1 FAMC @F49@
+1 NOTE "15 - 13 - Anna Maria - Faltus Anton (??? Job Name ???) Anna Rosina Mater, Catharina Wife of Franz Wanschura Peasant of Wöllsdorf and Joseph Barnet, Peasant of Wöllsdorf, Cathol.,Wöllsdorf, 30 (House Number)."
+2 CONT 
+2 CONT Note there are two Anna Maria, daughter of Anton Faltus, but only this one fits to the dates calculated from Marriage. The other was only 15 at the time. Both are from the same house.
+1 OBJE
+2 FILE .\Trampota Media\AnnaMariaFaltus1772_Birth.bmp
+3 _ALTPATH Trampota Media\
+3 FORM bmp
+2 TITL AnnaMariaFaltus1772 Birth
+1 SOUR Births, Wöllsdorf, Entry of Anna Maria Faltus, Zamrsk 161-1, Page 9
 0 @I47@ INDI
 1 _UID 4177B27693EF4BC7BA07422BD95EC112AC4F
 1 NAME Anton /Faltus/
@@ -961,25 +977,33 @@
 2 GIVN Augustin
 1 SEX M
 1 BIRT
-2 DATE (19. March 1702)
+2 DATE (14. March 1702)
 2 PLAC Zöllnei
 1 DEAT
 2 DATE (04. February 1743)
 2 PLAC Zöllnei
 1 CHAN
-2 DATE 26 MAR 2019
-3 TIME 17:55:12
+2 DATE 28 MAR 2019
+3 TIME 18:16:44
 1 FAMS @F35@
 1 FAMC @F36@
+1 OBJE
+2 FILE .\Trampota Media\AugustinWanschura1702_Birth.bmp
+3 _ALTPATH Trampota Media\
+3 FORM bmp
+2 TITL AugustinWanschura1702 Birth
+1 NOTE "Augustin - Krystoff Wanschura. M. Maria - Pavel Tryber, Tobias Geppert, Gyrzy Zobele, Maria P???, Susanne Brolin(???) - Zelnyho - 14 - March - 1702"
+2 CONT 
+2 CONT "Zöllnei - 18th November married are Augustin Wanschura with Maria daughter of Michael Timan
+2 CONT from Linsdorff, Testes Joannes Schreiber Maria of Johannes Schreiber Anna Maria Kristin all from
+2 CONT Linsdorf."
+1 SOUR Zöllnei, Births, Entry for Augustin Wanschura, 03/14/1702, Zamrsk 83-2, Page 271
+2 CONT Zöllnei, Marriages, Entry for Augustin Wanschura and Maria Timan, 11/18/1725, 109-8, Page 20
 1 OBJE
 2 FILE .\Trampota Media\AugustinWanschura1725_Marriage.bmp
 3 _ALTPATH Trampota Media\
 3 FORM bmp
 2 TITL AugustinWanschura1725 Marriage
-1 NOTE "Zöllnei - 18th November married are Augustin Wanschura with Maria daughter of Michael Timan
-2 CONT from Linsdorff, Testes Joannes Schreiber Maria of Johannes Schreiber Anna Maria Kristin all from
-2 CONT Linsdorf."
-1 SOUR Zöllnei, Marriages, Entry for Augustin Wanschura and Maria Timan, 11/18/1725, 109-8, Page 20
 0 @I52@ INDI
 1 _UID AB84DF097EE4469CAB36ABF5C5C6196BEB9F
 1 NAME Krystof /Wanschura/
@@ -989,15 +1013,12 @@
 1 BIRT
 2 DATE (before 1674)
 1 CHAN
-2 DATE 27 MAR 2019
-3 TIME 15:05:36
+2 DATE 28 MAR 2019
+3 TIME 18:16:57
 1 FAMS @F36@
-1 NOTE Please note that the marriage notice is in really HARD to read czech language and Currentscript. I am pretty sure the pastname means "Wanczaurka" which is a declination (in czech language pastnames get declinated!) of nominative "Wanschaura", bu
-2 CONC t I am not 100% sure.
+1 NOTE Please note that the marriage notice is in really HARD to read czech language and Currentscript. 
 2 CONT 
-2 CONT Is his ancestors are correct bases on this. I will try to get it confirmed later.
-2 CONT 
-2 CONT "November. Krystoff son of Jan Wanczaurka with Marygi daughter of Jan Nebostika - not 100% sure how the nominative goes here!"
+2 CONT "November. Krystoff son of Jan Wanczaurka with Marygi daughter of Jan Trigle(???)"
 1 FAMC @F41@
 1 OBJE
 2 FILE .\Trampota Media\KrystoffWanschura1691_Marriage.bmp
