@@ -4,7 +4,7 @@
 2 NAME Ahnenblatt
 2 CORP Dirk Boettcher
 1 DATE 28 MAR 2019
-2 TIME 18:18:17
+2 TIME 18:32:47
 1 SUBM @SUBM@
 1 FILE Trampota.ged
 1 GEDC
@@ -12,8 +12,8 @@
 2 FORM LINEAGE-LINKED
 1 CHAR UTF-8
 1 _NAVM 1
-2 _NAVI @I58@
-1 _HOME @I58@
+2 _NAVI @I19@
+1 _HOME @I19@
 0 @SUBM@ SUBM
 1 NAME Steffen Häuser
 1 ADDR Südstr. 40
@@ -306,13 +306,20 @@
 1 BIRT
 2 DATE ABT 1697
 1 CHAN
-2 DATE 19 MAR 2019
-3 TIME 13:35:23
+2 DATE 28 MAR 2019
+3 TIME 18:26:02
 1 FAMS @F9@
 1 DEAT
 2 DATE (09. Dec 1747)
 2 PLAC Jamnay
 1 FAMS @F38@
+1 OBJE
+2 FILE .\Trampota Media\MathiasTrampota1749_Death.bmp
+3 _ALTPATH Trampota Media\
+3 FORM bmp
+2 TITL MathiasTrampota1749 Death
+1 NOTE "Jamnay, Same Year the 9th December was Mathias Trampota buried, his 50th Year, he received the final sacrament."
+1 SOUR Deaths, Jamnay, Entry for Mathias Trampota, Zamrsk 64-12, Page 274
 0 @I14@ INDI
 1 _UID 183A83B78B4A4F57911FF7B1C67B4BF0DBE1
 1 NAME Rosina /Kozaczek/
@@ -441,8 +448,8 @@
 2 GIVN Matthäus
 1 SEX M
 1 CHAN
-2 DATE 19 MAR 2019
-3 TIME 17:55:10
+2 DATE 28 MAR 2019
+3 TIME 18:31:21
 1 FAMS @F13@
 1 FAMC @F15@
 1 BIRT
@@ -466,14 +473,21 @@
 1 SEX F
 1 FAMS @F13@
 1 CHAN
-2 DATE 19 MAR 2019
-3 TIME 17:55:05
+2 DATE 28 MAR 2019
+3 TIME 18:31:14
 1 BIRT
 2 DATE ABT 1687
 1 DEAT
 2 DATE 14 DEC 1747
 2 PLAC Jamnay
 1 FAMC @F17@
+1 OBJE
+2 FILE .\Trampota Media\SusannaChladek1747_Death.bmp
+3 _ALTPATH Trampota Media\
+3 FORM bmp
+2 TITL SusannaChladek1747 Death
+1 NOTE "The same Year 14th December was Susanna wife of Matthäus Steyskal with 60 years buried, after receiving the final sacrament."
+1 SOUR Deaths, Jamnay, Entry for Susanna Chladek, Zamrsk 64-12, Page 275
 0 @I21@ INDI
 1 _UID 32E41A21156F48E5AD6C7083AEC0290FB417
 1 NAME Martin /Chladek/
