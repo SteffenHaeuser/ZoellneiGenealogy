@@ -3,8 +3,8 @@
 2 VERS 2.99e
 2 NAME Ahnenblatt
 2 CORP Dirk Boettcher
-1 DATE 27 MAR 2019
-2 TIME 15:10:00
+1 DATE 28 MAR 2019
+2 TIME 11:58:11
 1 SUBM @SUBM@
 1 FILE Trampota.ged
 1 GEDC
@@ -12,8 +12,8 @@
 2 FORM LINEAGE-LINKED
 1 CHAR UTF-8
 1 _NAVM 1
-2 _NAVI @I79@
-1 _HOME @I79@
+2 _NAVI @I45@
+1 _HOME @I45@
 0 @SUBM@ SUBM
 1 NAME Steffen Häuser
 1 ADDR Südstr. 40
@@ -824,8 +824,8 @@
 2 DATE 2 MAY 1825
 2 PLAC Zöllnei
 1 CHAN
-2 DATE 19 MAR 2019
-3 TIME 11:36:59
+2 DATE 28 MAR 2019
+3 TIME 10:22:47
 1 FAMS @F30@
 0 @I44@ INDI
 1 _UID 73343B0506FB4D19AB478EE0FCFD61000851
@@ -835,8 +835,8 @@
 1 SEX M
 1 FAMS @F30@
 1 CHAN
-2 DATE 20 MAR 2019
-3 TIME 7:35:00
+2 DATE 28 MAR 2019
+3 TIME 10:47:52
 1 FAMC @F31@
 1 BIRT
 2 DATE 1 JUL 1816
@@ -844,6 +844,24 @@
 1 DEAT
 2 DATE 14 MAR 1875
 2 PLAC Zöllnei
+1 OBJE
+2 FILE .\Trampota Media\FranzWanschura1816_Birth.png
+3 _ALTPATH Trampota Media\
+3 FORM png
+2 TITL FranzWanschura1816 Birth
+1 NOTE "1st July, 73 (House Number), Franz, Joseph Wanschura, Peasant, Anna, Daughter of Anton Faltus, House Owner."
+2 CONT 
+2 CONT "On 22nd Oct. 1844 in Zöllnei were married Franz Wanschura a peasant from Zöllnei #74, Catholic, unmarried, a legitimate son of the deceased Joseph Wanschura, a peasant from Zöllnei #74 and his
+2 CONT wife Anna, born Faltus from Wöllsdorf #38. Age 28.
+2 CONT And Marianna Adelt, legitimate daughter of Joseph Adelt, a peasant from Zöllnei #9 and his wife 
+2 CONT Franziska, born Trampota from Jamnay #50 (Lanskroun). Marianne was catholic, unmarried and 19 years old."
+1 SOUR Births, Zöllnei, Entry for Franz Wanschura, 07/01/1816, Zamrsk 161-3, Page 70
+2 CONT Marriages, Zöllnei, Entry for Franz Wanschura and Marianne Adelt, 10/22/1844, Zamrsk 161-3158, Page 22
+1 OBJE
+2 FILE .\Trampota Media\FranzWanschura1844_Marriage.bmp
+3 _ALTPATH Trampota Media\
+3 FORM bmp
+2 TITL FranzWanschura1844 Marriage
 0 @I45@ INDI
 1 _UID 50BC9049629346F0ABB6BA8B0EF3C7B12F63
 1 NAME Joseph Kilian /Wanschura/
@@ -1072,16 +1090,22 @@
 1 SEX F
 1 FAMC @F30@
 1 CHAN
-2 DATE 22 MAR 2019
-3 TIME 14:36:17
+2 DATE 28 MAR 2019
+3 TIME 9:48:28
 1 BIRT
 2 DATE (4. May 1848)
 2 PLAC Zöllnei
 1 CHR
 2 DATE (05. May 1848)
 2 PLAC Zöllnei
-1 NOTE She was born in #74.
+1 NOTE "Mai 4th born, 5th baptized - 74 (House No.) - Anna Maria - Franz Wanschura, Catholic, Peasant from Zöllnei from #74 belonging to Geiersberg, legitimate son of the deceased Josef Wanschura, Peasant from Zöllnei from #74 and his wife Anna legitim
+2 CONC ate Daughter of the deceased Johann Faltus House Owner from Wöllsdorf.
+2 CONT Anna Adelt, Catholic, legitimate daughter of Joseph Adelt, Peasant from Zöllnei #9 belonging to Geiersberg and his wife Franziska, daughter of the deceased Franz Trampota, peasant from Jamnay from #50, belonging to Lanskron."
+2 CONT 
+2 CONT Note the name of the mother of Franz Wanschura differs here to what was given in the marriage and birth records of Franz Wanschura. I expect this to be a mistake as the other records are "closer to the fact". There have NOT been several Franz Wa
+2 CONC nschura's.
 1 FAMS @F39@
+1 SOUR Births, Zöllnei, Entry for Anna Maria Wanschura, 05/04/1848, Zamrsk 161-5, Page 78
 0 @I59@ INDI
 1 _UID 983A5EFC68FE4EE988397284036C56509538
 1 NAME Josef /Ulrich/
@@ -1090,12 +1114,18 @@
 1 SEX M
 1 FAMS @F39@
 1 CHAN
-2 DATE 20 MAR 2019
-3 TIME 16:20:17
+2 DATE 28 MAR 2019
+3 TIME 10:06:50
 1 NOTE "Born 10th, baptized 11th" - 79 - Josephus (Details on the priest after his name) - Anton Ullrich, catholic, Peasant from Zöllnei #79, from the ruling area of Geyersberg, legitimate son of the deceased Anton Ulrich, Peasant from Zöllnei from #79
 2 CONC  and his wife Katharina, born Netuschil, from Zöllnei #25.
 2 CONT Theresia Barnet, Catholic, legitimate daughter of Franz Barnet, peasent of Wöllsdorf, from #33, ruling area of Geyersberg, and his wife Rosalia, born Bauchal, from Middle Lipka #21, ruling area of Grulich. Testes: Joseph Bauchal, House-Owner of 
 2 CONC Wöllsdorf #2, Josepha Wenschura, wife of Franz Wanschura, from Zöllnei #51."
+2 CONT 
+2 CONT "11th July 1871 - 79 (House Number), Josef Ulrich, Infantry soldier in Infantry Regiment #18 of Great Prince Constantin, 12th Regiment, Son of Anton Ulrich, Peasant of Zöllnei #79 and of his wife Theresia born Barnet from Wöllsdorf #33. 27 Years
+2 CONC .
+2 CONT Anna Maria, legitimate daughter of Franz Wanschura, Peasant in Zöllnei #74 and his Wife Anna born Adelt from Zöllnei #9. 23 Years."
+2 CONT 
+2 CONT Josef married Anna Maria Wanschura after their child was born as is noted on the birth record of their son Josef, but it is also noted that he is actually the father of Josef.
 2 CONT 
 2 CONT Josef's son Josef (*1870) was illegitime, but he admitted that he was the father and married his son's mother in 1871.
 2 CONT Josef was born in #79. #79 is also given as his house in his marriage record.
@@ -1108,6 +1138,12 @@
 2 DATE 11 AUG 1843
 2 PLAC Zöllnei
 1 SOUR Zöllnei, Births, Entry for Josef Ulrich, 08/10/1843, 161-5, Page 60
+2 CONT Zöllnei, Marriages, Entry of Josef Ullrich and Anna Maria Wanschura, 07/11/1871, Zamrsk 161-3158, Page 55
+1 OBJE
+2 FILE .\Trampota Media\JosefUlrich1871_Marriage.bmp
+3 _ALTPATH Trampota Media\
+3 FORM bmp
+2 TITL JosefUlrich1871 Marriage
 0 @I60@ INDI
 1 _UID 69980F860D6E42A7BBD251BD3873BF7A793F
 1 NAME Josef /Ulrich/
@@ -1116,15 +1152,22 @@
 1 SEX M
 1 FAMC @F39@
 1 CHAN
-2 DATE 19 MAR 2019
-3 TIME 22:28:54
+2 DATE 28 MAR 2019
+3 TIME 9:37:36
 1 BIRT
 2 DATE 15 APR 1870
 2 PLAC Zöllnei
 1 CHR
 2 DATE 16 APR 1870
 2 PLAC Zöllnei
-1 NOTE Josef was born in #74.
+1 NOTE "15. April - 74 (House No.) - The illegitimate father Josef Ulrich was married qwith Anna Wanschura on 11th July 1871 where two testes were present. He is legitimate son of Anton Ullrich Peasant from Zöllnei #79 and his Wife Theresia born Barnet
+2 CONC  from Wöllsdorf No.33. Anna, Catholic daughter of Franz Wanschura, peasant of Zöllnei #74 and his wife Marianna born Adelt from Zöllnei #9."
+1 OBJE
+2 FILE .\Trampota Media\JosefUlrich1870_Birth.bmp
+3 _ALTPATH Trampota Media\
+3 FORM bmp
+2 TITL JosefUlrich1870 Birth
+1 SOUR Births, Zöllnei, Entry of Josef Ulrich, 04/15/1870, Zamrsk 161-3156, Page 98
 0 @I61@ INDI
 1 _UID 1A58F64102154F3BA2C218A81BA0381F80C2
 1 NAME Joseph /Wanschura/
