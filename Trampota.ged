@@ -3,8 +3,8 @@
 2 VERS 2.99e
 2 NAME Ahnenblatt
 2 CORP Dirk Boettcher
-1 DATE 28 MAR 2019
-2 TIME 18:32:47
+1 DATE 29 MAR 2019
+2 TIME 16:12:24
 1 SUBM @SUBM@
 1 FILE Trampota.ged
 1 GEDC
@@ -12,8 +12,8 @@
 2 FORM LINEAGE-LINKED
 1 CHAR UTF-8
 1 _NAVM 1
-2 _NAVI @I19@
-1 _HOME @I19@
+2 _NAVI @I81@
+1 _HOME @I81@
 0 @SUBM@ SUBM
 1 NAME Steffen Häuser
 1 ADDR Südstr. 40
@@ -751,8 +751,8 @@
 2 PLAC Zöllnei
 1 NOTE Verstorben in Zöllnei #6.
 1 CHAN
-2 DATE 26 MAR 2019
-3 TIME 17:11:33
+2 DATE 29 MAR 2019
+3 TIME 12:04:07
 1 FAMS @F26@
 1 OCCU Bauer
 1 FAMC @F53@
@@ -883,8 +883,8 @@
 2 GIVN Joseph Kilian
 1 SEX M
 1 CHAN
-2 DATE 28 MAR 2019
-3 TIME 16:14:15
+2 DATE 29 MAR 2019
+3 TIME 10:46:50
 1 FAMS @F31@
 1 OCCU Bauer
 1 BIRT
@@ -897,6 +897,7 @@
 3 FORM png
 2 TITL JosephWanschura1791 Marriage
 1 NOTE "27 - 59 (House Number) - Joseph Wanschura, Peasant, 21 Years, Maria, Daughter of Anton Wanschura, Peasant, 20 Years. Testes Joseph Netuschil, Shoemaker and Johann Wanschura, Peasant"
+2 CONT 
 0 @I46@ INDI
 1 _UID C8F5CCF8374C4296B821EC07E78AA2A863C5
 1 NAME Anna Maria /Faltus/
@@ -1027,8 +1028,8 @@
 1 BIRT
 2 DATE (before 1674)
 1 CHAN
-2 DATE 28 MAR 2019
-3 TIME 18:16:57
+2 DATE 29 MAR 2019
+3 TIME 12:44:39
 1 FAMS @F36@
 1 NOTE Please note that the marriage notice is in really HARD to read czech language and Currentscript. 
 2 CONT 
@@ -1054,8 +1055,8 @@
 2 DATE (19. Dec. 1790)
 2 PLAC Zöllnei
 1 CHAN
-2 DATE 26 MAR 2019
-3 TIME 17:21:51
+2 DATE 29 MAR 2019
+3 TIME 9:02:55
 1 FAMC @F51@
 1 OBJE
 2 FILE D:\Downloads\Ahnenblatt\Trampota Media\MargarethaNetuschil1737_Birth.bmp
@@ -1187,8 +1188,8 @@
 1 SEX M
 1 FAMC @F39@
 1 CHAN
-2 DATE 28 MAR 2019
-3 TIME 9:37:36
+2 DATE 29 MAR 2019
+3 TIME 10:52:07
 1 BIRT
 2 DATE 15 APR 1870
 2 PLAC Zöllnei
@@ -1224,13 +1225,21 @@
 2 GIVN Anton
 1 SEX M
 1 CHAN
-2 DATE 20 MAR 2019
-3 TIME 16:13:26
+2 DATE 29 MAR 2019
+3 TIME 10:57:27
 1 FAMS @F40@
 1 BIRT
-2 DATE BEF 1826
+2 DATE (26. Dec. 1821)
+2 PLAC Zöllnei
 1 OCCU Peasant
 1 FAMC @F47@
+1 OBJE
+2 FILE .\Trampota Media\AntonUlrich1821_Birth.bmp
+3 _ALTPATH Trampota Media\
+3 FORM bmp
+2 TITL AntonUlrich1821 Birth
+1 NOTE "26. Dec. - 79 (House No.) - Anton - Anton Ulrich, Peasant, Katharina, daughter of Franz Netuschil, Peasant and M. Josepha Weyrauch."
+1 SOUR Births, Zöllnei, Entry for Anton Ulrich, 12/26/1821, Zamrsk 161-3, Page 78
 0 @I63@ INDI
 1 _UID 49CAC89A0D0244DEB48F76C051E65E762A85
 1 NAME Theresia /Barnet/
@@ -1252,8 +1261,8 @@
 1 SEX M
 1 FAMS @F41@
 1 CHAN
-2 DATE 20 MAR 2019
-3 TIME 11:33:52
+2 DATE 29 MAR 2019
+3 TIME 12:01:47
 1 BIRT
 2 DATE (before 1656)
 0 @I65@ INDI
@@ -1304,8 +1313,8 @@
 2 GIVN Johann Georg
 1 SEX M
 1 CHAN
-2 DATE 27 MAR 2019
-3 TIME 14:00:41
+2 DATE 29 MAR 2019
+3 TIME 14:10:18
 1 BIRT
 2 DATE 14 AUG 1693
 2 PLAC Zöllnei
@@ -1330,14 +1339,34 @@
 3 TIME 15:55:19
 0 @I70@ INDI
 1 _UID 2E5238BCC8674E18A2344D1A5F3CC7842C09
-1 NAME Anton /Ulrich/
+1 NAME Anton Franz /Ulrich/
 2 SURN Ulrich
-2 GIVN Anton
+2 GIVN Anton Franz
 1 SEX M
 1 CHAN
-2 DATE 20 MAR 2019
-3 TIME 16:13:32
+2 DATE 29 MAR 2019
+3 TIME 10:25:50
 1 FAMS @F47@
+1 OBJE
+2 FILE .\Trampota Media\AntonFranzUlrich1795_Birth.bmp
+3 _ALTPATH Trampota Media\
+3 FORM bmp
+2 TITL AntonFranzUlrich1795 Birth
+1 NOTE " 14 - 41 (House No.) - Ignatz Ulrich, Weaver, Maria, Daughter of Karl Frimmel from Zöllnei #41."
+2 CONT "25 - 40 (House No.) - Anton, son of Ignatz Ullrich, Peasant - 25y9m - Katharina, daughter of Franz Netuschil and M. Josepha Weihrauch - 20y9m (could also mean 26 or 28 or 29)"
+2 CONT 
+2 CONT Note 1794 there is another Anton Ulrich, son of Ignatz Ulrich born, but this is a different Anton and a different Ignatz, as the birth happened in House #13. Anton marries later in #40 (neighbour house of #41).
+1 SOUR Births, Zöllnei, Entry for Anton Franz Ulrich, 11/14/1795, Zamrsk 161-2, Page 61
+2 CONT Marriages, Zöllnei, Entry for Anton Ulrich and Katharina Netuschil, 10/25/1819, Zamrsk 161-8097, Page 41
+1 BIRT
+2 DATE 14 NOV 1795
+2 PLAC Zöllnei
+1 OBJE
+2 FILE .\Trampota Media\AntonUlrich1819_Marriage.bmp
+3 _ALTPATH Trampota Media\
+3 FORM bmp
+2 TITL AntonUlrich1819 Marriage
+1 FAMC @F62@
 0 @I71@ INDI
 1 _UID DCC38BB13EC04644B3B37FCC3E88CF16BFC3
 1 NAME Catharina /Netuschil/
@@ -1346,8 +1375,11 @@
 1 SEX F
 1 FAMS @F47@
 1 CHAN
-2 DATE 26 MAR 2019
-3 TIME 17:06:57
+2 DATE 29 MAR 2019
+3 TIME 10:12:35
+1 BIRT
+2 DATE ABT 1799
+1 FAMC @F63@
 0 @I72@ INDI
 1 _UID E49D5ECE809447BEBA25734C14C592885729
 1 NAME Franz /Barnet/
@@ -1508,8 +1540,8 @@
 1 BIRT
 2 DATE (before 1676)
 1 CHAN
-2 DATE 27 MAR 2019
-3 TIME 14:57:12
+2 DATE 29 MAR 2019
+3 TIME 14:43:08
 1 FAMS @F54@
 1 FAMC @F55@
 1 OBJE
@@ -1565,8 +1597,8 @@
 2 GIVN Johann
 1 SEX M
 1 CHAN
-2 DATE 27 MAR 2019
-3 TIME 13:30:36
+2 DATE 29 MAR 2019
+3 TIME 13:56:19
 1 BIRT
 2 DATE (before 1691)
 1 FAMS @F57@
@@ -1579,8 +1611,8 @@
 1 BIRT
 2 DATE (before 1681)
 1 CHAN
-2 DATE 27 MAR 2019
-3 TIME 14:54:15
+2 DATE 29 MAR 2019
+3 TIME 14:14:06
 1 FAMS @F58@
 0 @I89@ INDI
 1 _UID C60C5C20B0B749C6BD5C3E977BD8E1927844
@@ -1612,8 +1644,8 @@
 2 GIVN Jan
 1 SEX M
 1 CHAN
-2 DATE 27 MAR 2019
-3 TIME 14:14:29
+2 DATE 29 MAR 2019
+3 TIME 15:04:35
 1 FAMS @F59@
 1 FAMC @F61@
 1 OBJE
@@ -1658,10 +1690,90 @@
 1 SEX M
 1 FAMS @F61@
 1 CHAN
-2 DATE 27 MAR 2019
-3 TIME 14:59:20
+2 DATE 29 MAR 2019
+3 TIME 15:04:25
 1 BIRT
 2 DATE (before 1660)
+0 @I95@ INDI
+1 _UID A94D51202A1145CBB98B092326570AD780AB
+1 NAME Ignatz /Ulrich/
+2 SURN Ulrich
+2 GIVN Ignatz
+1 SEX M
+1 CHAN
+2 DATE 29 MAR 2019
+3 TIME 10:25:25
+1 BIRT
+2 DATE (before 1778)
+1 OCCU Peasant and Weaver
+1 FAMS @F62@
+0 @I96@ INDI
+1 _UID 95064CAB07E24D14A54EEF57B45798641C41
+1 NAME Franz /Netuschil/
+2 SURN Netuschil
+2 GIVN Franz
+1 SEX M
+1 CHAN
+2 DATE 29 MAR 2019
+3 TIME 10:46:14
+1 FAMS @F63@
+1 BIRT
+2 DATE ABT 1761
+1 OBJE
+2 FILE .\Trampota Media\FranzNetuschil1785_Marriage.bmp
+3 _ALTPATH Trampota Media\
+3 FORM bmp
+2 TITL FranzNetuschil1785 Marriage
+1 NOTE "10 - 24 - Franz Netuschil, House Owner in Zöllnei - 24 years - Josepha, Daughter of Anton Weyrauch, Teacher in Linsdorf - 26 years. Testes Killian Wanschura, Judge in Wöllsdorf and Johann Georg Ulrich."
+1 SOUR Marriages, Zöllnei, Entry for Franz Netuschil and Josepha Weyrauch, 05/10/1785, Zamrsk 161-8097, Page 31
+0 @I97@ INDI
+1 _UID F9FB59E2C1C448AC97F0587EA4503BC2F677
+1 NAME Josepha /Weyrauch/
+2 SURN Weyrauch
+2 GIVN Josepha
+1 SEX F
+1 FAMS @F63@
+1 CHAN
+2 DATE 29 MAR 2019
+3 TIME 10:42:59
+1 FAMC @F64@
+1 BIRT
+2 DATE ABT 1763
+0 @I98@ INDI
+1 _UID 02CB3AEC14CA47599BF6758CFFE790E35C72
+1 NAME Anton /Weyrauch/
+2 SURN Weyrauch
+2 GIVN Anton
+1 SEX M
+1 FAMS @F64@
+1 CHAN
+2 DATE 29 MAR 2019
+3 TIME 10:42:16
+0 @I99@ INDI
+1 _UID F6CBFDED245F43DB969859C6D62C266E2F9C
+1 NAME Maria /Frimmel/
+2 SURN Frimmel
+2 GIVN Maria
+1 SEX F
+1 FAMS @F62@
+1 CHAN
+2 DATE 29 MAR 2019
+3 TIME 11:24:40
+1 BIRT
+2 DATE (before 1778)
+1 FAMC @F65@
+0 @I100@ INDI
+1 _UID 0B1C608C9EE244F1964E6DD2F1F45C6B972C
+1 NAME Karl /Frimmel/
+2 SURN Frimmel
+2 GIVN Karl
+1 SEX M
+1 FAMS @F65@
+1 BIRT
+2 DATE (before 1760)
+1 CHAN
+2 DATE 29 MAR 2019
+3 TIME 11:24:51
 0 @F10@ FAM
 1 HUSB @I15@
 1 WIFE @I16@
@@ -1840,6 +1952,9 @@
 1 HUSB @I70@
 1 WIFE @I71@
 1 CHIL @I62@
+1 MARR
+2 DATE 25 OCT 1819
+2 PLAC Zöllnei
 0 @F48@ FAM
 1 HUSB @I72@
 1 WIFE @I73@
@@ -1919,6 +2034,23 @@
 0 @F61@ FAM
 1 HUSB @I94@
 1 CHIL @I91@
+0 @F62@ FAM
+1 HUSB @I95@
+1 WIFE @I99@
+1 CHIL @I70@
+0 @F63@ FAM
+1 HUSB @I96@
+1 WIFE @I97@
+1 CHIL @I71@
+1 MARR
+2 DATE (10. May 1785)
+2 PLAC Zöllnei
+0 @F64@ FAM
+1 HUSB @I98@
+1 CHIL @I97@
+0 @F65@ FAM
+1 HUSB @I100@
+1 CHIL @I99@
 0 @F7@ FAM
 1 HUSB @I11@
 1 CHIL @I10@
