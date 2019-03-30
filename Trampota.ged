@@ -1,22 +1,23 @@
-ï»¿0 HEAD
+0 HEAD
 1 SOUR AHN
-2 VERS 2.99e
+2 VERS 2.97a
 2 NAME Ahnenblatt
 2 CORP Dirk Boettcher
-1 DATE 29 MAR 2019
-2 TIME 16:12:24
+1 DATE 30 MAR 2019
+2 TIME 13:04:47
 1 SUBM @SUBM@
 1 FILE Trampota.ged
 1 GEDC
 2 VERS 5.5.1
 2 FORM LINEAGE-LINKED
-1 CHAR UTF-8
+1 CHAR ANSI
+2 VERS 1252
 1 _NAVM 1
-2 _NAVI @I81@
-1 _HOME @I81@
+2 _NAVI @I88@
+1 _HOME @I88@
 0 @SUBM@ SUBM
-1 NAME Steffen HÃ¤user
-1 ADDR SÃ¼dstr. 40
+1 NAME Steffen Häuser
+1 ADDR Südstr. 40
 2 CONT 71522 Backnang
 2 CONT Germany
 0 @I1@ INDI
@@ -56,7 +57,6 @@
 1 FAMC @F5@
 1 OBJE
 2 FILE D:\Downloads\Ahnenblatt\Trampota Media\JohannTrampota1767_Birth.jpg
-3 _ALTPATH .\Trampota Media\
 3 FORM jpg
 2 TITL JohannTrampota1767 Birth
 1 NOTE "From Jamnay: Same year day of 21st September (Details about the Church)(Details about the Priest)
@@ -120,11 +120,10 @@
 1 FAMS @F5@
 1 OBJE
 2 FILE D:\Downloads\Adams Media\JohannTrampota1766_Ehe.bmp
-3 _ALTPATH ..\Adams Media\
 3 FORM bmp
 2 TITL JohannTrampota1766 Ehe
 1 NOTE "Aus Jamnay - The same year the day 2nd February married the present Joannes son of Paul Trampota
-2 CONT with Dorothea daughter of Wenceslaus Prokopetz, both from the village Jamnay [...] Name of the priest etc. [...] Testes MatthÃ¤us Steyskal and Martin Spaczek - Ending forumula about being present three times etc."
+2 CONT with Dorothea daughter of Wenceslaus Prokopetz, both from the village Jamnay [...] Name of the priest etc. [...] Testes Matthäus Steyskal and Martin Spaczek - Ending forumula about being present three times etc."
 1 SOUR Jamnay,Marriages, Entry for Johann Trampota and Dorothea Prokopecz,  02/02/1766, Zamrsk 64-10, Page 2
 1 FAMC @F8@
 0 @I6@ INDI
@@ -143,7 +142,6 @@
 1 FAMC @F10@
 1 OBJE
 2 FILE D:\Downloads\Adams Media\DorotheaProkopecz1744_Birth.bmp
-3 _ALTPATH ..\Adams Media\
 3 FORM bmp
 2 TITL DorotheaProkopecz1744 Birth
 1 NOTE "Jamnay - A1744 (Priestname etc.) - baptized was a child born today from Wenceslaus Prokopetz and Dorothea his wife, the name was Dorothea. Levans Elisabeth Widow of the deceased Georg Kregczy
@@ -175,12 +173,10 @@
 2 CONT Jamnay,Deaths,Entry for Heinrich Steyskal, 04/07/1779, Zamrsk 64-13, Page 137
 1 OBJE
 2 FILE D:\Downloads\Ahnenblatt\Adams Media\HeinrichSteyskal1769_Marriage.bmp
-3 _ALTPATH .\Adams Media\
 3 FORM bmp
 2 TITL HeinrichSteyskal1769 Marriage
 1 OBJE
 2 FILE D:\Downloads\Ahnenblatt\Trampota Media\HeinrichSteyskal1779_Death.bmp
-3 _ALTPATH .\Trampota Media\
 3 FORM bmp
 2 TITL HeinrichSteyskal1779 Death
 0 @I8@ INDI
@@ -213,37 +209,34 @@
 2 CONT dies in the same house in which his son Heinrich dies later (#128) - his life age at the death record calculates back to 1717, while the calculation of the life age of the other, earlier dying Joseph Steyskal
 2 CONT gives 1719.
 2 CONT 
-2 CONT "Anno Domini 1716 Day 20th Dec. (Details on the priest). A son from village Jamnay born 19th Dec. from Father MatthÃ¤us Steyskal Peasant and Mother Susanna in the church of Jablona (details on the Church) by name of Joseph. Levans was Wenceslaus 
-2 CONC Filipp, T Paul Bauchal, Anna Wife of MatthÃ¤us Filipp and Catharina Wife of Paul Philipp from Jamnay."
+2 CONT "Anno Domini 1716 Day 20th Dec. (Details on the priest). A son from village Jamnay born 19th Dec. from Father Matthäus Steyskal Peasant and Mother Susanna in the church of Jablona (details on the Church) by name of Joseph. Levans was Wenceslaus F
+2 CONC ilipp, T Paul Bauchal, Anna Wife of Matthäus Filipp and Catharina Wife of Paul Philipp from Jamnay."
 2 CONT 
 2 CONT "19 - Steyskal Josephus Peasant from Jamnay - Catholic - Jamnay - 128 - 56"
 2 CONT 
 2 CONT 
-2 CONT "Jamnay - A 1740 - 25th Sept. - No impediments found - Details on the priest - Details on the church in Jablona - Joseph son of MatthÃ¤us Steyskal and Anna, daughter of Wenceslaus Morawecz from Jamnay married. Testes Georg Valenta and Catharina d
-2 CONC aughter of Johann Heil."
+2 CONT "Jamnay - A 1740 - 25th Sept. - No impediments found - Details on the priest - Details on the church in Jablona - Joseph son of Matthäus Steyskal and Anna, daughter of Wenceslaus Morawecz from Jamnay married. Testes Georg Valenta and Catharina da
+2 CONC ughter of Johann Heil."
 1 DEAT
 2 DATE 19 APR 1773
 2 PLAC Jamnay
 1 CHR
 2 DATE 20 DEC 1716
-2 ADDR St.BartholomÃ¤us
+2 ADDR St.Bartholomäus
 2 PLAC Jablona nad Orlici
 1 SOUR Jamnay,Births, Entry for Joseph Steyskal,  12/19/1716, Zamrsk 64-3, Page 351
 2 CONT Jamnay,Marriages, Entry for Joseph Steyskal and Anna Morawecz,  09/25/1740, Zamrsk 64-9, Page 170
 2 CONT Jamnay, Deaths, Entry for Joseph Steyskal, 04/19/1773, Zamrsk 64-13, Page 118
 1 OBJE
 2 FILE D:\Downloads\Ahnenblatt\Adams Media\JosephSteyskal1716_Birth.bmp
-3 _ALTPATH .\Adams Media\
 3 FORM bmp
 2 TITL JosephSteyskal1716 Birth
 1 OBJE
 2 FILE D:\Downloads\Ahnenblatt\Adams Media\JosephSteyskal1740_Marriage.bmp
-3 _ALTPATH .\Adams Media\
 3 FORM bmp
 2 TITL JosephSteyskal1740 Marriage
 1 OBJE
 2 FILE D:\Downloads\Ahnenblatt\Trampota Media\JosephSteyskal1773_Death.bmp
-3 _ALTPATH .\Trampota Media\
 3 FORM bmp
 2 TITL JosephSteyskal1773 Death
 0 @I10@ INDI
@@ -288,12 +281,11 @@
 2 CONT 
 2 CONT "In the year 1719 the day 28th Feb a son of Jamnay was baptized by (name of the priest)
 2 CONT born 28th Feb. from Mathias Trampota peasant and the mother Rosina in the church of Jablona
-2 CONT St.BartholomÃ¤us (etc.), Levans was Peter Czernohaus T Wenceslaus Hrdina, Elisabeth Wife
+2 CONT St.Bartholomäus (etc.), Levans was Peter Czernohaus T Wenceslaus Hrdina, Elisabeth Wife
 2 CONT of Georg Krejczy all from Jamnay CS"
 1 SOUR Jamnay,Birth, Entry for Paul Trampota, 02/28/1719, Zamrsk 64-3, Page 400
 1 OBJE
 2 FILE D:\Downloads\Ahnenblatt\Adams Media\PaulTrampota1719_Geburt.bmp
-3 _ALTPATH .\Adams Media\
 3 FORM bmp
 2 TITL PaulTrampota1719 Geburt
 1 FAMC @F38@
@@ -349,8 +341,8 @@
 3 TIME 16:15:22
 1 FAMS @F10@
 1 FAMC @F12@
-1 NOTE Note there was a second Wenceslaus Prokopecz, born ca. 1686 (during the gap in the churchbooks). It is not 100% sure to whom the death record 1782 belongs, but I think very likely to the correct Wenceslaus (for the other the given age would be 1
-2 CONC 1 years wrong, for the correct one only 7 years).
+1 NOTE Note there was a second Wenceslaus Prokopecz, born ca. 1686 (during the gap in the churchbooks). It is not 100% sure to whom the death record 1782 belongs, but I think very likely to the correct Wenceslaus (for the other the given age would be 11
+2 CONC  years wrong, for the correct one only 7 years).
 2 CONT 
 2 CONT "23rd same (Data on Church and priest) Born is Waczlaw Son of Johann Prokopecz and his wife from Jamnay. Levans: Martin Chladek from Jamnay. ??? Martin Behaunek, Anna Wife of Dominik Schlesinger ??? From Jamnay."
 2 CONT 
@@ -363,7 +355,6 @@
 2 PLAC Jamnay
 1 OBJE
 2 FILE D:\Downloads\Ahnenblatt\Adams Media\WenceslausProkopecz1727_Marriage.bmp
-3 _ALTPATH .\Adams Media\
 3 FORM bmp
 2 TITL WenceslausProkopecz1727 Marriage
 1 OBJE
@@ -398,7 +389,6 @@
 2 CONT Jamnay, Deaths, Entry for Dorothea Catharina Hrdina, 01/01/1768, Zamrsk 64-13, Page 82
 1 OBJE
 2 FILE D:\Downloads\Ahnenblatt\Trampota Media\DorotheaCatharinaHrdina1768_Death.bmp
-3 _ALTPATH .\Trampota Media\
 3 FORM bmp
 2 TITL DorotheaCatharinaHrdina1768 Death
 1 DEAT
@@ -436,16 +426,16 @@
 1 FAMC @F19@
 1 NOTE "Same Day Baptized and Born Son Jan(Johann) of Georg Prokopecz from Jamnay. His wife Anna.
 2 CONT Waczlaw Czerwenka the Younger. Neighbour from Jablona. Jacob Kreyczi (this name means "Tailor" on english). Marina Wife of ??? Jamnay."
-2 CONT "The 2nd Februrary.(The first half of the entry is of a different marriage, we have here two marriages in one entry). Johannes of the deceased Georg Prokopecz remaining son from Jamnay. With maiden Rosina legitimate daughter of Paul Kozaczek leg
-2 CONC itimate daughter of lower Hermanitz. Nothing has been noticed why they couldn't marry."
+2 CONT "The 2nd Februrary.(The first half of the entry is of a different marriage, we have here two marriages in one entry). Johannes of the deceased Georg Prokopecz remaining son from Jamnay. With maiden Rosina legitimate daughter of Paul Kozaczek legi
+2 CONC timate daughter of lower Hermanitz. Nothing has been noticed why they couldn't marry."
 2 CONT (Note the two marriages were in Weipersdorf, but the groom was from Jamnay).
 1 SOUR Jamnay, Births, Entry for Johann Prokopecz, 12/01/1669, Zamrsk 64-2, Page 77
 2 CONT Weipersdorf, Marriages, Entry for Johann Prokopecz and Rosina Kozaczek, 02/02/1695, Zamrsk 64-8, Page 66
 0 @I19@ INDI
 1 _UID 40DECC32C2ED4BDEB918BF87863F2BA29D11
-1 NAME MatthÃ¤us /Steyskal/
+1 NAME Matthäus /Steyskal/
 2 SURN Steyskal
-2 GIVN MatthÃ¤us
+2 GIVN Matthäus
 1 SEX M
 1 CHAN
 2 DATE 28 MAR 2019
@@ -455,16 +445,15 @@
 1 BIRT
 2 DATE (before 1693)
 1 OCCU Peasant
-1 NOTE "23rd Feb. (Details on 3x announcement in Jablona). MatthÃ¤us Son of Jan Steyskal
+1 NOTE "23rd Feb. (Details on 3x announcement in Jablona). Matthäus Son of Jan Steyskal
 2 CONT with Susanna daughter of Martin Chladek, from Jamnay.Testes Thomas S??? Jacob
 2 CONT Walenta Cathrzina Daughter of Jakob Kyllar and Dorothea wife of Dominik Schlesinger,
 2 CONT all from Jamnay."
-1 SOUR Jablona,Marriages, Entry for MatthÃ¤us Steyskal and Susanna Chladek,  02/23/1710, Zamrsk 64-8, Page 144
+1 SOUR Jablona,Marriages, Entry for Matthäus Steyskal and Susanna Chladek,  02/23/1710, Zamrsk 64-8, Page 144
 1 OBJE
-2 FILE D:\Downloads\Ahnenblatt\Adams Media\MatthÃ¤usSteyskal1710_Marriage.bmp
-3 _ALTPATH .\Adams Media\
+2 FILE D:\Downloads\Ahnenblatt\Adams Media\MatthäusSteyskal1710_Marriage.bmp
 3 FORM bmp
-2 TITL MatthÃ¤usSteyskal1710 Marriage
+2 TITL MatthäusSteyskal1710 Marriage
 0 @I20@ INDI
 1 _UID B4314864021B45D5822F821A87F19F3662DD
 1 NAME Susanna /Chladek/
@@ -486,7 +475,7 @@
 3 _ALTPATH Trampota Media\
 3 FORM bmp
 2 TITL SusannaChladek1747 Death
-1 NOTE "The same Year 14th December was Susanna wife of MatthÃ¤us Steyskal with 60 years buried, after receiving the final sacrament."
+1 NOTE "The same Year 14th December was Susanna wife of Matthäus Steyskal with 60 years buried, after receiving the final sacrament."
 1 SOUR Deaths, Jamnay, Entry for Susanna Chladek, Zamrsk 64-12, Page 275
 0 @I21@ INDI
 1 _UID 32E41A21156F48E5AD6C7083AEC0290FB417
@@ -503,11 +492,11 @@
 1 FAMS @F17@
 1 NOTE "Same day born a son Martin of Jan(Johann) Chladek and his wife Anna. Testes Georg Kowarz, Susanna Wife of Adam B??? of Jamnay."
 2 CONT 
-2 CONT "13th same the honest young man Martin of Joannes Chladek who was hereditary judge of the village Jamnay legitimate son married the honest maiden Rosina, of Dominik Schlesinger, currently nominated judge of the village Jamnay, daughter. (Data on
-2 CONC  Church and Priest). Testes Johann Sedlarz, Maria, Wife of Johann R???, Virgin Anna of Joannes Chladek daughter, the first of Jablona, rest of the village Jamnay. (About 3x announcement of the marriage)."
+2 CONT "13th same the honest young man Martin of Joannes Chladek who was hereditary judge of the village Jamnay legitimate son married the honest maiden Rosina, of Dominik Schlesinger, currently nominated judge of the village Jamnay, daughter. (Data on 
+2 CONC Church and Priest). Testes Johann Sedlarz, Maria, Wife of Johann R???, Virgin Anna of Joannes Chladek daughter, the first of Jablona, rest of the village Jamnay. (About 3x announcement of the marriage)."
 2 CONT 
-2 CONT There are three marriages of a Martin Chladek. Two of them are fairly sure of the same Martin, one of them lived in Weiprachtitz and can't be the correct one (children are also born in Weiprachtitz). The correct one also has relation to Dominik 
-2 CONC Schlesinger whose second wife later appears as Testes at the marriage of Susanna Chladek (this wife is his second wife whom Dominik marries in 1701 as a widower).
+2 CONT There are three marriages of a Martin Chladek. Two of them are fairly sure of the same Martin, one of them lived in Weiprachtitz and can't be the correct one (children are also born in Weiprachtitz). The correct one also has relation to Dominik S
+2 CONC chlesinger whose second wife later appears as Testes at the marriage of Susanna Chladek (this wife is his second wife whom Dominik marries in 1701 as a widower).
 1 SOUR Jamnay,Births, Entry for Martin Chladek,  11/12/1663, Zamrsk 64-2, Page 11
 2 CONT Jamnay,Marriages, Entry for Martin Chladek and Rosina Schlesinger, 09/13/1687, Zamrsk 64-8, Page 27
 1 FAMC @F37@
@@ -552,9 +541,9 @@
 3 TIME 15:05:34
 1 FAMS @F19@
 1 OCCU Peasant
-1 NOTE According to the soullist 1651 in this time there were two Georg Prokopecz in Jamnai. One is born ca. 1643 (if assuming the soullist was created around 1657 which up to now seemed a reliable assumption), the other around 1629. There is a dying r
-2 CONC ecord for a Georg Prokopecz without age at 1685. 1703 an Anna Prokopecz dies who is born around 1623. But the wife of the ca. 1629 born Georg is born around 1639. Also it is unknown which of the Georgs was the father of Johann Prokopecz (though 
-2 CONC I suspect the one born 1623, age estimations of very old people at their death records were often wrong).
+1 NOTE According to the soullist 1651 in this time there were two Georg Prokopecz in Jamnai. One is born ca. 1643 (if assuming the soullist was created around 1657 which up to now seemed a reliable assumption), the other around 1629. There is a dying re
+2 CONC cord for a Georg Prokopecz without age at 1685. 1703 an Anna Prokopecz dies who is born around 1623. But the wife of the ca. 1629 born Georg is born around 1639. Also it is unknown which of the Georgs was the father of Johann Prokopecz (though I 
+2 CONC suspect the one born 1623, age estimations of very old people at their death records were often wrong).
 2 CONT 
 0 @I25@ INDI
 1 _UID EEEB1B91CC5E463AB57776D452F3A8CC5EEA
@@ -589,18 +578,17 @@
 1 FAMS @F17@
 1 BIRT
 2 DATE 29 SEP 1670
-2 PLAC AdlerdÃ¶rfel
+2 PLAC Adlerdörfel
 1 CHAN
 2 DATE 19 MAR 2019
 3 TIME 17:53:16
 1 FAMC @F23@
 1 NOTE "29th. Daughter born Rosina of Dominik Schlesinger and his wife Rosina. Testes:
 2 CONT Elisabeth, wife of Jan Schittko, Sabina, Wife of Tobias Feltzmann. Catharina, wife of
-2 CONT Georg SchÃ¼ll. Georg Feltzmann, Hans Langer. Of AdlerdÃ¶rfel/Worlitschka."
-1 SOUR AdlerdÃ¶rfel,Births, Entry for Rosina Schlesinger,  09/29/1670, Zamrsk 64-2, Page 86
+2 CONT Georg Schüll. Georg Feltzmann, Hans Langer. Of Adlerdörfel/Worlitschka."
+1 SOUR Adlerdörfel,Births, Entry for Rosina Schlesinger,  09/29/1670, Zamrsk 64-2, Page 86
 1 OBJE
 2 FILE D:\Downloads\Ahnenblatt\Trampota Media\RosinaSchlesinger1670_Birth.bmp
-3 _ALTPATH .\Trampota Media\
 3 FORM bmp
 2 TITL RosinaSchlesinger1670 Birth
 0 @I28@ INDI
@@ -619,11 +607,10 @@
 1 FAMS @F23@
 1 OBJE
 2 FILE D:\Downloads\Ahnenblatt\Trampota Media\DominikSchlesinger1664_Marriage.bmp
-3 _ALTPATH .\Trampota Media\
 3 FORM bmp
 2 TITL DominikSchlesinger1664 Marriage
-1 NOTE "30. Same Dominik Son of Georg Schlesinger and Rosina RÃ¶sner(???). From Worlitschka. Side notice "Judge of Worlitschka."
-1 SOUR Jamnay,Marriages, Entry for Dominik Schlesinger and Rosina RÃ¶sner, 11/30/1664, Zamrsk 64-7, Page 7
+1 NOTE "30. Same Dominik Son of Georg Schlesinger and Rosina Rösner(???). From Worlitschka. Side notice "Judge of Worlitschka."
+1 SOUR Jamnay,Marriages, Entry for Dominik Schlesinger and Rosina Rösner, 11/30/1664, Zamrsk 64-7, Page 7
 0 @I29@ INDI
 1 _UID 1B6BBB868FC147B199F7B71C14A81F5AA73A
 1 NAME Johann /Chladek/
@@ -650,17 +637,16 @@
 2 DATE ABT 1620
 1 DEAT
 2 DATE 9 APR 1717
-2 PLAC AdlerdÃ¶rfel
+2 PLAC Adlerdörfel
 1 FAMS @F24@
 1 OBJE
 2 FILE D:\Downloads\Ahnenblatt\Trampota Media\Chrudimsko_cele_H_zamceno.pdf
-3 _ALTPATH .\Trampota Media\
 3 FORM pdf
 2 TITL Chrudimsko cele H zamceno
 0 @I31@ INDI
 1 _UID 10B4F45AAD1D43CAB2C75938CB85C0DBDECE
-1 NAME Rosina /RÃ¶sner/
-2 SURN RÃ¶sner
+1 NAME Rosina /Rösner/
+2 SURN Rösner
 2 GIVN Rosina
 1 SEX F
 1 FAMS @F23@
@@ -672,8 +658,8 @@
 2 DATE (before 1647)
 0 @I32@ INDI
 1 _UID 52637AF0811C4E76B56B790A87A64C5DF9DB
-1 NAME Caspar /RÃ¶sner/
-2 SURN RÃ¶sner
+1 NAME Caspar /Rösner/
+2 SURN Rösner
 2 GIVN Caspar
 1 SEX M
 1 FAMS @F20@
@@ -704,7 +690,7 @@
 1 FAMS @F22@
 1 BIRT
 2 DATE 8 NOV 1800
-2 PLAC ZÃ¶llnei
+2 PLAC Zöllnei
 1 CHAN
 2 DATE 18 MAR 2019
 3 TIME 15:52:20
@@ -717,7 +703,7 @@
 1 SEX M
 1 BIRT
 2 DATE 26 AUG 1765
-2 PLAC ZÃ¶llnei
+2 PLAC Zöllnei
 1 CHAN
 2 DATE 18 MAR 2019
 3 TIME 15:50:49
@@ -745,14 +731,14 @@
 1 SEX M
 1 BIRT
 2 DATE 1 AUG 1728
-2 PLAC ZÃ¶llnei
+2 PLAC Zöllnei
 1 DEAT
 2 DATE 27 MAY 1786
-2 PLAC ZÃ¶llnei
-1 NOTE Verstorben in ZÃ¶llnei #6.
+2 PLAC Zöllnei
+1 NOTE Verstorben in Zöllnei #6.
 1 CHAN
-2 DATE 29 MAR 2019
-3 TIME 12:04:07
+2 DATE 26 MAR 2019
+3 TIME 17:11:33
 1 FAMS @F26@
 1 OCCU Bauer
 1 FAMC @F53@
@@ -772,7 +758,7 @@
 2 DATE ABT 1726
 1 DEAT
 2 DATE 25 FEB 1795
-2 PLAC ZÃ¶llnei
+2 PLAC Zöllnei
 1 NOTE Verstorben in Haus #7.
 1 CHAN
 2 DATE 21 MAR 2019
@@ -836,7 +822,7 @@
 1 FAMC @F22@
 1 BIRT
 2 DATE 2 MAY 1825
-2 PLAC ZÃ¶llnei
+2 PLAC Zöllnei
 1 CHAN
 2 DATE 28 MAR 2019
 3 TIME 10:22:47
@@ -854,10 +840,10 @@
 1 FAMC @F31@
 1 BIRT
 2 DATE 1 JUL 1816
-2 PLAC ZÃ¶llnei
+2 PLAC Zöllnei
 1 DEAT
 2 DATE 14 MAR 1875
-2 PLAC ZÃ¶llnei
+2 PLAC Zöllnei
 1 OBJE
 2 FILE .\Trampota Media\FranzWanschura1816_Birth.png
 3 _ALTPATH Trampota Media\
@@ -865,12 +851,12 @@
 2 TITL FranzWanschura1816 Birth
 1 NOTE "1st July, 73 (House Number), Franz, Joseph Wanschura, Peasant, Anna, Daughter of Anton Faltus, House Owner."
 2 CONT 
-2 CONT "On 22nd Oct. 1844 in ZÃ¶llnei were married Franz Wanschura a peasant from ZÃ¶llnei #74, Catholic, unmarried, a legitimate son of the deceased Joseph Wanschura, a peasant from ZÃ¶llnei #74 and his
-2 CONT wife Anna, born Faltus from WÃ¶llsdorf #38. Age 28.
-2 CONT And Marianna Adelt, legitimate daughter of Joseph Adelt, a peasant from ZÃ¶llnei #9 and his wife 
+2 CONT "On 22nd Oct. 1844 in Zöllnei were married Franz Wanschura a peasant from Zöllnei #74, Catholic, unmarried, a legitimate son of the deceased Joseph Wanschura, a peasant from Zöllnei #74 and his
+2 CONT wife Anna, born Faltus from Wöllsdorf #38. Age 28.
+2 CONT And Marianna Adelt, legitimate daughter of Joseph Adelt, a peasant from Zöllnei #9 and his wife 
 2 CONT Franziska, born Trampota from Jamnay #50 (Lanskroun). Marianne was catholic, unmarried and 19 years old."
-1 SOUR Births, ZÃ¶llnei, Entry for Franz Wanschura, 07/01/1816, Zamrsk 161-3, Page 70
-2 CONT Marriages, ZÃ¶llnei, Entry for Franz Wanschura and Marianne Adelt, 10/22/1844, Zamrsk 161-3158, Page 22
+1 SOUR Births, Zöllnei, Entry for Franz Wanschura, 07/01/1816, Zamrsk 161-3, Page 70
+2 CONT Marriages, Zöllnei, Entry for Franz Wanschura and Marianne Adelt, 10/22/1844, Zamrsk 161-3158, Page 22
 1 OBJE
 2 FILE .\Trampota Media\FranzWanschura1844_Marriage.bmp
 3 _ALTPATH Trampota Media\
@@ -889,7 +875,7 @@
 1 OCCU Bauer
 1 BIRT
 2 DATE 3 APR 1767
-2 PLAC ZÃ¶llnei
+2 PLAC Zöllnei
 1 FAMC @F34@
 1 OBJE
 2 FILE .\Trampota Media\JosephWanschura1791_Marriage.png
@@ -910,9 +896,9 @@
 3 TIME 15:58:44
 1 BIRT
 2 DATE 13 FEB 1772
-2 PLAC WÃ¶llsdorf
+2 PLAC Wöllsdorf
 1 FAMC @F49@
-1 NOTE "15 - 13 - Anna Maria - Faltus Anton (??? Job Name ???) Anna Rosina Mater, Catharina Wife of Franz Wanschura Peasant of WÃ¶llsdorf and Joseph Barnet, Peasant of WÃ¶llsdorf, Cathol.,WÃ¶llsdorf, 30 (House Number)."
+1 NOTE "15 - 13 - Anna Maria - Faltus Anton (??? Job Name ???) Anna Rosina Mater, Catharina Wife of Franz Wanschura Peasant of Wöllsdorf and Joseph Barnet, Peasant of Wöllsdorf, Cathol.,Wöllsdorf, 30 (House Number)."
 2 CONT 
 2 CONT Note there are two Anna Maria, daughter of Anton Faltus, but only this one fits to the dates calculated from Marriage. The other was only 15 at the time. Both are from the same house.
 1 OBJE
@@ -920,7 +906,7 @@
 3 _ALTPATH Trampota Media\
 3 FORM bmp
 2 TITL AnnaMariaFaltus1772 Birth
-1 SOUR Births, WÃ¶llsdorf, Entry of Anna Maria Faltus, Zamrsk 161-1, Page 9
+1 SOUR Births, Wöllsdorf, Entry of Anna Maria Faltus, Zamrsk 161-1, Page 9
 0 @I47@ INDI
 1 _UID 4177B27693EF4BC7BA07422BD95EC112AC4F
 1 NAME Anton /Faltus/
@@ -930,18 +916,17 @@
 1 CHAN
 2 DATE 26 MAR 2019
 3 TIME 15:33:45
-1 OCCU HÃ¤usler
-1 NOTE "Sobkowitz - 22th June married is the honest juvenile Anton remaining son of the dead Anton Faltus with the honest Maria Rosina remaining widow of the dead Joseph Hubalek from WÃ¶llsdorf. Testes Johann Georg Gestzabek, Veronica Wife of Joseph Ulr
-2 CONC ich, and Theresia Daughter of Johann Georg Getzabek. Testes without canonical impediments Joannes Ardelt, Anton Schlesinger, Caspar Pacha, Franz Wanschura."
+1 OCCU Häusler
+1 NOTE "Sobkowitz - 22th June married is the honest juvenile Anton remaining son of the dead Anton Faltus with the honest Maria Rosina remaining widow of the dead Joseph Hubalek from Wöllsdorf. Testes Johann Georg Gestzabek, Veronica Wife of Joseph Ulri
+2 CONC ch, and Theresia Daughter of Johann Georg Getzabek. Testes without canonical impediments Joannes Ardelt, Anton Schlesinger, Caspar Pacha, Franz Wanschura."
 2 CONT 
-2 CONT Note there is a second Anton Faltus born in ZÃ¶llnei 1749, by a different father (also Anton), but it is pretty sure this is the wrong one, as he does not come from Sobkowitz where the relevant Anton is from.
+2 CONT Note there is a second Anton Faltus born in Zöllnei 1749, by a different father (also Anton), but it is pretty sure this is the wrong one, as he does not come from Sobkowitz where the relevant Anton is from.
 1 BIRT
 2 PLAC Sobkowitz
 1 FAMS @F49@
 1 FAMC @F50@
 1 OBJE
 2 FILE D:\Downloads\Ahnenblatt\Trampota Media\JosephAntonFaltus1750_Birth.bmp
-3 _ALTPATH .\Trampota Media\
 3 FORM bmp
 2 TITL JosephAntonFaltus1750 Birth
 1 SOUR Births, Sobkowitz, Entry of Joseph Anton Faltus, 06/12/1750, Zamrsk 109-1, Page 191
@@ -959,10 +944,10 @@
 1 SEX M
 1 BIRT
 2 DATE 19 JUL 1733
-2 PLAC ZÃ¶llnei
+2 PLAC Zöllnei
 1 DEAT
 2 DATE 16 AUG 1791
-2 PLAC ZÃ¶llnei
+2 PLAC Zöllnei
 1 CHAN
 2 DATE 21 MAR 2019
 3 TIME 15:02:31
@@ -973,13 +958,13 @@
 3 _ALTPATH Trampota Media\
 3 FORM bmp
 2 TITL AugustinWanschura1760 Marriage
-1 NOTE "Zellnei - 19 Jun - Baptized is Augustin son of Augustin Wanschura and his wife Maria. Levans Johann Georg Ulrich. Testes Heinrich Netuschil and Anna Maria his Wife. Jannes Vogel. All from ZÃ¶llnei."
+1 NOTE "Zellnei - 19 Jun - Baptized is Augustin son of Augustin Wanschura and his wife Maria. Levans Johann Georg Ulrich. Testes Heinrich Netuschil and Anna Maria his Wife. Jannes Vogel. All from Zöllnei."
 2 CONT 
-2 CONT "On Oct 5, 1760 were married young Augustin, a late legitimate son after deceased Augustin WanÅ¾ura and pure virgin Margaretha, a legitimate daughter of Johann Georg Netussil. Witnesses were Jozef Jandor from Mladkow, Weronika, a wife of Johann G
-2 CONC eorg Uhlrich, Rosina, a daughter of Johann Georg Uhlrich. Witnesses that professed that there is no blood relationship between (groom and a bride) or other problem that would thwart this marriage were Johann Georg Uhlrich, Franz Jozef StienjcÅ¾ka
-2 CONC , Krysstof Uhlrych and Andreas WancÅ¾ura. Marriage banns were read on Sep 14, 21 and 28. The ceremony was performed by Rev. Andreas GÃ¼nter."
-1 SOUR Births, ZÃ¶llnei, Entry for Augustin Wanschura, 07/19/1733, Zamrsk 109-1, Page 109
-2 CONT Marriages, ZÃ¶llnei, Entry for Augustin Wanschura and Marketa Netuschil, 08/16/1791, Zamrsk 109-8, Page 74
+2 CONT "On Oct 5, 1760 were married young Augustin, a late legitimate son after deceased Augustin Wanžura and pure virgin Margaretha, a legitimate daughter of Johann Georg Netussil. Witnesses were Jozef Jandor from Mladkow, Weronika, a wife of Johann Ge
+2 CONC org Uhlrich, Rosina, a daughter of Johann Georg Uhlrich. Witnesses that professed that there is no blood relationship between (groom and a bride) or other problem that would thwart this marriage were Johann Georg Uhlrich, Franz Jozef Stienjcžka, 
+2 CONC Krysstof Uhlrych and Andreas Wancžura. Marriage banns were read on Sep 14, 21 and 28. The ceremony was performed by Rev. Andreas Günter."
+1 SOUR Births, Zöllnei, Entry for Augustin Wanschura, 07/19/1733, Zamrsk 109-1, Page 109
+2 CONT Marriages, Zöllnei, Entry for Augustin Wanschura and Marketa Netuschil, 08/16/1791, Zamrsk 109-8, Page 74
 1 OBJE
 2 FILE .\Trampota Media\AugustinWanschura1733_Birth.bmp
 3 _ALTPATH Trampota Media\
@@ -993,10 +978,10 @@
 1 SEX M
 1 BIRT
 2 DATE (14. March 1702)
-2 PLAC ZÃ¶llnei
+2 PLAC Zöllnei
 1 DEAT
 2 DATE (04. February 1743)
-2 PLAC ZÃ¶llnei
+2 PLAC Zöllnei
 1 CHAN
 2 DATE 28 MAR 2019
 3 TIME 18:16:44
@@ -1009,11 +994,11 @@
 2 TITL AugustinWanschura1702 Birth
 1 NOTE "Augustin - Krystoff Wanschura. M. Maria - Pavel Tryber, Tobias Geppert, Gyrzy Zobele, Maria P???, Susanne Brolin(???) - Zelnyho - 14 - March - 1702"
 2 CONT 
-2 CONT "ZÃ¶llnei - 18th November married are Augustin Wanschura with Maria daughter of Michael Timan
+2 CONT "Zöllnei - 18th November married are Augustin Wanschura with Maria daughter of Michael Timan
 2 CONT from Linsdorff, Testes Joannes Schreiber Maria of Johannes Schreiber Anna Maria Kristin all from
 2 CONT Linsdorf."
-1 SOUR ZÃ¶llnei, Births, Entry for Augustin Wanschura, 03/14/1702, Zamrsk 83-2, Page 271
-2 CONT ZÃ¶llnei, Marriages, Entry for Augustin Wanschura and Maria Timan, 11/18/1725, 109-8, Page 20
+1 SOUR Zöllnei, Births, Entry for Augustin Wanschura, 03/14/1702, Zamrsk 83-2, Page 271
+2 CONT Zöllnei, Marriages, Entry for Augustin Wanschura and Maria Timan, 11/18/1725, 109-8, Page 20
 1 OBJE
 2 FILE .\Trampota Media\AugustinWanschura1725_Marriage.bmp
 3 _ALTPATH Trampota Media\
@@ -1026,21 +1011,26 @@
 2 GIVN Krystof
 1 SEX M
 1 BIRT
-2 DATE (before 1674)
+2 DATE (27. Dec. 1666)
+2 PLAC Zöllnei
 1 CHAN
-2 DATE 29 MAR 2019
-3 TIME 12:44:39
+2 DATE 30 MAR 2019
+3 TIME 12:57:37
 1 FAMS @F36@
-1 NOTE Please note that the marriage notice is in really HARD to read czech language and Currentscript. 
-2 CONT 
+1 NOTE "Krystoff, Hans Wanschura, Anna, 27, X, 1666"
 2 CONT "November. Krystoff son of Jan Wanczaurka with Marygi daughter of Jan Trigle(???)"
-1 FAMC @F41@
+1 OBJE
+2 FILE F:\Stammbaum\ProjektAdams\KrystoffWanschura1666_Birth.png
+3 FORM png
+2 TITL KrystoffWanschura1666 Birth
+1 SOUR Zöllnei, Births, Entry for Krystoff Wanschura, 12/27/1666, Zamrsk 83-1, Page 55
+2 CONT Zöllnei, Marriages, Entry for Krystoff Wanschura and Marygi Nebostil,11/11/1691,  Zamrsk 083-2, Page 32
 1 OBJE
 2 FILE .\Trampota Media\KrystoffWanschura1691_Marriage.bmp
 3 _ALTPATH Trampota Media\
 3 FORM bmp
 2 TITL KrystoffWanschura1691 Marriage
-1 SOUR ZÃ¶llnei, Marriages, Entry for Krystoff Wanschura and Marygi Nebostil, Zamrsk 083-2, Page 32
+1 FAMC @F68@
 0 @I53@ INDI
 1 _UID FB108FB3BC7643A6A600381DF633F73BBE8A
 1 NAME Margaretha /Netuschil/
@@ -1050,22 +1040,21 @@
 1 FAMS @F34@
 1 BIRT
 2 DATE 1 NOV 1737
-2 PLAC ZÃ¶llnei
+2 PLAC Zöllnei
 1 DEAT
 2 DATE (19. Dec. 1790)
-2 PLAC ZÃ¶llnei
+2 PLAC Zöllnei
 1 CHAN
 2 DATE 29 MAR 2019
 3 TIME 9:02:55
 1 FAMC @F51@
 1 OBJE
 2 FILE D:\Downloads\Ahnenblatt\Trampota Media\MargarethaNetuschil1737_Birth.bmp
-3 _ALTPATH .\Trampota Media\
 3 FORM bmp
 2 TITL MargarethaNetuschil1737 Birth
-1 NOTE "ZÃ¶llnei - 1 - Baptized is Margaretha daughter of Johann Georg Netuschil and Catharina his wife. Levans Veronica Wife of Johannes Georg Ulrich. Baker. Testes: Rosina Wife of Friedrich Fischer and Rosina Wife of Johannes Schmok and Johann Joseph 
-2 CONC Estieiczka(???) and Franz Pietsch from Wichstadtl and Johannes Stiepan from WÃ¶llsd."
-1 SOUR Births, ZÃ¶llnei, Entry for Margaretha(Marketa) Netuschil, 11/01/1737, Zamrsk 109-1, Page 130
+1 NOTE "Zöllnei - 1 - Baptized is Margaretha daughter of Johann Georg Netuschil and Catharina his wife. Levans Veronica Wife of Johannes Georg Ulrich. Baker. Testes: Rosina Wife of Friedrich Fischer and Rosina Wife of Johannes Schmok and Johann Joseph E
+2 CONC stieiczka(???) and Franz Pietsch from Wichstadtl and Johannes Stiepan from Wöllsd."
+1 SOUR Births, Zöllnei, Entry for Margaretha(Marketa) Netuschil, 11/01/1737, Zamrsk 109-1, Page 130
 0 @I54@ INDI
 1 _UID DD456C6C5F9643128AD9A939DFBAA7784127
 1 NAME Maria /Timan/
@@ -1091,8 +1080,8 @@
 3 TIME 13:35:09
 1 BIRT
 2 DATE (before 1674)
-1 NOTE Note: The last name is pretty hard to read, I am sure about "Nebost". Another note on the firstname, it reads "Margyanu" which is a declination (in Czech language names are declinated!) of nominative "Marygi" which is in an old form of "Maria" i
-2 CONC n Czechia and to be seen as equivalent to the name Maria. One person can be listed as "Marygi" in one document and "Maria" in another document, I have seen this before.
+1 NOTE Note: The last name is pretty hard to read, I am sure about "Nebost". Another note on the firstname, it reads "Margyanu" which is a declination (in Czech language names are declinated!) of nominative "Marygi" which is in an old form of "Maria" in
+2 CONC  Czechia and to be seen as equivalent to the name Maria. One person can be listed as "Marygi" in one document and "Maria" in another document, I have seen this before.
 1 FAMC @F42@
 0 @I56@ INDI
 1 _UID F4183717126441309A8FC4801D6601EE209A
@@ -1130,18 +1119,18 @@
 3 TIME 9:48:28
 1 BIRT
 2 DATE (4. May 1848)
-2 PLAC ZÃ¶llnei
+2 PLAC Zöllnei
 1 CHR
 2 DATE (05. May 1848)
-2 PLAC ZÃ¶llnei
-1 NOTE "Mai 4th born, 5th baptized - 74 (House No.) - Anna Maria - Franz Wanschura, Catholic, Peasant from ZÃ¶llnei from #74 belonging to Geiersberg, legitimate son of the deceased Josef Wanschura, Peasant from ZÃ¶llnei from #74 and his wife Anna legitim
-2 CONC ate Daughter of the deceased Johann Faltus House Owner from WÃ¶llsdorf.
-2 CONT Anna Adelt, Catholic, legitimate daughter of Joseph Adelt, Peasant from ZÃ¶llnei #9 belonging to Geiersberg and his wife Franziska, daughter of the deceased Franz Trampota, peasant from Jamnay from #50, belonging to Lanskron."
+2 PLAC Zöllnei
+1 NOTE "Mai 4th born, 5th baptized - 74 (House No.) - Anna Maria - Franz Wanschura, Catholic, Peasant from Zöllnei from #74 belonging to Geiersberg, legitimate son of the deceased Josef Wanschura, Peasant from Zöllnei from #74 and his wife Anna legitima
+2 CONC te Daughter of the deceased Johann Faltus House Owner from Wöllsdorf.
+2 CONT Anna Adelt, Catholic, legitimate daughter of Joseph Adelt, Peasant from Zöllnei #9 belonging to Geiersberg and his wife Franziska, daughter of the deceased Franz Trampota, peasant from Jamnay from #50, belonging to Lanskron."
 2 CONT 
-2 CONT Note the name of the mother of Franz Wanschura differs here to what was given in the marriage and birth records of Franz Wanschura. I expect this to be a mistake as the other records are "closer to the fact". There have NOT been several Franz Wa
-2 CONC nschura's.
+2 CONT Note the name of the mother of Franz Wanschura differs here to what was given in the marriage and birth records of Franz Wanschura. I expect this to be a mistake as the other records are "closer to the fact". There have NOT been several Franz Wan
+2 CONC schura's.
 1 FAMS @F39@
-1 SOUR Births, ZÃ¶llnei, Entry for Anna Maria Wanschura, 05/04/1848, Zamrsk 161-5, Page 78
+1 SOUR Births, Zöllnei, Entry for Anna Maria Wanschura, 05/04/1848, Zamrsk 161-5, Page 78
 0 @I59@ INDI
 1 _UID 983A5EFC68FE4EE988397284036C56509538
 1 NAME Josef /Ulrich/
@@ -1152,14 +1141,13 @@
 1 CHAN
 2 DATE 28 MAR 2019
 3 TIME 10:06:50
-1 NOTE "Born 10th, baptized 11th" - 79 - Josephus (Details on the priest after his name) - Anton Ullrich, catholic, Peasant from ZÃ¶llnei #79, from the ruling area of Geyersberg, legitimate son of the deceased Anton Ulrich, Peasant from ZÃ¶llnei from #79
-2 CONC  and his wife Katharina, born Netuschil, from ZÃ¶llnei #25.
-2 CONT Theresia Barnet, Catholic, legitimate daughter of Franz Barnet, peasent of WÃ¶llsdorf, from #33, ruling area of Geyersberg, and his wife Rosalia, born Bauchal, from Middle Lipka #21, ruling area of Grulich. Testes: Joseph Bauchal, House-Owner of 
-2 CONC WÃ¶llsdorf #2, Josepha Wenschura, wife of Franz Wanschura, from ZÃ¶llnei #51."
+1 NOTE "Born 10th, baptized 11th" - 79 - Josephus (Details on the priest after his name) - Anton Ullrich, catholic, Peasant from Zöllnei #79, from the ruling area of Geyersberg, legitimate son of the deceased Anton Ulrich, Peasant from Zöllnei from #79 
+2 CONC and his wife Katharina, born Netuschil, from Zöllnei #25.
+2 CONT Theresia Barnet, Catholic, legitimate daughter of Franz Barnet, peasent of Wöllsdorf, from #33, ruling area of Geyersberg, and his wife Rosalia, born Bauchal, from Middle Lipka #21, ruling area of Grulich. Testes: Joseph Bauchal, House-Owner of W
+2 CONC öllsdorf #2, Josepha Wenschura, wife of Franz Wanschura, from Zöllnei #51."
 2 CONT 
-2 CONT "11th July 1871 - 79 (House Number), Josef Ulrich, Infantry soldier in Infantry Regiment #18 of Great Prince Constantin, 12th Regiment, Son of Anton Ulrich, Peasant of ZÃ¶llnei #79 and of his wife Theresia born Barnet from WÃ¶llsdorf #33. 27 Years
-2 CONC .
-2 CONT Anna Maria, legitimate daughter of Franz Wanschura, Peasant in ZÃ¶llnei #74 and his Wife Anna born Adelt from ZÃ¶llnei #9. 23 Years."
+2 CONT "11th July 1871 - 79 (House Number), Josef Ulrich, Infantry soldier in Infantry Regiment #18 of Great Prince Constantin, 12th Regiment, Son of Anton Ulrich, Peasant of Zöllnei #79 and of his wife Theresia born Barnet from Wöllsdorf #33. 27 Years.
+2 CONT Anna Maria, legitimate daughter of Franz Wanschura, Peasant in Zöllnei #74 and his Wife Anna born Adelt from Zöllnei #9. 23 Years."
 2 CONT 
 2 CONT Josef married Anna Maria Wanschura after their child was born as is noted on the birth record of their son Josef, but it is also noted that he is actually the father of Josef.
 2 CONT 
@@ -1168,13 +1156,13 @@
 2 CONT There are two Joseph Ulrich born around this time, but only one in #79.
 1 BIRT
 2 DATE 10 AUG 1843
-2 PLAC ZÃ¶llnei
+2 PLAC Zöllnei
 1 FAMC @F40@
 1 CHR
 2 DATE 11 AUG 1843
-2 PLAC ZÃ¶llnei
-1 SOUR ZÃ¶llnei, Births, Entry for Josef Ulrich, 08/10/1843, 161-5, Page 60
-2 CONT ZÃ¶llnei, Marriages, Entry of Josef Ullrich and Anna Maria Wanschura, 07/11/1871, Zamrsk 161-3158, Page 55
+2 PLAC Zöllnei
+1 SOUR Zöllnei, Births, Entry for Josef Ulrich, 08/10/1843, 161-5, Page 60
+2 CONT Zöllnei, Marriages, Entry of Josef Ullrich and Anna Maria Wanschura, 07/11/1871, Zamrsk 161-3158, Page 55
 1 OBJE
 2 FILE .\Trampota Media\JosefUlrich1871_Marriage.bmp
 3 _ALTPATH Trampota Media\
@@ -1192,18 +1180,18 @@
 3 TIME 10:52:07
 1 BIRT
 2 DATE 15 APR 1870
-2 PLAC ZÃ¶llnei
+2 PLAC Zöllnei
 1 CHR
 2 DATE 16 APR 1870
-2 PLAC ZÃ¶llnei
-1 NOTE "15. April - 74 (House No.) - The illegitimate father Josef Ulrich was married qwith Anna Wanschura on 11th July 1871 where two testes were present. He is legitimate son of Anton Ullrich Peasant from ZÃ¶llnei #79 and his Wife Theresia born Barnet
-2 CONC  from WÃ¶llsdorf No.33. Anna, Catholic daughter of Franz Wanschura, peasant of ZÃ¶llnei #74 and his wife Marianna born Adelt from ZÃ¶llnei #9."
+2 PLAC Zöllnei
+1 NOTE "15. April - 74 (House No.) - The illegitimate father Josef Ulrich was married qwith Anna Wanschura on 11th July 1871 where two testes were present. He is legitimate son of Anton Ullrich Peasant from Zöllnei #79 and his Wife Theresia born Barnet 
+2 CONC from Wöllsdorf No.33. Anna, Catholic daughter of Franz Wanschura, peasant of Zöllnei #74 and his wife Marianna born Adelt from Zöllnei #9."
 1 OBJE
 2 FILE .\Trampota Media\JosefUlrich1870_Birth.bmp
 3 _ALTPATH Trampota Media\
 3 FORM bmp
 2 TITL JosefUlrich1870 Birth
-1 SOUR Births, ZÃ¶llnei, Entry of Josef Ulrich, 04/15/1870, Zamrsk 161-3156, Page 98
+1 SOUR Births, Zöllnei, Entry of Josef Ulrich, 04/15/1870, Zamrsk 161-3156, Page 98
 0 @I61@ INDI
 1 _UID 1A58F64102154F3BA2C218A81BA0381F80C2
 1 NAME Joseph /Wanschura/
@@ -1213,7 +1201,7 @@
 1 FAMC @F31@
 1 BIRT
 2 DATE 9 AUG 1792
-2 PLAC ZÃ¶llnei
+2 PLAC Zöllnei
 1 CHAN
 2 DATE 22 MAR 2019
 3 TIME 14:35:57
@@ -1230,7 +1218,7 @@
 1 FAMS @F40@
 1 BIRT
 2 DATE (26. Dec. 1821)
-2 PLAC ZÃ¶llnei
+2 PLAC Zöllnei
 1 OCCU Peasant
 1 FAMC @F47@
 1 OBJE
@@ -1239,7 +1227,7 @@
 3 FORM bmp
 2 TITL AntonUlrich1821 Birth
 1 NOTE "26. Dec. - 79 (House No.) - Anton - Anton Ulrich, Peasant, Katharina, daughter of Franz Netuschil, Peasant and M. Josepha Weyrauch."
-1 SOUR Births, ZÃ¶llnei, Entry for Anton Ulrich, 12/26/1821, Zamrsk 161-3, Page 78
+1 SOUR Births, Zöllnei, Entry for Anton Ulrich, 12/26/1821, Zamrsk 161-3, Page 78
 0 @I63@ INDI
 1 _UID 49CAC89A0D0244DEB48F76C051E65E762A85
 1 NAME Theresia /Barnet/
@@ -1259,12 +1247,12 @@
 2 SURN Wanschura
 2 GIVN Jan
 1 SEX M
-1 FAMS @F41@
 1 CHAN
-2 DATE 29 MAR 2019
-3 TIME 12:01:47
+2 DATE 30 MAR 2019
+3 TIME 12:58:18
 1 BIRT
-2 DATE (before 1656)
+2 DATE (before 1649)
+1 FAMS @F68@
 0 @I65@ INDI
 1 _UID 4F366BA3526245E7A43BCA8EE13CC641CE5E
 1 NAME Jan /Trigle(???)/
@@ -1286,12 +1274,12 @@
 1 FAMS @F43@
 1 BIRT
 2 DATE 21 JUN 1791
-2 PLAC WÃ¶llsdorf
+2 PLAC Wöllsdorf
 1 NOTE Sie wurde in #38 geboren.
 2 CONT 
 2 CONT "Anna Theresia - Joseph Faltus, House Owner. Mother Anna Maria. Testes Theresia, Wife of Johann Wanschura. Franz Fischer. Both Peasants. No.38"
 2 CONT 
-1 SOUR WÃ¶llsdorf,Births,Entry for Marianna Faltus,06/21/1791,Zamrsk 161-2,Page 86
+1 SOUR Wöllsdorf,Births,Entry for Marianna Faltus,06/21/1791,Zamrsk 161-2,Page 86
 1 CHAN
 2 DATE 22 MAR 2019
 3 TIME 14:36:01
@@ -1313,11 +1301,11 @@
 2 GIVN Johann Georg
 1 SEX M
 1 CHAN
-2 DATE 29 MAR 2019
-3 TIME 14:10:18
+2 DATE 27 MAR 2019
+3 TIME 14:00:41
 1 BIRT
 2 DATE 14 AUG 1693
-2 PLAC ZÃ¶llnei
+2 PLAC Zöllnei
 1 FAMS @F51@
 1 FAMC @F54@
 1 OBJE
@@ -1326,7 +1314,7 @@
 3 FORM bmp
 2 TITL HansGeorgNetuschil1693 Birth
 1 NOTE "Hans Georg, Girzik(Georg) Netuschil,M. Anna, Balczar Wanschaurek, ???, Friedrich Brokl, ??? Wanschaurek, Susanna Wanschaurek, Czelniho, 14, Aug, 1693"
-1 SOUR Births, ZÃ¶llnei, Entry for Johann Georg Netuschil, Zamrsk, 83-2, Page 179
+1 SOUR Births, Zöllnei, Entry for Johann Georg Netuschil, Zamrsk, 83-2, Page 179
 0 @I69@ INDI
 1 _UID 98F6C74195B547A88A2E44F3BC3EC280FA21
 1 NAME Michael /Timan/
@@ -1352,15 +1340,15 @@
 3 _ALTPATH Trampota Media\
 3 FORM bmp
 2 TITL AntonFranzUlrich1795 Birth
-1 NOTE " 14 - 41 (House No.) - Ignatz Ulrich, Weaver, Maria, Daughter of Karl Frimmel from ZÃ¶llnei #41."
+1 NOTE " 14 - 41 (House No.) - Ignatz Ulrich, Weaver, Maria, Daughter of Karl Frimmel from Zöllnei #41."
 2 CONT "25 - 40 (House No.) - Anton, son of Ignatz Ullrich, Peasant - 25y9m - Katharina, daughter of Franz Netuschil and M. Josepha Weihrauch - 20y9m (could also mean 26 or 28 or 29)"
 2 CONT 
 2 CONT Note 1794 there is another Anton Ulrich, son of Ignatz Ulrich born, but this is a different Anton and a different Ignatz, as the birth happened in House #13. Anton marries later in #40 (neighbour house of #41).
-1 SOUR Births, ZÃ¶llnei, Entry for Anton Franz Ulrich, 11/14/1795, Zamrsk 161-2, Page 61
-2 CONT Marriages, ZÃ¶llnei, Entry for Anton Ulrich and Katharina Netuschil, 10/25/1819, Zamrsk 161-8097, Page 41
+1 SOUR Births, Zöllnei, Entry for Anton Franz Ulrich, 11/14/1795, Zamrsk 161-2, Page 61
+2 CONT Marriages, Zöllnei, Entry for Anton Ulrich and Katharina Netuschil, 10/25/1819, Zamrsk 161-8097, Page 41
 1 BIRT
 2 DATE 14 NOV 1795
-2 PLAC ZÃ¶llnei
+2 PLAC Zöllnei
 1 OBJE
 2 FILE .\Trampota Media\AntonUlrich1819_Marriage.bmp
 3 _ALTPATH Trampota Media\
@@ -1413,12 +1401,12 @@
 3 TIME 15:52:07
 1 BIRT
 2 DATE 3 NOV 1736
-2 PLAC WÃ¶llsdorf
-1 NOTE She was before married with Joseph Hubalek. She was from WÃ¶llsdorf. Joseph dies on 08th Feb. 1766 and is born around 1722. Rosina married Joseph on 27th October 1754.
+2 PLAC Wöllsdorf
+1 NOTE She was before married with Joseph Hubalek. She was from Wöllsdorf. Joseph dies on 08th Feb. 1766 and is born around 1722. Rosina married Joseph on 27th October 1754.
 2 CONT 
-2 CONT "Baptized is Anna Rosina daughter of Johannes Gestzabeck and Rosina his wife. Levans: Veronica wife of Georg Ulrich from ZÃ¶llnei. Testes: Jan Georg Peschke, Elias Weyrauch and Maria wife of Johann Georg Richter."
+2 CONT "Baptized is Anna Rosina daughter of Johannes Gestzabeck and Rosina his wife. Levans: Veronica wife of Georg Ulrich from Zöllnei. Testes: Jan Georg Peschke, Elias Weyrauch and Maria wife of Johann Georg Richter."
 1 FAMC @F52@
-1 SOUR Births, WÃ¶llsdorf, Entry of Anna Rosina Gestzabeck, 11/03/1736, Zamrsk 109-1, Page 121
+1 SOUR Births, Wöllsdorf, Entry of Anna Rosina Gestzabeck, 11/03/1736, Zamrsk 109-1, Page 121
 0 @I75@ INDI
 1 _UID 466481F52556476992EEB9E05B4959A80909
 1 NAME Anton /Faltus/
@@ -1445,11 +1433,11 @@
 3 TIME 16:20:18
 1 DEAT
 2 DATE 22 JAN 1790
-2 PLAC ZÃ¶llnei
+2 PLAC Zöllnei
 1 NOTE She died in House #59.
 2 CONT 
 2 CONT "January 22 - 59 - Catharina Netuschilin, Widow - 90 Years, Died of Age"
-1 SOUR Deaths, ZÃ¶llnei, Entry of Catharina Netuschil, 01/22/1790, Zamrsk 161-7, Page 39
+1 SOUR Deaths, Zöllnei, Entry of Catharina Netuschil, 01/22/1790, Zamrsk 161-7, Page 39
 0 @I79@ INDI
 1 _UID BB79C0AD77B2466E9A7AE9EF743123093BDD
 1 NAME Johann /Gestzabeck/
@@ -1466,7 +1454,7 @@
 2 FILE F:\Stammbaum\ProjektAdams\JohannGestzabeck1720_Marriage.png
 3 FORM png
 2 TITL JohannGestzabeck1720 Marriage
-1 NOTE "Linsdorf - 20th October - married is Johann Jestzabeck with Rosina, daughter of Georg Stiepanek from Village WÃ¶llsdorf."
+1 NOTE "Linsdorf - 20th October - married is Johann Jestzabeck with Rosina, daughter of Georg Stiepanek from Village Wöllsdorf."
 2 CONT 
 2 CONT Might be that he is the Jan Gestzabeck born 04th February of 1694 as son of Elias(???) Gestzabeck and Rosina in Nekorz. But unsure.
 1 SOUR Marriages, Linsdorf, Entry for Johann Gestzabeck and Rosina Stiepanek, 10/20/1720, Zamrsk 109-8, Page 15
@@ -1482,7 +1470,7 @@
 3 TIME 15:06:39
 1 BIRT
 2 DATE 10 DEC 1698
-2 PLAC WÃ¶llsdorf
+2 PLAC Wöllsdorf
 1 NOTE "Rosina - Girzig Stepan M. Anna - Techonin - 10 Dez. 1698"
 2 CONT 
 2 CONT Please note I am not 100% sure if this birth-assignment is correct. 
@@ -1496,7 +1484,7 @@
 1 SEX M
 1 BIRT
 2 DATE 19 JUN 1699
-2 PLAC ZÃ¶llnei
+2 PLAC Zöllnei
 1 CHAN
 2 DATE 27 MAR 2019
 3 TIME 14:17:25
@@ -1507,11 +1495,11 @@
 2 TITL JohannAdelt1726 Marriage
 1 NOTE "Jan - Jan Ardelt M.Susanna, Czelniho, 19th, June, 1699"
 2 CONT 
-2 CONT "ZÃ¶llnei, 29th January, married is Johann Adelt with Susanna, daughter of Johann Fischer from ZÃ¶llnei. Testes Elias Weirauch, Rosina Fischer. Sibilla Richter."
+2 CONT "Zöllnei, 29th January, married is Johann Adelt with Susanna, daughter of Johann Fischer from Zöllnei. Testes Elias Weirauch, Rosina Fischer. Sibilla Richter."
 2 CONT 
-2 CONT Please note there are two Jan Adelt, but one is from ZÃ¶llnei, one from Techonin, and we know the correct one is from ZÃ¶llnei.
-1 SOUR Births, ZÃ¶llnei, Etry for Johann Adelt, 06/19/1699, Zamrsk 83-2, Page 215
-2 CONT Marriages, ZÃ¶llnei, Entry for Johann Adelt and Susanna Fischer, 01/29/1726, Zamrsk 109-8, Page 21
+2 CONT Please note there are two Jan Adelt, but one is from Zöllnei, one from Techonin, and we know the correct one is from Zöllnei.
+1 SOUR Births, Zöllnei, Etry for Johann Adelt, 06/19/1699, Zamrsk 83-2, Page 215
+2 CONT Marriages, Zöllnei, Entry for Johann Adelt and Susanna Fischer, 01/29/1726, Zamrsk 109-8, Page 21
 1 FAMC @F59@
 1 OBJE
 2 FILE .\Trampota Media\JanAdelt1699_Birth.bmp
@@ -1540,8 +1528,8 @@
 1 BIRT
 2 DATE (before 1676)
 1 CHAN
-2 DATE 29 MAR 2019
-3 TIME 14:43:08
+2 DATE 27 MAR 2019
+3 TIME 14:57:12
 1 FAMS @F54@
 1 FAMC @F55@
 1 OBJE
@@ -1551,8 +1539,8 @@
 2 TITL GeorgNetuschil1690 Marriage
 1 NOTE "Girzig, Son of Bedrych Netuschil, with Anna, daughter of Waczlaw Metelyk."
 2 CONT 
-2 CONT The place is even for me unreadable. But it is in churchbook ZÃ¶llnei.
-1 SOUR Marriages, ZÃ¶llnei, Entry for Georg Netuschil, 11/11/1690, Zamrsk 83-2, Page 30
+2 CONT The place is even for me unreadable. But it is in churchbook Zöllnei.
+1 SOUR Marriages, Zöllnei, Entry for Georg Netuschil, 11/11/1690, Zamrsk 83-2, Page 30
 0 @I84@ INDI
 1 _UID 0AEED2264CBC4AD9886C277790CD23A2CF25
 1 NAME Anna /Metelyek/
@@ -1597,8 +1585,8 @@
 2 GIVN Johann
 1 SEX M
 1 CHAN
-2 DATE 29 MAR 2019
-3 TIME 13:56:19
+2 DATE 27 MAR 2019
+3 TIME 13:30:36
 1 BIRT
 2 DATE (before 1691)
 1 FAMS @F57@
@@ -1609,11 +1597,20 @@
 2 GIVN Georg
 1 SEX M
 1 BIRT
-2 DATE (before 1681)
+2 DATE 18 JUL 1668
 1 CHAN
-2 DATE 29 MAR 2019
-3 TIME 14:14:06
+2 DATE 30 MAR 2019
+3 TIME 13:04:30
 1 FAMS @F58@
+1 FAMC @F69@
+1 OBJE
+2 FILE F:\Stammbaum\ProjektAdams\GeorgStiepanek1668_Birth.png
+3 FORM png
+2 TITL GeorgStiepanek1668 Birth
+1 NOTE "Girzig, Matig Stiepanek, M. Anna, Lukavicz, 18, Jul.,1668"
+2 CONT 
+2 CONT Please note there is a second Georg Stiepanek born in 1652, but as Georg's daughter is born 1698 I am pretty sure the Georg from 1668 is the correct one.
+1 SOUR Births, Zöllnei, Entry for Georg Stiepanek, 07/18/1668, Zamrsk 83-1, Page 59
 0 @I89@ INDI
 1 _UID C60C5C20B0B749C6BD5C3E977BD8E1927844
 1 NAME Catharina /.../
@@ -1621,7 +1618,7 @@
 2 GIVN Catharina
 1 SEX F
 1 FAMS @F57@
-1 NOTE Other children of Johann Fischer from ZÃ¶llnei: As mother Catharina is given.
+1 NOTE Other children of Johann Fischer from Zöllnei: As mother Catharina is given.
 1 CHAN
 2 DATE 27 MAR 2019
 3 TIME 13:18:28
@@ -1644,19 +1641,20 @@
 2 GIVN Jan
 1 SEX M
 1 CHAN
-2 DATE 29 MAR 2019
-3 TIME 15:04:35
+2 DATE 30 MAR 2019
+3 TIME 12:14:40
 1 FAMS @F59@
-1 FAMC @F61@
+1 FAMC @F67@
 1 OBJE
 2 FILE .\Trampota Media\JanAdelt1695_Marriage.bmp
 3 _ALTPATH Trampota Media\
 3 FORM bmp
 2 TITL JanAdelt1695 Marriage
-1 NOTE "20 Jan. Jan Son of deceased Girzik Adlta from ZÃ¶llnei with Susanna Daughter of deceased Pavel Schubert from ZÃ¶llnei."
-1 SOUR Marriages, ZÃ¶llnei, Entry for Jan Adelt, 01/20/1695, Zamrsk 83-2, Page 36
+1 NOTE "Jan - Girzik Adelt, Eva - Zöllnyho - 24 - xber - 1668"
+2 CONT "20 Jan. Jan Son of deceased Girzik Adlta from Zöllnei with Susanna Daughter of deceased Pavel Schubert from Zöllnei."
+1 SOUR Marriages, Zöllnei, Entry for Jan Adelt, 01/20/1695, Zamrsk 83-2, Page 36
 1 BIRT
-2 DATE (before 1678)
+2 DATE (24. Dec. 1668)
 0 @I92@ INDI
 1 _UID 5CD448110C5C48C7A5B41332E82D3D6D5DDA
 1 NAME Susanna /Schubert/
@@ -1688,12 +1686,19 @@
 2 SURN Adelt
 2 GIVN Georg
 1 SEX M
-1 FAMS @F61@
 1 CHAN
-2 DATE 29 MAR 2019
-3 TIME 15:04:25
+2 DATE 30 MAR 2019
+3 TIME 12:12:58
 1 BIRT
-2 DATE (before 1660)
+2 DATE (before 1649)
+1 FAMC @F66@
+1 FAMS @F67@
+1 OBJE
+2 FILE F:\Stammbaum\ProjektAdams\GeorgAdelt1666_Mariage.png
+3 FORM png
+2 TITL GeorgAdelt1666 Mariage
+1 NOTE "Same, Georg, Son of Jan Adelt, with Eva, daughter of Peter Senftner."
+1 SOUR Marriages, Zöllnei, Entry for Georg Adelt and Eva Senftner, 02/02/1666, Zamrsk 83-1, Page 88
 0 @I95@ INDI
 1 _UID A94D51202A1145CBB98B092326570AD780AB
 1 NAME Ignatz /Ulrich/
@@ -1724,8 +1729,8 @@
 3 _ALTPATH Trampota Media\
 3 FORM bmp
 2 TITL FranzNetuschil1785 Marriage
-1 NOTE "10 - 24 - Franz Netuschil, House Owner in ZÃ¶llnei - 24 years - Josepha, Daughter of Anton Weyrauch, Teacher in Linsdorf - 26 years. Testes Killian Wanschura, Judge in WÃ¶llsdorf and Johann Georg Ulrich."
-1 SOUR Marriages, ZÃ¶llnei, Entry for Franz Netuschil and Josepha Weyrauch, 05/10/1785, Zamrsk 161-8097, Page 31
+1 NOTE "10 - 24 - Franz Netuschil, House Owner in Zöllnei - 24 years - Josepha, Daughter of Anton Weyrauch, Teacher in Linsdorf - 26 years. Testes Killian Wanschura, Judge in Wöllsdorf and Johann Georg Ulrich."
+1 SOUR Marriages, Zöllnei, Entry for Franz Netuschil and Josepha Weyrauch, 05/10/1785, Zamrsk 161-8097, Page 31
 0 @I97@ INDI
 1 _UID F9FB59E2C1C448AC97F0587EA4503BC2F677
 1 NAME Josepha /Weyrauch/
@@ -1774,6 +1779,79 @@
 1 CHAN
 2 DATE 29 MAR 2019
 3 TIME 11:24:51
+0 @I101@ INDI
+1 _UID 37A7B14BAA644205A43FC7167504F4126E86
+1 NAME Jan /Adelt/
+2 SURN Adelt
+2 GIVN Jan
+1 SEX M
+1 FAMS @F66@
+1 CHAN
+2 DATE 30 MAR 2019
+3 TIME 12:11:16
+1 BIRT
+2 DATE (before 1631)
+0 @I102@ INDI
+1 _UID 7FB3895048964C329E9EA04AE728442F0FC6
+1 NAME Eva /Senftner/
+2 SURN Senftner
+2 GIVN Eva
+1 SEX F
+1 FAMS @F67@
+1 CHAN
+2 DATE 30 MAR 2019
+3 TIME 12:10:55
+1 FAMC @F61@
+1 BIRT
+2 DATE (before 1649)
+0 @I103@ INDI
+1 _UID BBC897D2247F4337A34067012A5603AA81A7
+1 NAME Peter /Senftner/
+2 SURN Senftner
+2 GIVN Peter
+1 SEX M
+1 FAMS @F61@
+1 CHAN
+2 DATE 30 MAR 2019
+3 TIME 12:11:05
+1 BIRT
+2 DATE (before 1631)
+0 @I104@ INDI
+1 _UID 7859878DCA364E9F935C35480FCB477DDC19
+1 NAME Anna /.../
+2 SURN ...
+2 GIVN Anna
+1 SEX F
+1 FAMS @F68@
+1 BIRT
+2 DATE (before 1649)
+1 CHAN
+2 DATE 30 MAR 2019
+3 TIME 12:58:08
+0 @I105@ INDI
+1 _UID E191BF17B44840D19B5FD399C3F4F294F84D
+1 NAME Matieg /Stiepanek/
+2 SURN Stiepanek
+2 GIVN Matieg
+1 SEX M
+1 CHAN
+2 DATE 30 MAR 2019
+3 TIME 13:02:59
+1 FAMS @F69@
+1 BIRT
+2 DATE (before 1651)
+0 @I106@ INDI
+1 _UID 3E6B616E48074B0BB6B5964305EF4464FD4A
+1 NAME Anna /.../
+2 SURN ...
+2 GIVN Anna
+1 SEX F
+1 FAMS @F69@
+1 CHAN
+2 DATE 30 MAR 2019
+3 TIME 13:03:07
+1 BIRT
+2 DATE (before 1651)
 0 @F10@ FAM
 1 HUSB @I15@
 1 WIFE @I16@
@@ -1839,7 +1917,7 @@
 1 CHIL @I27@
 1 MARR
 2 DATE 30 NOV 1664
-2 PLAC AdlerdÃ¶rfel
+2 PLAC Adlerdörfel
 0 @F24@ FAM
 1 HUSB @I30@
 1 WIFE @I33@
@@ -1880,7 +1958,7 @@
 1 HUSB @I44@
 1 MARR
 2 DATE 22 OCT 1844
-2 PLAC ZÃ¶llnei
+2 PLAC Zöllnei
 1 CHIL @I58@
 0 @F31@ FAM
 1 HUSB @I45@
@@ -1888,7 +1966,7 @@
 1 CHIL @I44@
 1 MARR
 2 DATE 27 SEP 1791
-2 PLAC ZÃ¶llnei
+2 PLAC Zöllnei
 1 CHIL @I61@
 0 @F34@ FAM
 1 HUSB @I50@
@@ -1896,21 +1974,21 @@
 1 CHIL @I45@
 1 MARR
 2 DATE (05. Oct. 1760)
-2 PLAC ZÃ¶llnei
+2 PLAC Zöllnei
 0 @F35@ FAM
 1 HUSB @I51@
 1 WIFE @I54@
 1 CHIL @I50@
 1 MARR
 2 DATE (18th Nov. 1725)
-2 PLAC ZÃ¶llnei
+2 PLAC Zöllnei
 0 @F36@ FAM
 1 HUSB @I52@
 1 WIFE @I55@
 1 CHIL @I51@
 1 MARR
 2 DATE 11 NOV 1691
-2 PLAC ZÃ¶llnei
+2 PLAC Zöllnei
 0 @F37@ FAM
 1 HUSB @I29@
 1 WIFE @I57@
@@ -1925,7 +2003,7 @@
 1 CHIL @I60@
 1 MARR
 2 DATE 11 JUL 1871
-2 PLAC ZÃ¶llnei
+2 PLAC Zöllnei
 0 @F4@ FAM
 1 HUSB @I8@
 1 CHIL @I4@
@@ -1933,9 +2011,6 @@
 1 HUSB @I62@
 1 WIFE @I63@
 1 CHIL @I59@
-0 @F41@ FAM
-1 HUSB @I64@
-1 CHIL @I52@
 0 @F42@ FAM
 1 HUSB @I65@
 1 CHIL @I55@
@@ -1954,7 +2029,7 @@
 1 CHIL @I62@
 1 MARR
 2 DATE 25 OCT 1819
-2 PLAC ZÃ¶llnei
+2 PLAC Zöllnei
 0 @F48@ FAM
 1 HUSB @I72@
 1 WIFE @I73@
@@ -1993,7 +2068,7 @@
 1 CHIL @I37@
 1 MARR
 2 DATE 29 JAN 1726
-2 PLAC ZÃ¶llnei
+2 PLAC Zöllnei
 0 @F54@ FAM
 1 HUSB @I83@
 1 WIFE @I84@
@@ -2020,7 +2095,7 @@
 1 CHIL @I81@
 1 MARR
 2 DATE 20 JAN 1695
-2 PLAC ZÃ¶llnei
+2 PLAC Zöllnei
 0 @F6@ FAM
 1 HUSB @I9@
 1 WIFE @I10@
@@ -2032,8 +2107,8 @@
 1 HUSB @I93@
 1 CHIL @I92@
 0 @F61@ FAM
-1 HUSB @I94@
-1 CHIL @I91@
+1 HUSB @I103@
+1 CHIL @I102@
 0 @F62@ FAM
 1 HUSB @I95@
 1 WIFE @I99@
@@ -2044,13 +2119,31 @@
 1 CHIL @I71@
 1 MARR
 2 DATE (10. May 1785)
-2 PLAC ZÃ¶llnei
+2 PLAC Zöllnei
 0 @F64@ FAM
 1 HUSB @I98@
 1 CHIL @I97@
 0 @F65@ FAM
 1 HUSB @I100@
 1 CHIL @I99@
+0 @F66@ FAM
+1 HUSB @I101@
+1 CHIL @I94@
+0 @F67@ FAM
+1 HUSB @I94@
+1 WIFE @I102@
+1 CHIL @I91@
+1 MARR
+2 DATE 2 FEB 1666
+2 PLAC Zöllnei
+0 @F68@ FAM
+1 HUSB @I64@
+1 WIFE @I104@
+1 CHIL @I52@
+0 @F69@ FAM
+1 HUSB @I105@
+1 WIFE @I106@
+1 CHIL @I88@
 0 @F7@ FAM
 1 HUSB @I11@
 1 CHIL @I10@
