@@ -4,7 +4,7 @@
 2 NAME Ahnenblatt
 2 CORP Dirk Boettcher
 1 DATE 30 MAR 2019
-2 TIME 16:08:24
+2 TIME 16:17:05
 1 SUBM @SUBM@
 1 FILE Trampota.ged
 1 GEDC
@@ -13,8 +13,8 @@
 1 CHAR ANSI
 2 VERS 1252
 1 _NAVM 1
-2 _NAVI @I15@
-1 _HOME @I15@
+2 _NAVI @I23@
+1 _HOME @I23@
 0 @SUBM@ SUBM
 1 NAME Steffen Häuser
 1 ADDR Südstr. 40
@@ -539,11 +539,17 @@
 1 BIRT
 2 DATE ABT 1669
 1 CHAN
-2 DATE 15 MAR 2019
-3 TIME 14:28:14
+2 DATE 30 MAR 2019
+3 TIME 16:16:39
 1 DEAT
 2 DATE 19 FEB 1742
 2 PLAC Jamnay
+1 OBJE
+2 FILE F:\Stammbaum\ProjektAdams\AnnaHrdina1742_Death.png
+3 FORM png
+2 TITL AnnaHrdina1742 Death
+1 NOTE "Jamnay, 1742, 19th Feb., Anna, wife of Wenceslaus Hrdina, with 73 years, buried."
+1 SOUR Deaths, Jamnay, Entry for Anna Hrdina, 02/19/1742, Zamrsk 64-12, Page 224
 0 @I24@ INDI
 1 _UID 0E10048FA3794681AD3A49B86DFABBAF4D7A
 1 NAME Georg /Prokopecz/
