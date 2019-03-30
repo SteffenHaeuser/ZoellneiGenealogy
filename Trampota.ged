@@ -4,7 +4,7 @@
 2 NAME Ahnenblatt
 2 CORP Dirk Boettcher
 1 DATE 30 MAR 2019
-2 TIME 13:04:47
+2 TIME 16:08:24
 1 SUBM @SUBM@
 1 FILE Trampota.ged
 1 GEDC
@@ -13,8 +13,8 @@
 1 CHAR ANSI
 2 VERS 1252
 1 _NAVM 1
-2 _NAVI @I88@
-1 _HOME @I88@
+2 _NAVI @I15@
+1 _HOME @I15@
 0 @SUBM@ SUBM
 1 NAME Steffen Häuser
 1 ADDR Südstr. 40
@@ -322,14 +322,20 @@
 1 BIRT
 2 DATE ABT 1677
 1 CHAN
-2 DATE 15 MAR 2019
-3 TIME 15:06:18
+2 DATE 30 MAR 2019
+3 TIME 13:50:19
 1 FAMS @F12@
 1 DEAT
 2 DATE 15 AUG 1740
 2 PLAC Jamnay
 1 NOTE She was from Nieder-Hermanitz.
+2 CONT "Jamnay, A 1740 15th August, Rosina, Wife of Johann Prokopecz, 63 Years."
 1 FAMC @F18@
+1 OBJE
+2 FILE F:\Stammbaum\ProjektAdams\RosinaKozaczek1740_Death.png
+3 FORM png
+2 TITL RosinaKozaczek1740 Death
+1 SOUR Deaths, Jamnay, Entry for Rosina Kozaczek, 08/15/1740, Zamrsk 64-12, Page 209
 0 @I15@ INDI
 1 _UID FCB0D9716BB343C988B51C48098617B017E6
 1 NAME Wenceslaus /Prokopecz/
@@ -337,8 +343,8 @@
 2 GIVN Wenceslaus
 1 SEX M
 1 CHAN
-2 DATE 19 MAR 2019
-3 TIME 16:15:22
+2 DATE 30 MAR 2019
+3 TIME 16:08:15
 1 FAMS @F10@
 1 FAMC @F12@
 1 NOTE Note there was a second Wenceslaus Prokopecz, born ca. 1686 (during the gap in the churchbooks). It is not 100% sure to whom the death record 1782 belongs, but I think very likely to the correct Wenceslaus (for the other the given age would be 11
@@ -348,8 +354,11 @@
 2 CONT 
 2 CONT "AD1727. Day of 12th Feb. (Formal description of having announced 3x and the name of the priest).
 2 CONT Wenceslaus son of Johann Prokopetz and Dorothea daughter of Wenceslaus Hrdina (Details about the church) married. Present Testes: Jacob Walenta, Veronica, daughter of Jacob Walenta. Elisabeth, wife of Georg Kregczy. (More details on the church)"
+2 CONT 
+2 CONT "5 - Wenceslaus Prokopecz - Cath. - Jamnay - 94 (House No.) - 92 (Age)"
 1 SOUR Jamnay, Births, Entry for Wenceslaus Prokopecz, 04/23/1697, Zamrsk 64-3, Page 46
 2 CONT Jablona,Marriage, Entry for Wenceslaus Prokopetz and Dorothea Hrdina,  01/15/1805, Zamrsk 64-9, Page 78
+2 CONT Jamnay, Deaths, Entry for Wenceslaus Prokopecz, 01/05/1782, Zamrsk 64-13, Page 148
 1 BIRT
 2 DATE 23 APR 1697
 2 PLAC Jamnay
@@ -362,6 +371,13 @@
 3 _ALTPATH Trampota Media\
 3 FORM bmp
 2 TITL WenceslausProkopecz1697 Birth.jpg
+1 DEAT
+2 DATE 5 JAN 1782
+2 PLAC Jamnay
+1 OBJE
+2 FILE F:\Stammbaum\ProjektAdams\WenceslausProkopecz1782_Death.png
+3 FORM png
+2 TITL WenceslausProkopecz1782 Death
 0 @I16@ INDI
 1 _UID C43E308A56DB4B408AE95FA08B9D0D5776A0
 1 NAME Dorothea Catharina /Hrdina/
@@ -631,8 +647,8 @@
 1 SEX M
 1 OCCU Hereditary Village Judge
 1 CHAN
-2 DATE 19 MAR 2019
-3 TIME 18:05:36
+2 DATE 30 MAR 2019
+3 TIME 13:23:16
 1 BIRT
 2 DATE ABT 1620
 1 DEAT
@@ -643,6 +659,23 @@
 2 FILE D:\Downloads\Ahnenblatt\Trampota Media\Chrudimsko_cele_H_zamceno.pdf
 3 FORM pdf
 2 TITL Chrudimsko cele H zamceno
+1 OBJE
+2 FILE F:\Stammbaum\ProjektAdams\GeorgSchlesinger1717_Death.png
+3 FORM png
+2 TITL GeorgSchlesinger1717 Death
+1 NOTE "Anno Dei 1717 9th April Georg Schlesinger from Worliczek in his 97th year."
+2 CONT 
+2 CONT Worliczeck is the Czech name for Adlerdörfel.
+2 CONT 
+2 CONT Georg Schlesinger is also mentioned together with his family in the Soullist 1651:
+2 CONT 
+2 CONT Georg, Judge, 46 (Written "Schlez")
+2 CONT 	Marianna, Wife, 43
+2 CONT 	Georg, Son, 18
+2 CONT 	Johann, Son, 13
+2 CONT 	Sabina, Daughter, 16
+2 CONT 	
+1 SOUR Deaths, Adlerdörfel, Entry for Georg Schlesinger, 04/09/1717, Zamrsk 64-12, Page 2
 0 @I31@ INDI
 1 _UID 10B4F45AAD1D43CAB2C75938CB85C0DBDECE
 1 NAME Rosina /Rösner/
